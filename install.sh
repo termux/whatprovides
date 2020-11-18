@@ -1,6 +1,7 @@
 #!/bin/bash
-mkdir -p $PREFIX/opt/termux-provides
-cp -r db $PREFIX/opt/termux-provides
-cp termux-provides  $PREFIX/bin
+NAME="whatprovides"
+mkdir -p $PREFIX/opt/${NAME}
+cp -r db $PREFIX/opt/${NAME}
+cp ${NAME} $PREFIX/bin
 
-echo "Installation finished. execute termux-provides -h for help"
+echo "Installation finished. execute $NAME -h for help"
