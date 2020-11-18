@@ -1,0 +1,12 @@
+cabextract: /.
+cabextract: /data
+cabextract: /data/data
+cabextract: /data/data/com.termux
+cabextract: /data/data/com.termux/files
+cabextract: /data/data/com.termux/files/usr
+cabextract: /data/data/com.termux/files/usr/bin
+cabextract: /data/data/com.termux/files/usr/bin/cabextract
+cabextract: /data/data/com.termux/files/usr/share
+cabextract: /data/data/com.termux/files/usr/share/man
+cabextract: /data/data/com.termux/files/usr/share/man/man1
+cabextract: /data/data/com.termux/files/usr/share/man/man1/cabextract.1.gz

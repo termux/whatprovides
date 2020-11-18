@@ -1,0 +1,14 @@
+imgflo: /.
+imgflo: /data
+imgflo: /data/data
+imgflo: /data/data/com.termux
+imgflo: /data/data/com.termux/files
+imgflo: /data/data/com.termux/files/usr
+imgflo: /data/data/com.termux/files/usr/bin
+imgflo: /data/data/com.termux/files/usr/bin/imgflo-graphinfo
+imgflo: /data/data/com.termux/files/usr/bin/imgflo
+imgflo: /data/data/com.termux/files/usr/bin/imgflo-runtime
+imgflo: /data/data/com.termux/files/usr/share
+imgflo: /data/data/com.termux/files/usr/share/doc
+imgflo: /data/data/com.termux/files/usr/share/doc/imgflo
+imgflo: /data/data/com.termux/files/usr/share/doc/imgflo/LICENSE

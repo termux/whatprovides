@@ -1,0 +1,9 @@
+libacl-static: /.
+libacl-static: /data
+libacl-static: /data/data
+libacl-static: /data/data/com.termux
+libacl-static: /data/data/com.termux/files
+libacl-static: /data/data/com.termux/files/usr
+libacl-static: /data/data/com.termux/files/usr/lib
+libacl-static: /data/data/com.termux/files/usr/lib/libacl.a
+libacl-static: /data/data/com.termux/files/usr/lib/libacl.la

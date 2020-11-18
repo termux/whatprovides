@@ -1,0 +1,8 @@
+libx264-static: /.
+libx264-static: /data
+libx264-static: /data/data
+libx264-static: /data/data/com.termux
+libx264-static: /data/data/com.termux/files
+libx264-static: /data/data/com.termux/files/usr
+libx264-static: /data/data/com.termux/files/usr/lib
+libx264-static: /data/data/com.termux/files/usr/lib/libx264.a

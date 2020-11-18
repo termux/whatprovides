@@ -1,0 +1,12 @@
+k2pdfopt: /.
+k2pdfopt: /data
+k2pdfopt: /data/data
+k2pdfopt: /data/data/com.termux
+k2pdfopt: /data/data/com.termux/files
+k2pdfopt: /data/data/com.termux/files/usr
+k2pdfopt: /data/data/com.termux/files/usr/bin
+k2pdfopt: /data/data/com.termux/files/usr/bin/k2pdfopt
+k2pdfopt: /data/data/com.termux/files/usr/share
+k2pdfopt: /data/data/com.termux/files/usr/share/doc
+k2pdfopt: /data/data/com.termux/files/usr/share/doc/k2pdfopt
+k2pdfopt: /data/data/com.termux/files/usr/share/doc/k2pdfopt/LICENSE

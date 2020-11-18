@@ -1,0 +1,8 @@
+dtc-static: /.
+dtc-static: /data
+dtc-static: /data/data
+dtc-static: /data/data/com.termux
+dtc-static: /data/data/com.termux/files
+dtc-static: /data/data/com.termux/files/usr
+dtc-static: /data/data/com.termux/files/usr/lib
+dtc-static: /data/data/com.termux/files/usr/lib/libfdt.a

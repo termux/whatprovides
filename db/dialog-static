@@ -1,0 +1,8 @@
+dialog-static: /.
+dialog-static: /data
+dialog-static: /data/data
+dialog-static: /data/data/com.termux
+dialog-static: /data/data/com.termux/files
+dialog-static: /data/data/com.termux/files/usr
+dialog-static: /data/data/com.termux/files/usr/lib
+dialog-static: /data/data/com.termux/files/usr/lib/libdialog.a

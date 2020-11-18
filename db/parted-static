@@ -1,0 +1,11 @@
+parted-static: /.
+parted-static: /data
+parted-static: /data/data
+parted-static: /data/data/com.termux
+parted-static: /data/data/com.termux/files
+parted-static: /data/data/com.termux/files/usr
+parted-static: /data/data/com.termux/files/usr/lib
+parted-static: /data/data/com.termux/files/usr/lib/libparted-fs-resize.la
+parted-static: /data/data/com.termux/files/usr/lib/libparted.a
+parted-static: /data/data/com.termux/files/usr/lib/libparted-fs-resize.a
+parted-static: /data/data/com.termux/files/usr/lib/libparted.la

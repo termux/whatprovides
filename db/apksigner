@@ -1,0 +1,15 @@
+apksigner: /.
+apksigner: /data
+apksigner: /data/data
+apksigner: /data/data/com.termux
+apksigner: /data/data/com.termux/files
+apksigner: /data/data/com.termux/files/usr
+apksigner: /data/data/com.termux/files/usr/bin
+apksigner: /data/data/com.termux/files/usr/bin/apksigner
+apksigner: /data/data/com.termux/files/usr/share
+apksigner: /data/data/com.termux/files/usr/share/dex
+apksigner: /data/data/com.termux/files/usr/share/dex/apksigner.jar
+apksigner: /data/data/com.termux/files/usr/share/doc
+apksigner: /data/data/com.termux/files/usr/share/doc/apksigner
+apksigner: /data/data/com.termux/files/usr/share/doc/apksigner/LICENSE
+apksigner: /data/data/com.termux/files/usr/share/doc/apksigner/LICENSE.1

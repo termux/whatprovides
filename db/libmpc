@@ -1,0 +1,16 @@
+libmpc: /.
+libmpc: /data
+libmpc: /data/data
+libmpc: /data/data/com.termux
+libmpc: /data/data/com.termux/files
+libmpc: /data/data/com.termux/files/usr
+libmpc: /data/data/com.termux/files/usr/lib
+libmpc: /data/data/com.termux/files/usr/lib/libmpc.so
+libmpc: /data/data/com.termux/files/usr/share
+libmpc: /data/data/com.termux/files/usr/share/doc
+libmpc: /data/data/com.termux/files/usr/share/doc/libmpc
+libmpc: /data/data/com.termux/files/usr/share/info
+libmpc: /data/data/com.termux/files/usr/share/info/mpc.info
+libmpc: /data/data/com.termux/files/usr/include
+libmpc: /data/data/com.termux/files/usr/include/mpc.h
+libmpc: /data/data/com.termux/files/usr/share/doc/libmpc/LICENSE

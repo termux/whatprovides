@@ -1,0 +1,36 @@
+termux-licenses: /.
+termux-licenses: /data
+termux-licenses: /data/data
+termux-licenses: /data/data/com.termux
+termux-licenses: /data/data/com.termux/files
+termux-licenses: /data/data/com.termux/files/usr
+termux-licenses: /data/data/com.termux/files/usr/share
+termux-licenses: /data/data/com.termux/files/usr/share/doc
+termux-licenses: /data/data/com.termux/files/usr/share/doc/termux-licenses
+termux-licenses: /data/data/com.termux/files/usr/share/doc/termux-licenses/LICENSE
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/GPL-2.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/LGPL-2.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/PHP-3.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/LGPL-2.1.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/WTFPL.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/NCSA.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/ISC.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/OpenLDAP.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/Nethack.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/Apache-2.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/Unlicense.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/CeCILL-2.1.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/wxWindows.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/LGPL-3.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/CC0-1.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/MPL-2.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/VIM License.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/AGPL-V3.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/EPL-2.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/BSL-1.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/Artistic-License-2.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/GPL-3.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/EPL-1.0.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/ImageMagick.txt
+termux-licenses: /data/data/com.termux/files/usr/share/LICENSES/Public Domain.txt

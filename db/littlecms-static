@@ -1,0 +1,9 @@
+littlecms-static: /.
+littlecms-static: /data
+littlecms-static: /data/data
+littlecms-static: /data/data/com.termux
+littlecms-static: /data/data/com.termux/files
+littlecms-static: /data/data/com.termux/files/usr
+littlecms-static: /data/data/com.termux/files/usr/lib
+littlecms-static: /data/data/com.termux/files/usr/lib/liblcms2.a
+littlecms-static: /data/data/com.termux/files/usr/lib/liblcms2.la

@@ -1,0 +1,11 @@
+teckit-static: /.
+teckit-static: /data
+teckit-static: /data/data
+teckit-static: /data/data/com.termux
+teckit-static: /data/data/com.termux/files
+teckit-static: /data/data/com.termux/files/usr
+teckit-static: /data/data/com.termux/files/usr/lib
+teckit-static: /data/data/com.termux/files/usr/lib/libTECkit.a
+teckit-static: /data/data/com.termux/files/usr/lib/libTECkit_Compiler.la
+teckit-static: /data/data/com.termux/files/usr/lib/libTECkit.la
+teckit-static: /data/data/com.termux/files/usr/lib/libTECkit_Compiler.a

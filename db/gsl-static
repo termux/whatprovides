@@ -1,0 +1,11 @@
+gsl-static: /.
+gsl-static: /data
+gsl-static: /data/data
+gsl-static: /data/data/com.termux
+gsl-static: /data/data/com.termux/files
+gsl-static: /data/data/com.termux/files/usr
+gsl-static: /data/data/com.termux/files/usr/lib
+gsl-static: /data/data/com.termux/files/usr/lib/libgsl.a
+gsl-static: /data/data/com.termux/files/usr/lib/libgslcblas.a
+gsl-static: /data/data/com.termux/files/usr/lib/libgslcblas.la
+gsl-static: /data/data/com.termux/files/usr/lib/libgsl.la

@@ -1,0 +1,13 @@
+geth-utils: /.
+geth-utils: /data
+geth-utils: /data/data
+geth-utils: /data/data/com.termux
+geth-utils: /data/data/com.termux/files
+geth-utils: /data/data/com.termux/files/usr
+geth-utils: /data/data/com.termux/files/usr/bin
+geth-utils: /data/data/com.termux/files/usr/bin/rlpdump
+geth-utils: /data/data/com.termux/files/usr/bin/bootnode
+geth-utils: /data/data/com.termux/files/usr/bin/abigen
+geth-utils: /data/data/com.termux/files/usr/bin/evm
+geth-utils: /data/data/com.termux/files/usr/bin/ethkey
+geth-utils: /data/data/com.termux/files/usr/bin/puppeth

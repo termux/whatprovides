@@ -1,0 +1,14 @@
+science-repo: /.
+science-repo: /data
+science-repo: /data/data
+science-repo: /data/data/com.termux
+science-repo: /data/data/com.termux/files
+science-repo: /data/data/com.termux/files/usr
+science-repo: /data/data/com.termux/files/usr/etc
+science-repo: /data/data/com.termux/files/usr/etc/apt
+science-repo: /data/data/com.termux/files/usr/etc/apt/sources.list.d
+science-repo: /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list
+science-repo: /data/data/com.termux/files/usr/share
+science-repo: /data/data/com.termux/files/usr/share/doc
+science-repo: /data/data/com.termux/files/usr/share/doc/science-repo
+science-repo: /data/data/com.termux/files/usr/share/doc/science-repo/LICENSE

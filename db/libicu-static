@@ -1,0 +1,13 @@
+libicu-static: /.
+libicu-static: /data
+libicu-static: /data/data
+libicu-static: /data/data/com.termux
+libicu-static: /data/data/com.termux/files
+libicu-static: /data/data/com.termux/files/usr
+libicu-static: /data/data/com.termux/files/usr/lib
+libicu-static: /data/data/com.termux/files/usr/lib/libicui18n.a
+libicu-static: /data/data/com.termux/files/usr/lib/libicutu.a
+libicu-static: /data/data/com.termux/files/usr/lib/libicudata.a
+libicu-static: /data/data/com.termux/files/usr/lib/libicutest.a
+libicu-static: /data/data/com.termux/files/usr/lib/libicuio.a
+libicu-static: /data/data/com.termux/files/usr/lib/libicuuc.a

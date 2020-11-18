@@ -1,0 +1,16 @@
+frotz: /.
+frotz: /data
+frotz: /data/data
+frotz: /data/data/com.termux
+frotz: /data/data/com.termux/files
+frotz: /data/data/com.termux/files/usr
+frotz: /data/data/com.termux/files/usr/share
+frotz: /data/data/com.termux/files/usr/share/doc
+frotz: /data/data/com.termux/files/usr/share/doc/frotz
+frotz: /data/data/com.termux/files/usr/share/man
+frotz: /data/data/com.termux/files/usr/share/man/man6
+frotz: /data/data/com.termux/files/usr/share/man/man6/frotz.6.gz
+frotz: /data/data/com.termux/files/usr/bin
+frotz: /data/data/com.termux/files/usr/bin/zgames
+frotz: /data/data/com.termux/files/usr/bin/frotz
+frotz: /data/data/com.termux/files/usr/share/doc/frotz/LICENSE

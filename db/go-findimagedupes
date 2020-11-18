@@ -1,0 +1,12 @@
+go-findimagedupes: /.
+go-findimagedupes: /data
+go-findimagedupes: /data/data
+go-findimagedupes: /data/data/com.termux
+go-findimagedupes: /data/data/com.termux/files
+go-findimagedupes: /data/data/com.termux/files/usr
+go-findimagedupes: /data/data/com.termux/files/usr/share
+go-findimagedupes: /data/data/com.termux/files/usr/share/doc
+go-findimagedupes: /data/data/com.termux/files/usr/share/doc/go-findimagedupes
+go-findimagedupes: /data/data/com.termux/files/usr/bin
+go-findimagedupes: /data/data/com.termux/files/usr/bin/findimagedupes
+go-findimagedupes: /data/data/com.termux/files/usr/share/doc/go-findimagedupes/LICENSE

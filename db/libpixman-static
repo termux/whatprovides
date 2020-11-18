@@ -1,0 +1,9 @@
+libpixman-static: /.
+libpixman-static: /data
+libpixman-static: /data/data
+libpixman-static: /data/data/com.termux
+libpixman-static: /data/data/com.termux/files
+libpixman-static: /data/data/com.termux/files/usr
+libpixman-static: /data/data/com.termux/files/usr/lib
+libpixman-static: /data/data/com.termux/files/usr/lib/libpixman-1.a
+libpixman-static: /data/data/com.termux/files/usr/lib/libpixman-1.la

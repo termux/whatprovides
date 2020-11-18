@@ -1,0 +1,14 @@
+tinyscheme: /.
+tinyscheme: /data
+tinyscheme: /data/data
+tinyscheme: /data/data/com.termux
+tinyscheme: /data/data/com.termux/files
+tinyscheme: /data/data/com.termux/files/usr
+tinyscheme: /data/data/com.termux/files/usr/share
+tinyscheme: /data/data/com.termux/files/usr/share/tinyscheme
+tinyscheme: /data/data/com.termux/files/usr/share/tinyscheme/init.scm
+tinyscheme: /data/data/com.termux/files/usr/share/doc
+tinyscheme: /data/data/com.termux/files/usr/share/doc/tinyscheme
+tinyscheme: /data/data/com.termux/files/usr/share/doc/tinyscheme/LICENSE
+tinyscheme: /data/data/com.termux/files/usr/bin
+tinyscheme: /data/data/com.termux/files/usr/bin/tinyscheme

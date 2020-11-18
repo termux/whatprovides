@@ -1,0 +1,17 @@
+pass-otp: /.
+pass-otp: /data
+pass-otp: /data/data
+pass-otp: /data/data/com.termux
+pass-otp: /data/data/com.termux/files
+pass-otp: /data/data/com.termux/files/usr
+pass-otp: /data/data/com.termux/files/usr/lib
+pass-otp: /data/data/com.termux/files/usr/lib/password-store
+pass-otp: /data/data/com.termux/files/usr/lib/password-store/extensions
+pass-otp: /data/data/com.termux/files/usr/lib/password-store/extensions/otp.bash
+pass-otp: /data/data/com.termux/files/usr/etc
+pass-otp: /data/data/com.termux/files/usr/etc/bash_completion.d
+pass-otp: /data/data/com.termux/files/usr/etc/bash_completion.d/pass-otp
+pass-otp: /data/data/com.termux/files/usr/share
+pass-otp: /data/data/com.termux/files/usr/share/man
+pass-otp: /data/data/com.termux/files/usr/share/man/man1
+pass-otp: /data/data/com.termux/files/usr/share/man/man1/pass-otp.1.gz

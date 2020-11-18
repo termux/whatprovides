@@ -1,0 +1,13 @@
+pinentry: /.
+pinentry: /data
+pinentry: /data/data
+pinentry: /data/data/com.termux
+pinentry: /data/data/com.termux/files
+pinentry: /data/data/com.termux/files/usr
+pinentry: /data/data/com.termux/files/usr/bin
+pinentry: /data/data/com.termux/files/usr/bin/pinentry-curses
+pinentry: /data/data/com.termux/files/usr/share
+pinentry: /data/data/com.termux/files/usr/share/doc
+pinentry: /data/data/com.termux/files/usr/share/doc/pinentry
+pinentry: /data/data/com.termux/files/usr/bin/pinentry
+pinentry: /data/data/com.termux/files/usr/share/doc/pinentry/LICENSE

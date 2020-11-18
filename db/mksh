@@ -1,0 +1,15 @@
+mksh: /.
+mksh: /data
+mksh: /data/data
+mksh: /data/data/com.termux
+mksh: /data/data/com.termux/files
+mksh: /data/data/com.termux/files/usr
+mksh: /data/data/com.termux/files/usr/bin
+mksh: /data/data/com.termux/files/usr/bin/mksh
+mksh: /data/data/com.termux/files/usr/share
+mksh: /data/data/com.termux/files/usr/share/doc
+mksh: /data/data/com.termux/files/usr/share/doc/mksh
+mksh: /data/data/com.termux/files/usr/share/man
+mksh: /data/data/com.termux/files/usr/share/man/man1
+mksh: /data/data/com.termux/files/usr/share/man/man1/mksh.1.gz
+mksh: /data/data/com.termux/files/usr/share/doc/mksh/LICENSE

@@ -1,0 +1,17 @@
+cpio: /.
+cpio: /data
+cpio: /data/data
+cpio: /data/data/com.termux
+cpio: /data/data/com.termux/files
+cpio: /data/data/com.termux/files/usr
+cpio: /data/data/com.termux/files/usr/bin
+cpio: /data/data/com.termux/files/usr/bin/cpio
+cpio: /data/data/com.termux/files/usr/share
+cpio: /data/data/com.termux/files/usr/share/man
+cpio: /data/data/com.termux/files/usr/share/man/man1
+cpio: /data/data/com.termux/files/usr/share/man/man1/cpio.1.gz
+cpio: /data/data/com.termux/files/usr/share/info
+cpio: /data/data/com.termux/files/usr/share/info/cpio.info
+cpio: /data/data/com.termux/files/usr/share/doc
+cpio: /data/data/com.termux/files/usr/share/doc/cpio
+cpio: /data/data/com.termux/files/usr/share/doc/cpio/LICENSE

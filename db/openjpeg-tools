@@ -1,0 +1,10 @@
+openjpeg-tools: /.
+openjpeg-tools: /data
+openjpeg-tools: /data/data
+openjpeg-tools: /data/data/com.termux
+openjpeg-tools: /data/data/com.termux/files
+openjpeg-tools: /data/data/com.termux/files/usr
+openjpeg-tools: /data/data/com.termux/files/usr/bin
+openjpeg-tools: /data/data/com.termux/files/usr/bin/opj_decompress
+openjpeg-tools: /data/data/com.termux/files/usr/bin/opj_compress
+openjpeg-tools: /data/data/com.termux/files/usr/bin/opj_dump

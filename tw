@@ -1,0 +1,40 @@
+#!/bin/bash
+SCRIPTNAME=termuxprovides
+TWSRC="/data/data/com.termux/files/home/kcubeterm/termuxexpo/db"
+package () {
+	cat "$TWSRC/$@"
+	
+}
+
+finder () {
+	abs=`realpath $@`
+	grep -rwh $abs $TWSRC
+}
+
+show_usage () {
+	echo "Usage: $SCRIPTNAME [options] filepath"
+	echo "$SCRIPTNAME is a whatprovides of termux."
+	echo " "
+	echo "-p [Package] list files of package."
+	echo "-h show this help"
+}
+
+while getopts :hp:f: option; do 
+	case $option in	
+		p) 
+			pkg=$OPTARG
+			package $pkg
+			;;
+		h) show_usage;;
+		?) show_usage
+			exit ;;
+	esac
+done
+
+if [[ $@ == "" ]]
+then 
+	show_usage
+elif [[ ! $@ =~ ^\-.+ ]]
+then
+  finder $@
+fi

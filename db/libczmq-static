@@ -1,0 +1,9 @@
+libczmq-static: /.
+libczmq-static: /data
+libczmq-static: /data/data
+libczmq-static: /data/data/com.termux
+libczmq-static: /data/data/com.termux/files
+libczmq-static: /data/data/com.termux/files/usr
+libczmq-static: /data/data/com.termux/files/usr/lib
+libczmq-static: /data/data/com.termux/files/usr/lib/libczmq.la
+libczmq-static: /data/data/com.termux/files/usr/lib/libczmq.a

@@ -1,0 +1,9 @@
+recutils-static: /.
+recutils-static: /data
+recutils-static: /data/data
+recutils-static: /data/data/com.termux
+recutils-static: /data/data/com.termux/files
+recutils-static: /data/data/com.termux/files/usr
+recutils-static: /data/data/com.termux/files/usr/lib
+recutils-static: /data/data/com.termux/files/usr/lib/librec.a
+recutils-static: /data/data/com.termux/files/usr/lib/librec.la

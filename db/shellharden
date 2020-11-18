@@ -1,0 +1,12 @@
+shellharden: /.
+shellharden: /data
+shellharden: /data/data
+shellharden: /data/data/com.termux
+shellharden: /data/data/com.termux/files
+shellharden: /data/data/com.termux/files/usr
+shellharden: /data/data/com.termux/files/usr/share
+shellharden: /data/data/com.termux/files/usr/share/doc
+shellharden: /data/data/com.termux/files/usr/share/doc/shellharden
+shellharden: /data/data/com.termux/files/usr/bin
+shellharden: /data/data/com.termux/files/usr/bin/shellharden
+shellharden: /data/data/com.termux/files/usr/share/doc/shellharden/LICENSE

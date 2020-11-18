@@ -1,0 +1,14 @@
+libxml2-utils: /.
+libxml2-utils: /data
+libxml2-utils: /data/data
+libxml2-utils: /data/data/com.termux
+libxml2-utils: /data/data/com.termux/files
+libxml2-utils: /data/data/com.termux/files/usr
+libxml2-utils: /data/data/com.termux/files/usr/bin
+libxml2-utils: /data/data/com.termux/files/usr/bin/xmlcatalog
+libxml2-utils: /data/data/com.termux/files/usr/bin/xmllint
+libxml2-utils: /data/data/com.termux/files/usr/share
+libxml2-utils: /data/data/com.termux/files/usr/share/man
+libxml2-utils: /data/data/com.termux/files/usr/share/man/man1
+libxml2-utils: /data/data/com.termux/files/usr/share/man/man1/xmlcatalog.1.gz
+libxml2-utils: /data/data/com.termux/files/usr/share/man/man1/xmllint.1.gz

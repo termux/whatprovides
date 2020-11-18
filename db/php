@@ -1,0 +1,5 @@
+php: /data
+php: /data/data
+php: /data/data/com.termux
+php: /data/data/com.termux/files
+php: /data/data/com.termux/files/usr

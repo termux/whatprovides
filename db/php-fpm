@@ -1,0 +1,9 @@
+php-fpm: /data
+php-fpm: /data/data
+php-fpm: /data/data/com.termux
+php-fpm: /data/data/com.termux/files
+php-fpm: /data/data/com.termux/files/usr
+php-fpm: /data/data/com.termux/files/usr/etc
+php-fpm: /data/data/com.termux/files/usr/etc/php-fpm.conf
+php-fpm: /data/data/com.termux/files/usr/etc/php-fpm.d
+php-fpm: /data/data/com.termux/files/usr/etc/php-fpm.d/www.conf

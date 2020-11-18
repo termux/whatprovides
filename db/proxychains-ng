@@ -1,0 +1,16 @@
+proxychains-ng: /.
+proxychains-ng: /data
+proxychains-ng: /data/data
+proxychains-ng: /data/data/com.termux
+proxychains-ng: /data/data/com.termux/files
+proxychains-ng: /data/data/com.termux/files/usr
+proxychains-ng: /data/data/com.termux/files/usr/lib
+proxychains-ng: /data/data/com.termux/files/usr/lib/libproxychains4.so
+proxychains-ng: /data/data/com.termux/files/usr/bin
+proxychains-ng: /data/data/com.termux/files/usr/bin/proxychains4
+proxychains-ng: /data/data/com.termux/files/usr/share
+proxychains-ng: /data/data/com.termux/files/usr/share/doc
+proxychains-ng: /data/data/com.termux/files/usr/share/doc/proxychains-ng
+proxychains-ng: /data/data/com.termux/files/usr/etc
+proxychains-ng: /data/data/com.termux/files/usr/etc/proxychains.conf
+proxychains-ng: /data/data/com.termux/files/usr/share/doc/proxychains-ng/LICENSE

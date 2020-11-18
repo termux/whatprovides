@@ -1,0 +1,12 @@
+curl: /.
+curl: /data
+curl: /data/data
+curl: /data/data/com.termux
+curl: /data/data/com.termux/files
+curl: /data/data/com.termux/files/usr
+curl: /data/data/com.termux/files/usr/share
+curl: /data/data/com.termux/files/usr/share/man
+curl: /data/data/com.termux/files/usr/share/man/man1
+curl: /data/data/com.termux/files/usr/share/man/man1/curl.1.gz
+curl: /data/data/com.termux/files/usr/bin
+curl: /data/data/com.termux/files/usr/bin/curl

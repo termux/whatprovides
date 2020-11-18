@@ -1,0 +1,8 @@
+yasm-static: /.
+yasm-static: /data
+yasm-static: /data/data
+yasm-static: /data/data/com.termux
+yasm-static: /data/data/com.termux/files
+yasm-static: /data/data/com.termux/files/usr
+yasm-static: /data/data/com.termux/files/usr/lib
+yasm-static: /data/data/com.termux/files/usr/lib/libyasm.a

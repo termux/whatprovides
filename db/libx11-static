@@ -1,0 +1,11 @@
+libx11-static: /.
+libx11-static: /data
+libx11-static: /data/data
+libx11-static: /data/data/com.termux
+libx11-static: /data/data/com.termux/files
+libx11-static: /data/data/com.termux/files/usr
+libx11-static: /data/data/com.termux/files/usr/lib
+libx11-static: /data/data/com.termux/files/usr/lib/libX11-xcb.a
+libx11-static: /data/data/com.termux/files/usr/lib/libX11.la
+libx11-static: /data/data/com.termux/files/usr/lib/libX11.a
+libx11-static: /data/data/com.termux/files/usr/lib/libX11-xcb.la

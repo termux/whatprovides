@@ -1,0 +1,12 @@
+termux-create-package: /.
+termux-create-package: /data
+termux-create-package: /data/data
+termux-create-package: /data/data/com.termux
+termux-create-package: /data/data/com.termux/files
+termux-create-package: /data/data/com.termux/files/usr
+termux-create-package: /data/data/com.termux/files/usr/bin
+termux-create-package: /data/data/com.termux/files/usr/bin/termux-create-package
+termux-create-package: /data/data/com.termux/files/usr/share
+termux-create-package: /data/data/com.termux/files/usr/share/doc
+termux-create-package: /data/data/com.termux/files/usr/share/doc/termux-create-package
+termux-create-package: /data/data/com.termux/files/usr/share/doc/termux-create-package/LICENSE

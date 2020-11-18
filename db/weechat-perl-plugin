@@ -1,0 +1,10 @@
+weechat-perl-plugin: /.
+weechat-perl-plugin: /data
+weechat-perl-plugin: /data/data
+weechat-perl-plugin: /data/data/com.termux
+weechat-perl-plugin: /data/data/com.termux/files
+weechat-perl-plugin: /data/data/com.termux/files/usr
+weechat-perl-plugin: /data/data/com.termux/files/usr/lib
+weechat-perl-plugin: /data/data/com.termux/files/usr/lib/weechat
+weechat-perl-plugin: /data/data/com.termux/files/usr/lib/weechat/plugins
+weechat-perl-plugin: /data/data/com.termux/files/usr/lib/weechat/plugins/perl.so

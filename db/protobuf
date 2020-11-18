@@ -1,0 +1,12 @@
+protobuf: /.
+protobuf: /data
+protobuf: /data/data
+protobuf: /data/data/com.termux
+protobuf: /data/data/com.termux/files
+protobuf: /data/data/com.termux/files/usr
+protobuf: /data/data/com.termux/files/usr/bin
+protobuf: /data/data/com.termux/files/usr/bin/protoc-3.13.0.0
+protobuf: /data/data/com.termux/files/usr/lib
+protobuf: /data/data/com.termux/files/usr/lib/libprotoc.so
+protobuf: /data/data/com.termux/files/usr/lib/libprotobuf-lite.so
+protobuf: /data/data/com.termux/files/usr/bin/protoc

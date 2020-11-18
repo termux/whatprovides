@@ -1,0 +1,11 @@
+leptonica-static: /.
+leptonica-static: /data
+leptonica-static: /data/data
+leptonica-static: /data/data/com.termux
+leptonica-static: /data/data/com.termux/files
+leptonica-static: /data/data/com.termux/files/usr
+leptonica-static: /data/data/com.termux/files/usr/lib
+leptonica-static: /data/data/com.termux/files/usr/lib/liblept.a
+leptonica-static: /data/data/com.termux/files/usr/lib/liblept.la
+leptonica-static: /data/data/com.termux/files/usr/lib/libleptonica.a
+leptonica-static: /data/data/com.termux/files/usr/lib/libleptonica.la

@@ -1,0 +1,12 @@
+starship: /.
+starship: /data
+starship: /data/data
+starship: /data/data/com.termux
+starship: /data/data/com.termux/files
+starship: /data/data/com.termux/files/usr
+starship: /data/data/com.termux/files/usr/bin
+starship: /data/data/com.termux/files/usr/bin/starship
+starship: /data/data/com.termux/files/usr/share
+starship: /data/data/com.termux/files/usr/share/doc
+starship: /data/data/com.termux/files/usr/share/doc/starship
+starship: /data/data/com.termux/files/usr/share/doc/starship/LICENSE

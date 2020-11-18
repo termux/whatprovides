@@ -1,0 +1,12 @@
+wcalc: /.
+wcalc: /data
+wcalc: /data/data
+wcalc: /data/data/com.termux
+wcalc: /data/data/com.termux/files
+wcalc: /data/data/com.termux/files/usr
+wcalc: /data/data/com.termux/files/usr/share
+wcalc: /data/data/com.termux/files/usr/share/man
+wcalc: /data/data/com.termux/files/usr/share/man/man1
+wcalc: /data/data/com.termux/files/usr/share/man/man1/wcalc.1.gz
+wcalc: /data/data/com.termux/files/usr/bin
+wcalc: /data/data/com.termux/files/usr/bin/wcalc

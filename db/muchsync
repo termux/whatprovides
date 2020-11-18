@@ -1,0 +1,15 @@
+muchsync: /.
+muchsync: /data
+muchsync: /data/data
+muchsync: /data/data/com.termux
+muchsync: /data/data/com.termux/files
+muchsync: /data/data/com.termux/files/usr
+muchsync: /data/data/com.termux/files/usr/share
+muchsync: /data/data/com.termux/files/usr/share/man
+muchsync: /data/data/com.termux/files/usr/share/man/man1
+muchsync: /data/data/com.termux/files/usr/share/man/man1/muchsync.1.gz
+muchsync: /data/data/com.termux/files/usr/share/doc
+muchsync: /data/data/com.termux/files/usr/share/doc/muchsync
+muchsync: /data/data/com.termux/files/usr/bin
+muchsync: /data/data/com.termux/files/usr/bin/muchsync
+muchsync: /data/data/com.termux/files/usr/share/doc/muchsync/LICENSE

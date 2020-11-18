@@ -1,0 +1,12 @@
+geth: /.
+geth: /data
+geth: /data/data
+geth: /data/data/com.termux
+geth: /data/data/com.termux/files
+geth: /data/data/com.termux/files/usr
+geth: /data/data/com.termux/files/usr/bin
+geth: /data/data/com.termux/files/usr/bin/geth
+geth: /data/data/com.termux/files/usr/share
+geth: /data/data/com.termux/files/usr/share/doc
+geth: /data/data/com.termux/files/usr/share/doc/geth
+geth: /data/data/com.termux/files/usr/share/doc/geth/LICENSE

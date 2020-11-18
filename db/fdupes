@@ -1,0 +1,17 @@
+fdupes: /.
+fdupes: /data
+fdupes: /data/data
+fdupes: /data/data/com.termux
+fdupes: /data/data/com.termux/files
+fdupes: /data/data/com.termux/files/usr
+fdupes: /data/data/com.termux/files/usr/share
+fdupes: /data/data/com.termux/files/usr/share/man
+fdupes: /data/data/com.termux/files/usr/share/man/man7
+fdupes: /data/data/com.termux/files/usr/share/man/man7/fdupes-help.7.gz
+fdupes: /data/data/com.termux/files/usr/share/man/man1
+fdupes: /data/data/com.termux/files/usr/share/man/man1/fdupes.1.gz
+fdupes: /data/data/com.termux/files/usr/share/doc
+fdupes: /data/data/com.termux/files/usr/share/doc/fdupes
+fdupes: /data/data/com.termux/files/usr/share/doc/fdupes/LICENSE
+fdupes: /data/data/com.termux/files/usr/bin
+fdupes: /data/data/com.termux/files/usr/bin/fdupes

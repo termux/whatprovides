@@ -1,0 +1,16 @@
+termux-keyring: /.
+termux-keyring: /data
+termux-keyring: /data/data
+termux-keyring: /data/data/com.termux
+termux-keyring: /data/data/com.termux/files
+termux-keyring: /data/data/com.termux/files/usr
+termux-keyring: /data/data/com.termux/files/usr/etc
+termux-keyring: /data/data/com.termux/files/usr/etc/apt
+termux-keyring: /data/data/com.termux/files/usr/etc/apt/trusted.gpg.d
+termux-keyring: /data/data/com.termux/files/usr/etc/apt/trusted.gpg.d/xeffyr.gpg
+termux-keyring: /data/data/com.termux/files/usr/etc/apt/trusted.gpg.d/grimler.gpg
+termux-keyring: /data/data/com.termux/files/usr/etc/apt/trusted.gpg.d/termux-autobuilds.gpg
+termux-keyring: /data/data/com.termux/files/usr/share
+termux-keyring: /data/data/com.termux/files/usr/share/doc
+termux-keyring: /data/data/com.termux/files/usr/share/doc/termux-keyring
+termux-keyring: /data/data/com.termux/files/usr/share/doc/termux-keyring/LICENSE

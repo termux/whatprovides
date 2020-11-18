@@ -1,0 +1,10 @@
+brotli-static: /.
+brotli-static: /data
+brotli-static: /data/data
+brotli-static: /data/data/com.termux
+brotli-static: /data/data/com.termux/files
+brotli-static: /data/data/com.termux/files/usr
+brotli-static: /data/data/com.termux/files/usr/lib
+brotli-static: /data/data/com.termux/files/usr/lib/libbrotlicommon-static.a
+brotli-static: /data/data/com.termux/files/usr/lib/libbrotlienc-static.a
+brotli-static: /data/data/com.termux/files/usr/lib/libbrotlidec-static.a

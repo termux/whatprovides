@@ -1,0 +1,14 @@
+root-repo: /.
+root-repo: /data
+root-repo: /data/data
+root-repo: /data/data/com.termux
+root-repo: /data/data/com.termux/files
+root-repo: /data/data/com.termux/files/usr
+root-repo: /data/data/com.termux/files/usr/etc
+root-repo: /data/data/com.termux/files/usr/etc/apt
+root-repo: /data/data/com.termux/files/usr/etc/apt/sources.list.d
+root-repo: /data/data/com.termux/files/usr/etc/apt/sources.list.d/root.list
+root-repo: /data/data/com.termux/files/usr/share
+root-repo: /data/data/com.termux/files/usr/share/doc
+root-repo: /data/data/com.termux/files/usr/share/doc/root-repo
+root-repo: /data/data/com.termux/files/usr/share/doc/root-repo/LICENSE

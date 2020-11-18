@@ -1,0 +1,12 @@
+atomicparsley: /.
+atomicparsley: /data
+atomicparsley: /data/data
+atomicparsley: /data/data/com.termux
+atomicparsley: /data/data/com.termux/files
+atomicparsley: /data/data/com.termux/files/usr
+atomicparsley: /data/data/com.termux/files/usr/bin
+atomicparsley: /data/data/com.termux/files/usr/bin/AtomicParsley
+atomicparsley: /data/data/com.termux/files/usr/share
+atomicparsley: /data/data/com.termux/files/usr/share/doc
+atomicparsley: /data/data/com.termux/files/usr/share/doc/atomicparsley
+atomicparsley: /data/data/com.termux/files/usr/share/doc/atomicparsley/LICENSE

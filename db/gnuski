@@ -1,0 +1,12 @@
+gnuski: /.
+gnuski: /data
+gnuski: /data/data
+gnuski: /data/data/com.termux
+gnuski: /data/data/com.termux/files
+gnuski: /data/data/com.termux/files/usr
+gnuski: /data/data/com.termux/files/usr/share
+gnuski: /data/data/com.termux/files/usr/share/doc
+gnuski: /data/data/com.termux/files/usr/share/doc/gnuski
+gnuski: /data/data/com.termux/files/usr/bin
+gnuski: /data/data/com.termux/files/usr/bin/gnuski
+gnuski: /data/data/com.termux/files/usr/share/doc/gnuski/LICENSE

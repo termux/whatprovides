@@ -1,0 +1,9 @@
+libgd-static: /.
+libgd-static: /data
+libgd-static: /data/data
+libgd-static: /data/data/com.termux
+libgd-static: /data/data/com.termux/files
+libgd-static: /data/data/com.termux/files/usr
+libgd-static: /data/data/com.termux/files/usr/lib
+libgd-static: /data/data/com.termux/files/usr/lib/libgd.la
+libgd-static: /data/data/com.termux/files/usr/lib/libgd.a

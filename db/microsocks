@@ -1,0 +1,12 @@
+microsocks: /.
+microsocks: /data
+microsocks: /data/data
+microsocks: /data/data/com.termux
+microsocks: /data/data/com.termux/files
+microsocks: /data/data/com.termux/files/usr
+microsocks: /data/data/com.termux/files/usr/bin
+microsocks: /data/data/com.termux/files/usr/bin/microsocks
+microsocks: /data/data/com.termux/files/usr/share
+microsocks: /data/data/com.termux/files/usr/share/doc
+microsocks: /data/data/com.termux/files/usr/share/doc/microsocks
+microsocks: /data/data/com.termux/files/usr/share/doc/microsocks/LICENSE

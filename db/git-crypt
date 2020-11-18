@@ -1,0 +1,12 @@
+git-crypt: /.
+git-crypt: /data
+git-crypt: /data/data
+git-crypt: /data/data/com.termux
+git-crypt: /data/data/com.termux/files
+git-crypt: /data/data/com.termux/files/usr
+git-crypt: /data/data/com.termux/files/usr/bin
+git-crypt: /data/data/com.termux/files/usr/bin/git-crypt
+git-crypt: /data/data/com.termux/files/usr/share
+git-crypt: /data/data/com.termux/files/usr/share/doc
+git-crypt: /data/data/com.termux/files/usr/share/doc/git-crypt
+git-crypt: /data/data/com.termux/files/usr/share/doc/git-crypt/LICENSE

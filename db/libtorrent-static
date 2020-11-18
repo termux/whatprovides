@@ -1,0 +1,9 @@
+libtorrent-static: /.
+libtorrent-static: /data
+libtorrent-static: /data/data
+libtorrent-static: /data/data/com.termux
+libtorrent-static: /data/data/com.termux/files
+libtorrent-static: /data/data/com.termux/files/usr
+libtorrent-static: /data/data/com.termux/files/usr/lib
+libtorrent-static: /data/data/com.termux/files/usr/lib/libtorrent.a
+libtorrent-static: /data/data/com.termux/files/usr/lib/libtorrent.la

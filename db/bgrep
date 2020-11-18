@@ -1,0 +1,13 @@
+bgrep: /.
+bgrep: /data
+bgrep: /data/data
+bgrep: /data/data/com.termux
+bgrep: /data/data/com.termux/files
+bgrep: /data/data/com.termux/files/usr
+bgrep: /data/data/com.termux/files/usr/share
+bgrep: /data/data/com.termux/files/usr/share/doc
+bgrep: /data/data/com.termux/files/usr/share/doc/bgrep
+bgrep: /data/data/com.termux/files/usr/share/doc/bgrep/README.md
+bgrep: /data/data/com.termux/files/usr/bin
+bgrep: /data/data/com.termux/files/usr/bin/bgrep
+bgrep: /data/data/com.termux/files/usr/share/doc/bgrep/LICENSE

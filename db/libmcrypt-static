@@ -1,0 +1,9 @@
+libmcrypt-static: /.
+libmcrypt-static: /data
+libmcrypt-static: /data/data
+libmcrypt-static: /data/data/com.termux
+libmcrypt-static: /data/data/com.termux/files
+libmcrypt-static: /data/data/com.termux/files/usr
+libmcrypt-static: /data/data/com.termux/files/usr/lib
+libmcrypt-static: /data/data/com.termux/files/usr/lib/libmcrypt.a
+libmcrypt-static: /data/data/com.termux/files/usr/lib/libmcrypt.la

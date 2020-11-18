@@ -1,0 +1,9 @@
+libarchive-static: /.
+libarchive-static: /data
+libarchive-static: /data/data
+libarchive-static: /data/data/com.termux
+libarchive-static: /data/data/com.termux/files
+libarchive-static: /data/data/com.termux/files/usr
+libarchive-static: /data/data/com.termux/files/usr/lib
+libarchive-static: /data/data/com.termux/files/usr/lib/libarchive.la
+libarchive-static: /data/data/com.termux/files/usr/lib/libarchive.a

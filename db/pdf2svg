@@ -1,0 +1,12 @@
+pdf2svg: /.
+pdf2svg: /data
+pdf2svg: /data/data
+pdf2svg: /data/data/com.termux
+pdf2svg: /data/data/com.termux/files
+pdf2svg: /data/data/com.termux/files/usr
+pdf2svg: /data/data/com.termux/files/usr/bin
+pdf2svg: /data/data/com.termux/files/usr/bin/pdf2svg
+pdf2svg: /data/data/com.termux/files/usr/share
+pdf2svg: /data/data/com.termux/files/usr/share/doc
+pdf2svg: /data/data/com.termux/files/usr/share/doc/pdf2svg
+pdf2svg: /data/data/com.termux/files/usr/share/doc/pdf2svg/LICENSE

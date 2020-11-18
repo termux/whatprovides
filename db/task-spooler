@@ -1,0 +1,15 @@
+task-spooler: /.
+task-spooler: /data
+task-spooler: /data/data
+task-spooler: /data/data/com.termux
+task-spooler: /data/data/com.termux/files
+task-spooler: /data/data/com.termux/files/usr
+task-spooler: /data/data/com.termux/files/usr/share
+task-spooler: /data/data/com.termux/files/usr/share/man
+task-spooler: /data/data/com.termux/files/usr/share/man/man1
+task-spooler: /data/data/com.termux/files/usr/share/man/man1/ts.1.gz
+task-spooler: /data/data/com.termux/files/usr/share/doc
+task-spooler: /data/data/com.termux/files/usr/share/doc/task-spooler
+task-spooler: /data/data/com.termux/files/usr/bin
+task-spooler: /data/data/com.termux/files/usr/bin/ts
+task-spooler: /data/data/com.termux/files/usr/share/doc/task-spooler/LICENSE

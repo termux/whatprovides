@@ -1,0 +1,17 @@
+dnsmap: /.
+dnsmap: /data
+dnsmap: /data/data
+dnsmap: /data/data/com.termux
+dnsmap: /data/data/com.termux/files
+dnsmap: /data/data/com.termux/files/usr
+dnsmap: /data/data/com.termux/files/usr/share
+dnsmap: /data/data/com.termux/files/usr/share/man
+dnsmap: /data/data/com.termux/files/usr/share/man/man1
+dnsmap: /data/data/com.termux/files/usr/share/man/man1/dnsmap-bulk.1.gz
+dnsmap: /data/data/com.termux/files/usr/share/man/man1/dnsmap.1.gz
+dnsmap: /data/data/com.termux/files/usr/share/doc
+dnsmap: /data/data/com.termux/files/usr/share/doc/dnsmap
+dnsmap: /data/data/com.termux/files/usr/bin
+dnsmap: /data/data/com.termux/files/usr/bin/dnsmap-bulk
+dnsmap: /data/data/com.termux/files/usr/bin/dnsmap
+dnsmap: /data/data/com.termux/files/usr/share/doc/dnsmap/LICENSE

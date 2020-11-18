@@ -1,0 +1,16 @@
+cscope: /.
+cscope: /data
+cscope: /data/data
+cscope: /data/data/com.termux
+cscope: /data/data/com.termux/files
+cscope: /data/data/com.termux/files/usr
+cscope: /data/data/com.termux/files/usr/bin
+cscope: /data/data/com.termux/files/usr/bin/cscope
+cscope: /data/data/com.termux/files/usr/bin/ocs
+cscope: /data/data/com.termux/files/usr/share
+cscope: /data/data/com.termux/files/usr/share/man
+cscope: /data/data/com.termux/files/usr/share/man/man1
+cscope: /data/data/com.termux/files/usr/share/man/man1/cscope.1.gz
+cscope: /data/data/com.termux/files/usr/share/doc
+cscope: /data/data/com.termux/files/usr/share/doc/cscope
+cscope: /data/data/com.termux/files/usr/share/doc/cscope/LICENSE

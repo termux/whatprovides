@@ -1,0 +1,8 @@
+xvidcore-static: /.
+xvidcore-static: /data
+xvidcore-static: /data/data
+xvidcore-static: /data/data/com.termux
+xvidcore-static: /data/data/com.termux/files
+xvidcore-static: /data/data/com.termux/files/usr
+xvidcore-static: /data/data/com.termux/files/usr/lib
+xvidcore-static: /data/data/com.termux/files/usr/lib/libxvidcore.a

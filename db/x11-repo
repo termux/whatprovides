@@ -1,0 +1,14 @@
+x11-repo: /.
+x11-repo: /data
+x11-repo: /data/data
+x11-repo: /data/data/com.termux
+x11-repo: /data/data/com.termux/files
+x11-repo: /data/data/com.termux/files/usr
+x11-repo: /data/data/com.termux/files/usr/etc
+x11-repo: /data/data/com.termux/files/usr/etc/apt
+x11-repo: /data/data/com.termux/files/usr/etc/apt/sources.list.d
+x11-repo: /data/data/com.termux/files/usr/etc/apt/sources.list.d/x11.list
+x11-repo: /data/data/com.termux/files/usr/share
+x11-repo: /data/data/com.termux/files/usr/share/doc
+x11-repo: /data/data/com.termux/files/usr/share/doc/x11-repo
+x11-repo: /data/data/com.termux/files/usr/share/doc/x11-repo/LICENSE

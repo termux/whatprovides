@@ -1,0 +1,9 @@
+libzen-static: /.
+libzen-static: /data
+libzen-static: /data/data
+libzen-static: /data/data/com.termux
+libzen-static: /data/data/com.termux/files
+libzen-static: /data/data/com.termux/files/usr
+libzen-static: /data/data/com.termux/files/usr/lib
+libzen-static: /data/data/com.termux/files/usr/lib/libzen.a
+libzen-static: /data/data/com.termux/files/usr/lib/libzen.la

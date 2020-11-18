@@ -1,0 +1,15 @@
+translate-shell: /.
+translate-shell: /data
+translate-shell: /data/data
+translate-shell: /data/data/com.termux
+translate-shell: /data/data/com.termux/files
+translate-shell: /data/data/com.termux/files/usr
+translate-shell: /data/data/com.termux/files/usr/bin
+translate-shell: /data/data/com.termux/files/usr/bin/trans
+translate-shell: /data/data/com.termux/files/usr/share
+translate-shell: /data/data/com.termux/files/usr/share/doc
+translate-shell: /data/data/com.termux/files/usr/share/doc/translate-shell
+translate-shell: /data/data/com.termux/files/usr/share/man
+translate-shell: /data/data/com.termux/files/usr/share/man/man1
+translate-shell: /data/data/com.termux/files/usr/share/man/man1/trans.1.gz
+translate-shell: /data/data/com.termux/files/usr/share/doc/translate-shell/LICENSE

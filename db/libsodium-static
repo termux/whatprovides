@@ -1,0 +1,9 @@
+libsodium-static: /.
+libsodium-static: /data
+libsodium-static: /data/data
+libsodium-static: /data/data/com.termux
+libsodium-static: /data/data/com.termux/files
+libsodium-static: /data/data/com.termux/files/usr
+libsodium-static: /data/data/com.termux/files/usr/lib
+libsodium-static: /data/data/com.termux/files/usr/lib/libsodium.la
+libsodium-static: /data/data/com.termux/files/usr/lib/libsodium.a

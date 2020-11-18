@@ -1,0 +1,16 @@
+libjasper-utils: /.
+libjasper-utils: /data
+libjasper-utils: /data/data
+libjasper-utils: /data/data/com.termux
+libjasper-utils: /data/data/com.termux/files
+libjasper-utils: /data/data/com.termux/files/usr
+libjasper-utils: /data/data/com.termux/files/usr/share
+libjasper-utils: /data/data/com.termux/files/usr/share/man
+libjasper-utils: /data/data/com.termux/files/usr/share/man/man1
+libjasper-utils: /data/data/com.termux/files/usr/share/man/man1/imginfo.1.gz
+libjasper-utils: /data/data/com.termux/files/usr/share/man/man1/imgcmp.1.gz
+libjasper-utils: /data/data/com.termux/files/usr/share/man/man1/jasper.1.gz
+libjasper-utils: /data/data/com.termux/files/usr/bin
+libjasper-utils: /data/data/com.termux/files/usr/bin/imginfo
+libjasper-utils: /data/data/com.termux/files/usr/bin/imgcmp
+libjasper-utils: /data/data/com.termux/files/usr/bin/jasper

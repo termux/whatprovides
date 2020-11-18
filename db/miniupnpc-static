@@ -1,0 +1,8 @@
+miniupnpc-static: /.
+miniupnpc-static: /data
+miniupnpc-static: /data/data
+miniupnpc-static: /data/data/com.termux
+miniupnpc-static: /data/data/com.termux/files
+miniupnpc-static: /data/data/com.termux/files/usr
+miniupnpc-static: /data/data/com.termux/files/usr/lib
+miniupnpc-static: /data/data/com.termux/files/usr/lib/libminiupnpc.a

@@ -1,0 +1,9 @@
+libsecp256k1-static: /.
+libsecp256k1-static: /data
+libsecp256k1-static: /data/data
+libsecp256k1-static: /data/data/com.termux
+libsecp256k1-static: /data/data/com.termux/files
+libsecp256k1-static: /data/data/com.termux/files/usr
+libsecp256k1-static: /data/data/com.termux/files/usr/lib
+libsecp256k1-static: /data/data/com.termux/files/usr/lib/libsecp256k1.a
+libsecp256k1-static: /data/data/com.termux/files/usr/lib/libsecp256k1.la

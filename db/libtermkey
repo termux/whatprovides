@@ -1,0 +1,16 @@
+libtermkey: /.
+libtermkey: /data
+libtermkey: /data/data
+libtermkey: /data/data/com.termux
+libtermkey: /data/data/com.termux/files
+libtermkey: /data/data/com.termux/files/usr
+libtermkey: /data/data/com.termux/files/usr/include
+libtermkey: /data/data/com.termux/files/usr/include/termkey.h
+libtermkey: /data/data/com.termux/files/usr/lib
+libtermkey: /data/data/com.termux/files/usr/lib/libtermkey.so
+libtermkey: /data/data/com.termux/files/usr/lib/pkgconfig
+libtermkey: /data/data/com.termux/files/usr/lib/pkgconfig/termkey.pc
+libtermkey: /data/data/com.termux/files/usr/share
+libtermkey: /data/data/com.termux/files/usr/share/doc
+libtermkey: /data/data/com.termux/files/usr/share/doc/libtermkey
+libtermkey: /data/data/com.termux/files/usr/share/doc/libtermkey/LICENSE

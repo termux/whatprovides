@@ -1,0 +1,15 @@
+unifdef: /.
+unifdef: /data
+unifdef: /data/data
+unifdef: /data/data/com.termux
+unifdef: /data/data/com.termux/files
+unifdef: /data/data/com.termux/files/usr
+unifdef: /data/data/com.termux/files/usr/share
+unifdef: /data/data/com.termux/files/usr/share/man
+unifdef: /data/data/com.termux/files/usr/share/man/man1
+unifdef: /data/data/com.termux/files/usr/share/man/man1/unifdef.1.gz
+unifdef: /data/data/com.termux/files/usr/share/doc
+unifdef: /data/data/com.termux/files/usr/share/doc/unifdef
+unifdef: /data/data/com.termux/files/usr/bin
+unifdef: /data/data/com.termux/files/usr/bin/unifdef
+unifdef: /data/data/com.termux/files/usr/share/doc/unifdef/LICENSE

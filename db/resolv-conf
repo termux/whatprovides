@@ -1,0 +1,13 @@
+resolv-conf: /.
+resolv-conf: /data
+resolv-conf: /data/data
+resolv-conf: /data/data/com.termux
+resolv-conf: /data/data/com.termux/files
+resolv-conf: /data/data/com.termux/files/usr
+resolv-conf: /data/data/com.termux/files/usr/share
+resolv-conf: /data/data/com.termux/files/usr/share/doc
+resolv-conf: /data/data/com.termux/files/usr/share/doc/resolv-conf
+resolv-conf: /data/data/com.termux/files/usr/etc
+resolv-conf: /data/data/com.termux/files/usr/etc/hosts
+resolv-conf: /data/data/com.termux/files/usr/etc/resolv.conf
+resolv-conf: /data/data/com.termux/files/usr/share/doc/resolv-conf/LICENSE

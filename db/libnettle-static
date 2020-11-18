@@ -1,0 +1,9 @@
+libnettle-static: /.
+libnettle-static: /data
+libnettle-static: /data/data
+libnettle-static: /data/data/com.termux
+libnettle-static: /data/data/com.termux/files
+libnettle-static: /data/data/com.termux/files/usr
+libnettle-static: /data/data/com.termux/files/usr/lib
+libnettle-static: /data/data/com.termux/files/usr/lib/libhogweed.a
+libnettle-static: /data/data/com.termux/files/usr/lib/libnettle.a

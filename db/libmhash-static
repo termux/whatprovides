@@ -1,0 +1,9 @@
+libmhash-static: /.
+libmhash-static: /data
+libmhash-static: /data/data
+libmhash-static: /data/data/com.termux
+libmhash-static: /data/data/com.termux/files
+libmhash-static: /data/data/com.termux/files/usr
+libmhash-static: /data/data/com.termux/files/usr/lib
+libmhash-static: /data/data/com.termux/files/usr/lib/libmhash.la
+libmhash-static: /data/data/com.termux/files/usr/lib/libmhash.a

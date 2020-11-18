@@ -1,0 +1,12 @@
+fastmod: /.
+fastmod: /data
+fastmod: /data/data
+fastmod: /data/data/com.termux
+fastmod: /data/data/com.termux/files
+fastmod: /data/data/com.termux/files/usr
+fastmod: /data/data/com.termux/files/usr/share
+fastmod: /data/data/com.termux/files/usr/share/doc
+fastmod: /data/data/com.termux/files/usr/share/doc/fastmod
+fastmod: /data/data/com.termux/files/usr/bin
+fastmod: /data/data/com.termux/files/usr/bin/fastmod
+fastmod: /data/data/com.termux/files/usr/share/doc/fastmod/LICENSE

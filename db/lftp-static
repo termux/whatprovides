@@ -1,0 +1,11 @@
+lftp-static: /.
+lftp-static: /data
+lftp-static: /data/data
+lftp-static: /data/data/com.termux
+lftp-static: /data/data/com.termux/files
+lftp-static: /data/data/com.termux/files/usr
+lftp-static: /data/data/com.termux/files/usr/lib
+lftp-static: /data/data/com.termux/files/usr/lib/liblftp-jobs.a
+lftp-static: /data/data/com.termux/files/usr/lib/liblftp-tasks.a
+lftp-static: /data/data/com.termux/files/usr/lib/liblftp-jobs.la
+lftp-static: /data/data/com.termux/files/usr/lib/liblftp-tasks.la

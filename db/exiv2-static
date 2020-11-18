@@ -1,0 +1,8 @@
+exiv2-static: /.
+exiv2-static: /data
+exiv2-static: /data/data
+exiv2-static: /data/data/com.termux
+exiv2-static: /data/data/com.termux/files
+exiv2-static: /data/data/com.termux/files/usr
+exiv2-static: /data/data/com.termux/files/usr/lib
+exiv2-static: /data/data/com.termux/files/usr/lib/libexiv2-xmp.a

@@ -1,0 +1,17 @@
+plzip: /.
+plzip: /data
+plzip: /data/data
+plzip: /data/data/com.termux
+plzip: /data/data/com.termux/files
+plzip: /data/data/com.termux/files/usr
+plzip: /data/data/com.termux/files/usr/share
+plzip: /data/data/com.termux/files/usr/share/doc
+plzip: /data/data/com.termux/files/usr/share/doc/plzip
+plzip: /data/data/com.termux/files/usr/share/info
+plzip: /data/data/com.termux/files/usr/share/info/plzip.info
+plzip: /data/data/com.termux/files/usr/share/man
+plzip: /data/data/com.termux/files/usr/share/man/man1
+plzip: /data/data/com.termux/files/usr/share/man/man1/plzip.1.gz
+plzip: /data/data/com.termux/files/usr/bin
+plzip: /data/data/com.termux/files/usr/bin/plzip
+plzip: /data/data/com.termux/files/usr/share/doc/plzip/LICENSE

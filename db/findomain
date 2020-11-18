@@ -1,0 +1,12 @@
+findomain: /.
+findomain: /data
+findomain: /data/data
+findomain: /data/data/com.termux
+findomain: /data/data/com.termux/files
+findomain: /data/data/com.termux/files/usr
+findomain: /data/data/com.termux/files/usr/bin
+findomain: /data/data/com.termux/files/usr/bin/findomain
+findomain: /data/data/com.termux/files/usr/share
+findomain: /data/data/com.termux/files/usr/share/doc
+findomain: /data/data/com.termux/files/usr/share/doc/findomain
+findomain: /data/data/com.termux/files/usr/share/doc/findomain/LICENSE

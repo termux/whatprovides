@@ -1,0 +1,15 @@
+rclone: /.
+rclone: /data
+rclone: /data/data
+rclone: /data/data/com.termux
+rclone: /data/data/com.termux/files
+rclone: /data/data/com.termux/files/usr
+rclone: /data/data/com.termux/files/usr/bin
+rclone: /data/data/com.termux/files/usr/bin/rclone
+rclone: /data/data/com.termux/files/usr/share
+rclone: /data/data/com.termux/files/usr/share/doc
+rclone: /data/data/com.termux/files/usr/share/doc/rclone
+rclone: /data/data/com.termux/files/usr/share/doc/rclone/LICENSE
+rclone: /data/data/com.termux/files/usr/share/man
+rclone: /data/data/com.termux/files/usr/share/man/man1
+rclone: /data/data/com.termux/files/usr/share/man/man1/rclone.1.gz

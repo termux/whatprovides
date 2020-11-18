@@ -1,0 +1,8 @@
+rtmpdump-static: /.
+rtmpdump-static: /data
+rtmpdump-static: /data/data
+rtmpdump-static: /data/data/com.termux
+rtmpdump-static: /data/data/com.termux/files
+rtmpdump-static: /data/data/com.termux/files/usr
+rtmpdump-static: /data/data/com.termux/files/usr/lib
+rtmpdump-static: /data/data/com.termux/files/usr/lib/librtmp.a

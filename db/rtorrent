@@ -1,0 +1,12 @@
+rtorrent: /.
+rtorrent: /data
+rtorrent: /data/data
+rtorrent: /data/data/com.termux
+rtorrent: /data/data/com.termux/files
+rtorrent: /data/data/com.termux/files/usr
+rtorrent: /data/data/com.termux/files/usr/share
+rtorrent: /data/data/com.termux/files/usr/share/doc
+rtorrent: /data/data/com.termux/files/usr/share/doc/rtorrent
+rtorrent: /data/data/com.termux/files/usr/bin
+rtorrent: /data/data/com.termux/files/usr/bin/rtorrent
+rtorrent: /data/data/com.termux/files/usr/share/doc/rtorrent/LICENSE

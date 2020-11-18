@@ -1,0 +1,11 @@
+gdbm-static: /.
+gdbm-static: /data
+gdbm-static: /data/data
+gdbm-static: /data/data/com.termux
+gdbm-static: /data/data/com.termux/files
+gdbm-static: /data/data/com.termux/files/usr
+gdbm-static: /data/data/com.termux/files/usr/lib
+gdbm-static: /data/data/com.termux/files/usr/lib/libgdbm_compat.la
+gdbm-static: /data/data/com.termux/files/usr/lib/libgdbm_compat.a
+gdbm-static: /data/data/com.termux/files/usr/lib/libgdbm.la
+gdbm-static: /data/data/com.termux/files/usr/lib/libgdbm.a

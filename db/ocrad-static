@@ -1,0 +1,8 @@
+ocrad-static: /.
+ocrad-static: /data
+ocrad-static: /data/data
+ocrad-static: /data/data/com.termux
+ocrad-static: /data/data/com.termux/files
+ocrad-static: /data/data/com.termux/files/usr
+ocrad-static: /data/data/com.termux/files/usr/lib
+ocrad-static: /data/data/com.termux/files/usr/lib/libocrad.a

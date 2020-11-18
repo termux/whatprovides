@@ -1,0 +1,15 @@
+streamripper: /.
+streamripper: /data
+streamripper: /data/data
+streamripper: /data/data/com.termux
+streamripper: /data/data/com.termux/files
+streamripper: /data/data/com.termux/files/usr
+streamripper: /data/data/com.termux/files/usr/bin
+streamripper: /data/data/com.termux/files/usr/bin/streamripper
+streamripper: /data/data/com.termux/files/usr/share
+streamripper: /data/data/com.termux/files/usr/share/doc
+streamripper: /data/data/com.termux/files/usr/share/doc/streamripper
+streamripper: /data/data/com.termux/files/usr/share/man
+streamripper: /data/data/com.termux/files/usr/share/man/man1
+streamripper: /data/data/com.termux/files/usr/share/man/man1/streamripper.1.gz
+streamripper: /data/data/com.termux/files/usr/share/doc/streamripper/LICENSE

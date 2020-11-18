@@ -1,0 +1,12 @@
+gifski: /.
+gifski: /data
+gifski: /data/data
+gifski: /data/data/com.termux
+gifski: /data/data/com.termux/files
+gifski: /data/data/com.termux/files/usr
+gifski: /data/data/com.termux/files/usr/bin
+gifski: /data/data/com.termux/files/usr/bin/gifski
+gifski: /data/data/com.termux/files/usr/share
+gifski: /data/data/com.termux/files/usr/share/doc
+gifski: /data/data/com.termux/files/usr/share/doc/gifski
+gifski: /data/data/com.termux/files/usr/share/doc/gifski/LICENSE

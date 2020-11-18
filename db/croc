@@ -1,0 +1,12 @@
+croc: /.
+croc: /data
+croc: /data/data
+croc: /data/data/com.termux
+croc: /data/data/com.termux/files
+croc: /data/data/com.termux/files/usr
+croc: /data/data/com.termux/files/usr/bin
+croc: /data/data/com.termux/files/usr/bin/croc
+croc: /data/data/com.termux/files/usr/share
+croc: /data/data/com.termux/files/usr/share/doc
+croc: /data/data/com.termux/files/usr/share/doc/croc
+croc: /data/data/com.termux/files/usr/share/doc/croc/LICENSE

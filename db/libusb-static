@@ -1,0 +1,9 @@
+libusb-static: /.
+libusb-static: /data
+libusb-static: /data/data
+libusb-static: /data/data/com.termux
+libusb-static: /data/data/com.termux/files
+libusb-static: /data/data/com.termux/files/usr
+libusb-static: /data/data/com.termux/files/usr/lib
+libusb-static: /data/data/com.termux/files/usr/lib/libusb-1.0.a
+libusb-static: /data/data/com.termux/files/usr/lib/libusb-1.0.la

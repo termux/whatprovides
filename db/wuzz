@@ -1,0 +1,12 @@
+wuzz: /.
+wuzz: /data
+wuzz: /data/data
+wuzz: /data/data/com.termux
+wuzz: /data/data/com.termux/files
+wuzz: /data/data/com.termux/files/usr
+wuzz: /data/data/com.termux/files/usr/share
+wuzz: /data/data/com.termux/files/usr/share/doc
+wuzz: /data/data/com.termux/files/usr/share/doc/wuzz
+wuzz: /data/data/com.termux/files/usr/bin
+wuzz: /data/data/com.termux/files/usr/bin/wuzz
+wuzz: /data/data/com.termux/files/usr/share/doc/wuzz/LICENSE

@@ -1,0 +1,9 @@
+apr-static: /.
+apr-static: /data
+apr-static: /data/data
+apr-static: /data/data/com.termux
+apr-static: /data/data/com.termux/files
+apr-static: /data/data/com.termux/files/usr
+apr-static: /data/data/com.termux/files/usr/lib
+apr-static: /data/data/com.termux/files/usr/lib/libapr-1.a
+apr-static: /data/data/com.termux/files/usr/lib/libapr-1.la

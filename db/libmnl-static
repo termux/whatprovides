@@ -1,0 +1,9 @@
+libmnl-static: /.
+libmnl-static: /data
+libmnl-static: /data/data
+libmnl-static: /data/data/com.termux
+libmnl-static: /data/data/com.termux/files
+libmnl-static: /data/data/com.termux/files/usr
+libmnl-static: /data/data/com.termux/files/usr/lib
+libmnl-static: /data/data/com.termux/files/usr/lib/libmnl.la
+libmnl-static: /data/data/com.termux/files/usr/lib/libmnl.a

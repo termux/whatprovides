@@ -1,0 +1,9 @@
+libgpg-error-static: /.
+libgpg-error-static: /data
+libgpg-error-static: /data/data
+libgpg-error-static: /data/data/com.termux
+libgpg-error-static: /data/data/com.termux/files
+libgpg-error-static: /data/data/com.termux/files/usr
+libgpg-error-static: /data/data/com.termux/files/usr/lib
+libgpg-error-static: /data/data/com.termux/files/usr/lib/libgpg-error.la
+libgpg-error-static: /data/data/com.termux/files/usr/lib/libgpg-error.a

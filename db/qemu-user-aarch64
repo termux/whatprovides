@@ -1,0 +1,8 @@
+qemu-user-aarch64: /.
+qemu-user-aarch64: /data
+qemu-user-aarch64: /data/data
+qemu-user-aarch64: /data/data/com.termux
+qemu-user-aarch64: /data/data/com.termux/files
+qemu-user-aarch64: /data/data/com.termux/files/usr
+qemu-user-aarch64: /data/data/com.termux/files/usr/bin
+qemu-user-aarch64: /data/data/com.termux/files/usr/bin/qemu-aarch64

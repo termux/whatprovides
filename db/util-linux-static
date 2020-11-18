@@ -1,0 +1,11 @@
+util-linux-static: /.
+util-linux-static: /data
+util-linux-static: /data/data
+util-linux-static: /data/data/com.termux
+util-linux-static: /data/data/com.termux/files
+util-linux-static: /data/data/com.termux/files/usr
+util-linux-static: /data/data/com.termux/files/usr/lib
+util-linux-static: /data/data/com.termux/files/usr/lib/libsmartcols.la
+util-linux-static: /data/data/com.termux/files/usr/lib/libsmartcols.a
+util-linux-static: /data/data/com.termux/files/usr/lib/libblkid.la
+util-linux-static: /data/data/com.termux/files/usr/lib/libblkid.a

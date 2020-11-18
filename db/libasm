@@ -1,0 +1,13 @@
+libasm: /.
+libasm: /data
+libasm: /data/data
+libasm: /data/data/com.termux
+libasm: /data/data/com.termux/files
+libasm: /data/data/com.termux/files/usr
+libasm: /data/data/com.termux/files/usr/lib
+libasm: /data/data/com.termux/files/usr/lib/libasm-0.182.so
+libasm: /data/data/com.termux/files/usr/include
+libasm: /data/data/com.termux/files/usr/include/elfutils
+libasm: /data/data/com.termux/files/usr/include/elfutils/libasm.h
+libasm: /data/data/com.termux/files/usr/lib/libasm.so.1
+libasm: /data/data/com.termux/files/usr/lib/libasm.so

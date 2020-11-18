@@ -1,0 +1,14 @@
+libandroid-spawn: /.
+libandroid-spawn: /data
+libandroid-spawn: /data/data
+libandroid-spawn: /data/data/com.termux
+libandroid-spawn: /data/data/com.termux/files
+libandroid-spawn: /data/data/com.termux/files/usr
+libandroid-spawn: /data/data/com.termux/files/usr/include
+libandroid-spawn: /data/data/com.termux/files/usr/include/spawn.h
+libandroid-spawn: /data/data/com.termux/files/usr/lib
+libandroid-spawn: /data/data/com.termux/files/usr/lib/libandroid-spawn.so
+libandroid-spawn: /data/data/com.termux/files/usr/share
+libandroid-spawn: /data/data/com.termux/files/usr/share/doc
+libandroid-spawn: /data/data/com.termux/files/usr/share/doc/libandroid-spawn
+libandroid-spawn: /data/data/com.termux/files/usr/share/doc/libandroid-spawn/LICENSE

@@ -1,0 +1,8 @@
+liblz4-static: /.
+liblz4-static: /data
+liblz4-static: /data/data
+liblz4-static: /data/data/com.termux
+liblz4-static: /data/data/com.termux/files
+liblz4-static: /data/data/com.termux/files/usr
+liblz4-static: /data/data/com.termux/files/usr/lib
+liblz4-static: /data/data/com.termux/files/usr/lib/liblz4.a

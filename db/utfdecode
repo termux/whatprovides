@@ -1,0 +1,15 @@
+utfdecode: /.
+utfdecode: /data
+utfdecode: /data/data
+utfdecode: /data/data/com.termux
+utfdecode: /data/data/com.termux/files
+utfdecode: /data/data/com.termux/files/usr
+utfdecode: /data/data/com.termux/files/usr/bin
+utfdecode: /data/data/com.termux/files/usr/bin/utfdecode
+utfdecode: /data/data/com.termux/files/usr/share
+utfdecode: /data/data/com.termux/files/usr/share/doc
+utfdecode: /data/data/com.termux/files/usr/share/doc/utfdecode
+utfdecode: /data/data/com.termux/files/usr/share/man
+utfdecode: /data/data/com.termux/files/usr/share/man/man1
+utfdecode: /data/data/com.termux/files/usr/share/man/man1/utfdecode.1.gz
+utfdecode: /data/data/com.termux/files/usr/share/doc/utfdecode/LICENSE

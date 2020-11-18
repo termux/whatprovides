@@ -1,0 +1,15 @@
+duc: /.
+duc: /data
+duc: /data/data
+duc: /data/data/com.termux
+duc: /data/data/com.termux/files
+duc: /data/data/com.termux/files/usr
+duc: /data/data/com.termux/files/usr/bin
+duc: /data/data/com.termux/files/usr/bin/duc
+duc: /data/data/com.termux/files/usr/share
+duc: /data/data/com.termux/files/usr/share/doc
+duc: /data/data/com.termux/files/usr/share/doc/duc
+duc: /data/data/com.termux/files/usr/share/man
+duc: /data/data/com.termux/files/usr/share/man/man1
+duc: /data/data/com.termux/files/usr/share/man/man1/duc.1.gz
+duc: /data/data/com.termux/files/usr/share/doc/duc/LICENSE

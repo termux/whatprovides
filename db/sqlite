@@ -1,0 +1,12 @@
+sqlite: /.
+sqlite: /data
+sqlite: /data/data
+sqlite: /data/data/com.termux
+sqlite: /data/data/com.termux/files
+sqlite: /data/data/com.termux/files/usr
+sqlite: /data/data/com.termux/files/usr/share
+sqlite: /data/data/com.termux/files/usr/share/man
+sqlite: /data/data/com.termux/files/usr/share/man/man1
+sqlite: /data/data/com.termux/files/usr/share/man/man1/sqlite3.1.gz
+sqlite: /data/data/com.termux/files/usr/bin
+sqlite: /data/data/com.termux/files/usr/bin/sqlite3

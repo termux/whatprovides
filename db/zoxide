@@ -1,0 +1,12 @@
+zoxide: /.
+zoxide: /data
+zoxide: /data/data
+zoxide: /data/data/com.termux
+zoxide: /data/data/com.termux/files
+zoxide: /data/data/com.termux/files/usr
+zoxide: /data/data/com.termux/files/usr/bin
+zoxide: /data/data/com.termux/files/usr/bin/zoxide
+zoxide: /data/data/com.termux/files/usr/share
+zoxide: /data/data/com.termux/files/usr/share/doc
+zoxide: /data/data/com.termux/files/usr/share/doc/zoxide
+zoxide: /data/data/com.termux/files/usr/share/doc/zoxide/LICENSE

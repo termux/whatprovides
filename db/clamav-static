@@ -1,0 +1,17 @@
+clamav-static: /.
+clamav-static: /data
+clamav-static: /data/data
+clamav-static: /data/data/com.termux
+clamav-static: /data/data/com.termux/files
+clamav-static: /data/data/com.termux/files/usr
+clamav-static: /data/data/com.termux/files/usr/lib
+clamav-static: /data/data/com.termux/files/usr/lib/libclamunrar_iface.la
+clamav-static: /data/data/com.termux/files/usr/lib/libclamav.la
+clamav-static: /data/data/com.termux/files/usr/lib/libclamunrar.la
+clamav-static: /data/data/com.termux/files/usr/lib/libclamunrar_iface.a
+clamav-static: /data/data/com.termux/files/usr/lib/libclamunrar.a
+clamav-static: /data/data/com.termux/files/usr/lib/libclammspack.la
+clamav-static: /data/data/com.termux/files/usr/lib/libclamav.a
+clamav-static: /data/data/com.termux/files/usr/lib/libfreshclam.a
+clamav-static: /data/data/com.termux/files/usr/lib/libfreshclam.la
+clamav-static: /data/data/com.termux/files/usr/lib/libclammspack.a

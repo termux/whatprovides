@@ -1,0 +1,9 @@
+libmediainfo-static: /.
+libmediainfo-static: /data
+libmediainfo-static: /data/data
+libmediainfo-static: /data/data/com.termux
+libmediainfo-static: /data/data/com.termux/files
+libmediainfo-static: /data/data/com.termux/files/usr
+libmediainfo-static: /data/data/com.termux/files/usr/lib
+libmediainfo-static: /data/data/com.termux/files/usr/lib/libmediainfo.a
+libmediainfo-static: /data/data/com.termux/files/usr/lib/libmediainfo.la

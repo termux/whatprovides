@@ -1,0 +1,16 @@
+pianobar: /.
+pianobar: /data
+pianobar: /data/data
+pianobar: /data/data/com.termux
+pianobar: /data/data/com.termux/files
+pianobar: /data/data/com.termux/files/usr
+pianobar: /data/data/com.termux/files/usr/bin
+pianobar: /data/data/com.termux/files/usr/bin/pianobar
+pianobar: /data/data/com.termux/files/usr/bin/pianoctl
+pianobar: /data/data/com.termux/files/usr/share
+pianobar: /data/data/com.termux/files/usr/share/man
+pianobar: /data/data/com.termux/files/usr/share/man/man1
+pianobar: /data/data/com.termux/files/usr/share/man/man1/pianobar.1.gz
+pianobar: /data/data/com.termux/files/usr/share/doc
+pianobar: /data/data/com.termux/files/usr/share/doc/pianobar
+pianobar: /data/data/com.termux/files/usr/share/doc/pianobar/LICENSE

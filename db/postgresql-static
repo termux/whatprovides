@@ -1,0 +1,14 @@
+postgresql-static: /.
+postgresql-static: /data
+postgresql-static: /data/data
+postgresql-static: /data/data/com.termux
+postgresql-static: /data/data/com.termux/files
+postgresql-static: /data/data/com.termux/files/usr
+postgresql-static: /data/data/com.termux/files/usr/lib
+postgresql-static: /data/data/com.termux/files/usr/lib/libpgcommon.a
+postgresql-static: /data/data/com.termux/files/usr/lib/libpgtypes.a
+postgresql-static: /data/data/com.termux/files/usr/lib/libpq.a
+postgresql-static: /data/data/com.termux/files/usr/lib/libpgfeutils.a
+postgresql-static: /data/data/com.termux/files/usr/lib/libpgcommon_shlib.a
+postgresql-static: /data/data/com.termux/files/usr/lib/libpgport.a
+postgresql-static: /data/data/com.termux/files/usr/lib/libpgport_shlib.a

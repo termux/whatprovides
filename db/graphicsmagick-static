@@ -1,0 +1,13 @@
+graphicsmagick-static: /.
+graphicsmagick-static: /data
+graphicsmagick-static: /data/data
+graphicsmagick-static: /data/data/com.termux
+graphicsmagick-static: /data/data/com.termux/files
+graphicsmagick-static: /data/data/com.termux/files/usr
+graphicsmagick-static: /data/data/com.termux/files/usr/lib
+graphicsmagick-static: /data/data/com.termux/files/usr/lib/libGraphicsMagickWand.la
+graphicsmagick-static: /data/data/com.termux/files/usr/lib/libGraphicsMagick++.a
+graphicsmagick-static: /data/data/com.termux/files/usr/lib/libGraphicsMagick++.la
+graphicsmagick-static: /data/data/com.termux/files/usr/lib/libGraphicsMagickWand.a
+graphicsmagick-static: /data/data/com.termux/files/usr/lib/libGraphicsMagick.a
+graphicsmagick-static: /data/data/com.termux/files/usr/lib/libGraphicsMagick.la

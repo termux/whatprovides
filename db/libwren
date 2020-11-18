@@ -1,0 +1,15 @@
+libwren: /.
+libwren: /data
+libwren: /data/data
+libwren: /data/data/com.termux
+libwren: /data/data/com.termux/files
+libwren: /data/data/com.termux/files/usr
+libwren: /data/data/com.termux/files/usr/share
+libwren: /data/data/com.termux/files/usr/share/doc
+libwren: /data/data/com.termux/files/usr/share/doc/libwren
+libwren: /data/data/com.termux/files/usr/share/doc/libwren/LICENSE
+libwren: /data/data/com.termux/files/usr/lib
+libwren: /data/data/com.termux/files/usr/lib/libwren.a
+libwren: /data/data/com.termux/files/usr/lib/libwren.so
+libwren: /data/data/com.termux/files/usr/include
+libwren: /data/data/com.termux/files/usr/include/wren.h

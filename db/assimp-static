@@ -1,0 +1,8 @@
+assimp-static: /.
+assimp-static: /data
+assimp-static: /data/data
+assimp-static: /data/data/com.termux
+assimp-static: /data/data/com.termux/files
+assimp-static: /data/data/com.termux/files/usr
+assimp-static: /data/data/com.termux/files/usr/lib
+assimp-static: /data/data/com.termux/files/usr/lib/libIrrXML.a

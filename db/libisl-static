@@ -1,0 +1,9 @@
+libisl-static: /.
+libisl-static: /data
+libisl-static: /data/data
+libisl-static: /data/data/com.termux
+libisl-static: /data/data/com.termux/files
+libisl-static: /data/data/com.termux/files/usr
+libisl-static: /data/data/com.termux/files/usr/lib
+libisl-static: /data/data/com.termux/files/usr/lib/libisl.la
+libisl-static: /data/data/com.termux/files/usr/lib/libisl.a

@@ -1,0 +1,11 @@
+libpng-static: /.
+libpng-static: /data
+libpng-static: /data/data
+libpng-static: /data/data/com.termux
+libpng-static: /data/data/com.termux/files
+libpng-static: /data/data/com.termux/files/usr
+libpng-static: /data/data/com.termux/files/usr/lib
+libpng-static: /data/data/com.termux/files/usr/lib/libpng16.la
+libpng-static: /data/data/com.termux/files/usr/lib/libpng16.a
+libpng-static: /data/data/com.termux/files/usr/lib/libpng.a
+libpng-static: /data/data/com.termux/files/usr/lib/libpng.la

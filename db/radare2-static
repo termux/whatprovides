@@ -1,0 +1,8 @@
+radare2-static: /.
+radare2-static: /data
+radare2-static: /data/data
+radare2-static: /data/data/com.termux
+radare2-static: /data/data/com.termux/files
+radare2-static: /data/data/com.termux/files/usr
+radare2-static: /data/data/com.termux/files/usr/lib
+radare2-static: /data/data/com.termux/files/usr/lib/libr_shlr.a

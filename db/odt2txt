@@ -1,0 +1,15 @@
+odt2txt: /.
+odt2txt: /data
+odt2txt: /data/data
+odt2txt: /data/data/com.termux
+odt2txt: /data/data/com.termux/files
+odt2txt: /data/data/com.termux/files/usr
+odt2txt: /data/data/com.termux/files/usr/share
+odt2txt: /data/data/com.termux/files/usr/share/doc
+odt2txt: /data/data/com.termux/files/usr/share/doc/odt2txt
+odt2txt: /data/data/com.termux/files/usr/share/man
+odt2txt: /data/data/com.termux/files/usr/share/man/man1
+odt2txt: /data/data/com.termux/files/usr/share/man/man1/odt2txt.1.gz
+odt2txt: /data/data/com.termux/files/usr/bin
+odt2txt: /data/data/com.termux/files/usr/bin/odt2txt
+odt2txt: /data/data/com.termux/files/usr/share/doc/odt2txt/LICENSE

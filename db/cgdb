@@ -1,0 +1,16 @@
+cgdb: /.
+cgdb: /data
+cgdb: /data/data
+cgdb: /data/data/com.termux
+cgdb: /data/data/com.termux/files
+cgdb: /data/data/com.termux/files/usr
+cgdb: /data/data/com.termux/files/usr/share
+cgdb: /data/data/com.termux/files/usr/share/doc
+cgdb: /data/data/com.termux/files/usr/share/doc/cgdb
+cgdb: /data/data/com.termux/files/usr/share/info
+cgdb: /data/data/com.termux/files/usr/share/info/cgdb.info
+cgdb: /data/data/com.termux/files/usr/share/cgdb
+cgdb: /data/data/com.termux/files/usr/share/cgdb/cgdb.txt
+cgdb: /data/data/com.termux/files/usr/bin
+cgdb: /data/data/com.termux/files/usr/bin/cgdb
+cgdb: /data/data/com.termux/files/usr/share/doc/cgdb/LICENSE

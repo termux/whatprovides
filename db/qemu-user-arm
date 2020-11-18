@@ -1,0 +1,8 @@
+qemu-user-arm: /.
+qemu-user-arm: /data
+qemu-user-arm: /data/data
+qemu-user-arm: /data/data/com.termux
+qemu-user-arm: /data/data/com.termux/files
+qemu-user-arm: /data/data/com.termux/files/usr
+qemu-user-arm: /data/data/com.termux/files/usr/bin
+qemu-user-arm: /data/data/com.termux/files/usr/bin/qemu-arm

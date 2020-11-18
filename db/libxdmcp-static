@@ -1,0 +1,9 @@
+libxdmcp-static: /.
+libxdmcp-static: /data
+libxdmcp-static: /data/data
+libxdmcp-static: /data/data/com.termux
+libxdmcp-static: /data/data/com.termux/files
+libxdmcp-static: /data/data/com.termux/files/usr
+libxdmcp-static: /data/data/com.termux/files/usr/lib
+libxdmcp-static: /data/data/com.termux/files/usr/lib/libXdmcp.a
+libxdmcp-static: /data/data/com.termux/files/usr/lib/libXdmcp.la

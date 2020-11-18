@@ -1,0 +1,17 @@
+sed: /.
+sed: /data
+sed: /data/data
+sed: /data/data/com.termux
+sed: /data/data/com.termux/files
+sed: /data/data/com.termux/files/usr
+sed: /data/data/com.termux/files/usr/bin
+sed: /data/data/com.termux/files/usr/bin/sed
+sed: /data/data/com.termux/files/usr/share
+sed: /data/data/com.termux/files/usr/share/man
+sed: /data/data/com.termux/files/usr/share/man/man1
+sed: /data/data/com.termux/files/usr/share/man/man1/sed.1.gz
+sed: /data/data/com.termux/files/usr/share/info
+sed: /data/data/com.termux/files/usr/share/info/sed.info
+sed: /data/data/com.termux/files/usr/share/doc
+sed: /data/data/com.termux/files/usr/share/doc/sed
+sed: /data/data/com.termux/files/usr/share/doc/sed/LICENSE

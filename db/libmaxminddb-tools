@@ -1,0 +1,8 @@
+libmaxminddb-tools: /.
+libmaxminddb-tools: /data
+libmaxminddb-tools: /data/data
+libmaxminddb-tools: /data/data/com.termux
+libmaxminddb-tools: /data/data/com.termux/files
+libmaxminddb-tools: /data/data/com.termux/files/usr
+libmaxminddb-tools: /data/data/com.termux/files/usr/bin
+libmaxminddb-tools: /data/data/com.termux/files/usr/bin/mmdblookup

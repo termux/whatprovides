@@ -1,0 +1,12 @@
+cicada: /.
+cicada: /data
+cicada: /data/data
+cicada: /data/data/com.termux
+cicada: /data/data/com.termux/files
+cicada: /data/data/com.termux/files/usr
+cicada: /data/data/com.termux/files/usr/bin
+cicada: /data/data/com.termux/files/usr/bin/cicada
+cicada: /data/data/com.termux/files/usr/share
+cicada: /data/data/com.termux/files/usr/share/doc
+cicada: /data/data/com.termux/files/usr/share/doc/cicada
+cicada: /data/data/com.termux/files/usr/share/doc/cicada/LICENSE

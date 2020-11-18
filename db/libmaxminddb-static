@@ -1,0 +1,9 @@
+libmaxminddb-static: /.
+libmaxminddb-static: /data
+libmaxminddb-static: /data/data
+libmaxminddb-static: /data/data/com.termux
+libmaxminddb-static: /data/data/com.termux/files
+libmaxminddb-static: /data/data/com.termux/files/usr
+libmaxminddb-static: /data/data/com.termux/files/usr/lib
+libmaxminddb-static: /data/data/com.termux/files/usr/lib/libmaxminddb.la
+libmaxminddb-static: /data/data/com.termux/files/usr/lib/libmaxminddb.a

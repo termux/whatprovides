@@ -1,0 +1,8 @@
+zstd-static: /.
+zstd-static: /data
+zstd-static: /data/data
+zstd-static: /data/data/com.termux
+zstd-static: /data/data/com.termux/files
+zstd-static: /data/data/com.termux/files/usr
+zstd-static: /data/data/com.termux/files/usr/lib
+zstd-static: /data/data/com.termux/files/usr/lib/libzstd.a

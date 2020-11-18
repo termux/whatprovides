@@ -1,0 +1,12 @@
+diskus: /.
+diskus: /data
+diskus: /data/data
+diskus: /data/data/com.termux
+diskus: /data/data/com.termux/files
+diskus: /data/data/com.termux/files/usr
+diskus: /data/data/com.termux/files/usr/share
+diskus: /data/data/com.termux/files/usr/share/doc
+diskus: /data/data/com.termux/files/usr/share/doc/diskus
+diskus: /data/data/com.termux/files/usr/bin
+diskus: /data/data/com.termux/files/usr/bin/diskus
+diskus: /data/data/com.termux/files/usr/share/doc/diskus/LICENSE

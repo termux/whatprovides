@@ -1,0 +1,9 @@
+libmad-static: /.
+libmad-static: /data
+libmad-static: /data/data
+libmad-static: /data/data/com.termux
+libmad-static: /data/data/com.termux/files
+libmad-static: /data/data/com.termux/files/usr
+libmad-static: /data/data/com.termux/files/usr/lib
+libmad-static: /data/data/com.termux/files/usr/lib/libmad.la
+libmad-static: /data/data/com.termux/files/usr/lib/libmad.a

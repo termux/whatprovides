@@ -1,0 +1,9 @@
+libass-static: /.
+libass-static: /data
+libass-static: /data/data
+libass-static: /data/data/com.termux
+libass-static: /data/data/com.termux/files
+libass-static: /data/data/com.termux/files/usr
+libass-static: /data/data/com.termux/files/usr/lib
+libass-static: /data/data/com.termux/files/usr/lib/libass.a
+libass-static: /data/data/com.termux/files/usr/lib/libass.la

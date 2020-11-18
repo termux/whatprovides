@@ -1,0 +1,15 @@
+ctypes-sh: /.
+ctypes-sh: /data
+ctypes-sh: /data/data
+ctypes-sh: /data/data/com.termux
+ctypes-sh: /data/data/com.termux/files
+ctypes-sh: /data/data/com.termux/files/usr
+ctypes-sh: /data/data/com.termux/files/usr/lib
+ctypes-sh: /data/data/com.termux/files/usr/lib/ctypes.la
+ctypes-sh: /data/data/com.termux/files/usr/lib/ctypes.so
+ctypes-sh: /data/data/com.termux/files/usr/bin
+ctypes-sh: /data/data/com.termux/files/usr/bin/ctypes.sh
+ctypes-sh: /data/data/com.termux/files/usr/share
+ctypes-sh: /data/data/com.termux/files/usr/share/doc
+ctypes-sh: /data/data/com.termux/files/usr/share/doc/ctypes-sh
+ctypes-sh: /data/data/com.termux/files/usr/share/doc/ctypes-sh/LICENSE

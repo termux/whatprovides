@@ -1,0 +1,14 @@
+geoip2-database: /.
+geoip2-database: /data
+geoip2-database: /data/data
+geoip2-database: /data/data/com.termux
+geoip2-database: /data/data/com.termux/files
+geoip2-database: /data/data/com.termux/files/usr
+geoip2-database: /data/data/com.termux/files/usr/share
+geoip2-database: /data/data/com.termux/files/usr/share/GeoIP
+geoip2-database: /data/data/com.termux/files/usr/share/GeoIP/GeoLite2-ASN.mmdb
+geoip2-database: /data/data/com.termux/files/usr/share/GeoIP/GeoLite2-City.mmdb
+geoip2-database: /data/data/com.termux/files/usr/share/GeoIP/GeoLite2-Country.mmdb
+geoip2-database: /data/data/com.termux/files/usr/share/doc
+geoip2-database: /data/data/com.termux/files/usr/share/doc/geoip2-database
+geoip2-database: /data/data/com.termux/files/usr/share/doc/geoip2-database/LICENSE

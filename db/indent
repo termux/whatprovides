@@ -1,0 +1,12 @@
+indent: /.
+indent: /data
+indent: /data/data
+indent: /data/data/com.termux
+indent: /data/data/com.termux/files
+indent: /data/data/com.termux/files/usr
+indent: /data/data/com.termux/files/usr/share
+indent: /data/data/com.termux/files/usr/share/man
+indent: /data/data/com.termux/files/usr/share/man/man1
+indent: /data/data/com.termux/files/usr/share/man/man1/indent.1.gz
+indent: /data/data/com.termux/files/usr/bin
+indent: /data/data/com.termux/files/usr/bin/indent

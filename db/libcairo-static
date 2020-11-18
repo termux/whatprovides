@@ -1,0 +1,16 @@
+libcairo-static: /.
+libcairo-static: /data
+libcairo-static: /data/data
+libcairo-static: /data/data/com.termux
+libcairo-static: /data/data/com.termux/files
+libcairo-static: /data/data/com.termux/files/usr
+libcairo-static: /data/data/com.termux/files/usr/lib
+libcairo-static: /data/data/com.termux/files/usr/lib/libcairo-script-interpreter.a
+libcairo-static: /data/data/com.termux/files/usr/lib/libcairo.a
+libcairo-static: /data/data/com.termux/files/usr/lib/libcairo-gobject.a
+libcairo-static: /data/data/com.termux/files/usr/lib/cairo
+libcairo-static: /data/data/com.termux/files/usr/lib/cairo/libcairo-trace.a
+libcairo-static: /data/data/com.termux/files/usr/lib/cairo/libcairo-trace.la
+libcairo-static: /data/data/com.termux/files/usr/lib/libcairo-script-interpreter.la
+libcairo-static: /data/data/com.termux/files/usr/lib/libcairo-gobject.la
+libcairo-static: /data/data/com.termux/files/usr/lib/libcairo.la

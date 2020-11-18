@@ -1,0 +1,8 @@
+libandroid-spawn-static: /.
+libandroid-spawn-static: /data
+libandroid-spawn-static: /data/data
+libandroid-spawn-static: /data/data/com.termux
+libandroid-spawn-static: /data/data/com.termux/files
+libandroid-spawn-static: /data/data/com.termux/files/usr
+libandroid-spawn-static: /data/data/com.termux/files/usr/lib
+libandroid-spawn-static: /data/data/com.termux/files/usr/lib/libandroid-spawn.a

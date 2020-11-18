@@ -1,0 +1,14 @@
+pkg-config: /.
+pkg-config: /data
+pkg-config: /data/data
+pkg-config: /data/data/com.termux
+pkg-config: /data/data/com.termux/files
+pkg-config: /data/data/com.termux/files/usr
+pkg-config: /data/data/com.termux/files/usr/share
+pkg-config: /data/data/com.termux/files/usr/share/aclocal
+pkg-config: /data/data/com.termux/files/usr/share/aclocal/pkg.m4
+pkg-config: /data/data/com.termux/files/usr/share/man
+pkg-config: /data/data/com.termux/files/usr/share/man/man1
+pkg-config: /data/data/com.termux/files/usr/share/man/man1/pkg-config.1.gz
+pkg-config: /data/data/com.termux/files/usr/bin
+pkg-config: /data/data/com.termux/files/usr/bin/pkg-config

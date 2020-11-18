@@ -1,0 +1,9 @@
+libpipeline-static: /.
+libpipeline-static: /data
+libpipeline-static: /data/data
+libpipeline-static: /data/data/com.termux
+libpipeline-static: /data/data/com.termux/files
+libpipeline-static: /data/data/com.termux/files/usr
+libpipeline-static: /data/data/com.termux/files/usr/lib
+libpipeline-static: /data/data/com.termux/files/usr/lib/libpipeline.la
+libpipeline-static: /data/data/com.termux/files/usr/lib/libpipeline.a

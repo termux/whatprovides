@@ -1,0 +1,17 @@
+redir: /.
+redir: /data
+redir: /data/data
+redir: /data/data/com.termux
+redir: /data/data/com.termux/files
+redir: /data/data/com.termux/files/usr
+redir: /data/data/com.termux/files/usr/bin
+redir: /data/data/com.termux/files/usr/bin/redir
+redir: /data/data/com.termux/files/usr/share
+redir: /data/data/com.termux/files/usr/share/doc
+redir: /data/data/com.termux/files/usr/share/doc/redir
+redir: /data/data/com.termux/files/usr/share/doc/redir/README.md
+redir: /data/data/com.termux/files/usr/share/doc/redir/transproxy.txt
+redir: /data/data/com.termux/files/usr/share/man
+redir: /data/data/com.termux/files/usr/share/man/man1
+redir: /data/data/com.termux/files/usr/share/man/man1/redir.1.gz
+redir: /data/data/com.termux/files/usr/share/doc/redir/LICENSE

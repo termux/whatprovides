@@ -1,0 +1,15 @@
+termux-am: /.
+termux-am: /data
+termux-am: /data/data
+termux-am: /data/data/com.termux
+termux-am: /data/data/com.termux/files
+termux-am: /data/data/com.termux/files/usr
+termux-am: /data/data/com.termux/files/usr/share
+termux-am: /data/data/com.termux/files/usr/share/doc
+termux-am: /data/data/com.termux/files/usr/share/doc/termux-am
+termux-am: /data/data/com.termux/files/usr/share/doc/termux-am/LICENSE
+termux-am: /data/data/com.termux/files/usr/libexec
+termux-am: /data/data/com.termux/files/usr/libexec/termux-am
+termux-am: /data/data/com.termux/files/usr/libexec/termux-am/am.apk
+termux-am: /data/data/com.termux/files/usr/bin
+termux-am: /data/data/com.termux/files/usr/bin/am

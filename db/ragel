@@ -1,0 +1,17 @@
+ragel: /.
+ragel: /data
+ragel: /data/data
+ragel: /data/data/com.termux
+ragel: /data/data/com.termux/files
+ragel: /data/data/com.termux/files/usr
+ragel: /data/data/com.termux/files/usr/bin
+ragel: /data/data/com.termux/files/usr/bin/ragel
+ragel: /data/data/com.termux/files/usr/share
+ragel: /data/data/com.termux/files/usr/share/doc
+ragel: /data/data/com.termux/files/usr/share/doc/ragel
+ragel: /data/data/com.termux/files/usr/share/doc/ragel/ChangeLog
+ragel: /data/data/com.termux/files/usr/share/doc/ragel/CREDITS
+ragel: /data/data/com.termux/files/usr/share/man
+ragel: /data/data/com.termux/files/usr/share/man/man1
+ragel: /data/data/com.termux/files/usr/share/man/man1/ragel.1.gz
+ragel: /data/data/com.termux/files/usr/share/doc/ragel/LICENSE

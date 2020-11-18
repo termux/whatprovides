@@ -1,0 +1,12 @@
+ca-certificates-java: /.
+ca-certificates-java: /data
+ca-certificates-java: /data/data
+ca-certificates-java: /data/data/com.termux
+ca-certificates-java: /data/data/com.termux/files
+ca-certificates-java: /data/data/com.termux/files/usr
+ca-certificates-java: /data/data/com.termux/files/usr/lib
+ca-certificates-java: /data/data/com.termux/files/usr/lib/jvm
+ca-certificates-java: /data/data/com.termux/files/usr/lib/jvm/openjdk-9
+ca-certificates-java: /data/data/com.termux/files/usr/lib/jvm/openjdk-9/lib
+ca-certificates-java: /data/data/com.termux/files/usr/lib/jvm/openjdk-9/lib/security
+ca-certificates-java: /data/data/com.termux/files/usr/lib/jvm/openjdk-9/lib/security/jssecacerts

@@ -1,0 +1,11 @@
+opusfile-static: /.
+opusfile-static: /data
+opusfile-static: /data/data
+opusfile-static: /data/data/com.termux
+opusfile-static: /data/data/com.termux/files
+opusfile-static: /data/data/com.termux/files/usr
+opusfile-static: /data/data/com.termux/files/usr/lib
+opusfile-static: /data/data/com.termux/files/usr/lib/libopusurl.a
+opusfile-static: /data/data/com.termux/files/usr/lib/libopusurl.la
+opusfile-static: /data/data/com.termux/files/usr/lib/libopusfile.a
+opusfile-static: /data/data/com.termux/files/usr/lib/libopusfile.la

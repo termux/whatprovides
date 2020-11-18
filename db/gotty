@@ -1,0 +1,12 @@
+gotty: /.
+gotty: /data
+gotty: /data/data
+gotty: /data/data/com.termux
+gotty: /data/data/com.termux/files
+gotty: /data/data/com.termux/files/usr
+gotty: /data/data/com.termux/files/usr/bin
+gotty: /data/data/com.termux/files/usr/bin/gotty
+gotty: /data/data/com.termux/files/usr/share
+gotty: /data/data/com.termux/files/usr/share/doc
+gotty: /data/data/com.termux/files/usr/share/doc/gotty
+gotty: /data/data/com.termux/files/usr/share/doc/gotty/LICENSE

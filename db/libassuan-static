@@ -1,0 +1,9 @@
+libassuan-static: /.
+libassuan-static: /data
+libassuan-static: /data/data
+libassuan-static: /data/data/com.termux
+libassuan-static: /data/data/com.termux/files
+libassuan-static: /data/data/com.termux/files/usr
+libassuan-static: /data/data/com.termux/files/usr/lib
+libassuan-static: /data/data/com.termux/files/usr/lib/libassuan.a
+libassuan-static: /data/data/com.termux/files/usr/lib/libassuan.la

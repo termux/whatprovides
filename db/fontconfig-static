@@ -1,0 +1,9 @@
+fontconfig-static: /.
+fontconfig-static: /data
+fontconfig-static: /data/data
+fontconfig-static: /data/data/com.termux
+fontconfig-static: /data/data/com.termux/files
+fontconfig-static: /data/data/com.termux/files/usr
+fontconfig-static: /data/data/com.termux/files/usr/lib
+fontconfig-static: /data/data/com.termux/files/usr/lib/libfontconfig.la
+fontconfig-static: /data/data/com.termux/files/usr/lib/libfontconfig.a

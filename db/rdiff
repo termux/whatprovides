@@ -1,0 +1,12 @@
+rdiff: /.
+rdiff: /data
+rdiff: /data/data
+rdiff: /data/data/com.termux
+rdiff: /data/data/com.termux/files
+rdiff: /data/data/com.termux/files/usr
+rdiff: /data/data/com.termux/files/usr/bin
+rdiff: /data/data/com.termux/files/usr/bin/rdiff
+rdiff: /data/data/com.termux/files/usr/share
+rdiff: /data/data/com.termux/files/usr/share/man
+rdiff: /data/data/com.termux/files/usr/share/man/man1
+rdiff: /data/data/com.termux/files/usr/share/man/man1/rdiff.1.gz

@@ -1,0 +1,14 @@
+unstable-repo: /.
+unstable-repo: /data
+unstable-repo: /data/data
+unstable-repo: /data/data/com.termux
+unstable-repo: /data/data/com.termux/files
+unstable-repo: /data/data/com.termux/files/usr
+unstable-repo: /data/data/com.termux/files/usr/etc
+unstable-repo: /data/data/com.termux/files/usr/etc/apt
+unstable-repo: /data/data/com.termux/files/usr/etc/apt/sources.list.d
+unstable-repo: /data/data/com.termux/files/usr/etc/apt/sources.list.d/unstable.list
+unstable-repo: /data/data/com.termux/files/usr/share
+unstable-repo: /data/data/com.termux/files/usr/share/doc
+unstable-repo: /data/data/com.termux/files/usr/share/doc/unstable-repo
+unstable-repo: /data/data/com.termux/files/usr/share/doc/unstable-repo/LICENSE

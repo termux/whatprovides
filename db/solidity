@@ -1,0 +1,14 @@
+solidity: /.
+solidity: /data
+solidity: /data/data
+solidity: /data/data/com.termux
+solidity: /data/data/com.termux/files
+solidity: /data/data/com.termux/files/usr
+solidity: /data/data/com.termux/files/usr/bin
+solidity: /data/data/com.termux/files/usr/bin/yul-phaser
+solidity: /data/data/com.termux/files/usr/bin/solc
+solidity: /data/data/com.termux/files/usr/bin/solidity-upgrade
+solidity: /data/data/com.termux/files/usr/share
+solidity: /data/data/com.termux/files/usr/share/doc
+solidity: /data/data/com.termux/files/usr/share/doc/solidity
+solidity: /data/data/com.termux/files/usr/share/doc/solidity/LICENSE

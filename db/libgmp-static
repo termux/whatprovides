@@ -1,0 +1,11 @@
+libgmp-static: /.
+libgmp-static: /data
+libgmp-static: /data/data
+libgmp-static: /data/data/com.termux
+libgmp-static: /data/data/com.termux/files
+libgmp-static: /data/data/com.termux/files/usr
+libgmp-static: /data/data/com.termux/files/usr/lib
+libgmp-static: /data/data/com.termux/files/usr/lib/libgmp.a
+libgmp-static: /data/data/com.termux/files/usr/lib/libgmpxx.a
+libgmp-static: /data/data/com.termux/files/usr/lib/libgmp.la
+libgmp-static: /data/data/com.termux/files/usr/lib/libgmpxx.la

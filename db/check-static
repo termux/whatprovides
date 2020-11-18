@@ -1,0 +1,9 @@
+check-static: /.
+check-static: /data
+check-static: /data/data
+check-static: /data/data/com.termux
+check-static: /data/data/com.termux/files
+check-static: /data/data/com.termux/files/usr
+check-static: /data/data/com.termux/files/usr/lib
+check-static: /data/data/com.termux/files/usr/lib/libcheck.la
+check-static: /data/data/com.termux/files/usr/lib/libcheck.a

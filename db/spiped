@@ -1,0 +1,17 @@
+spiped: /.
+spiped: /data
+spiped: /data/data
+spiped: /data/data/com.termux
+spiped: /data/data/com.termux/files
+spiped: /data/data/com.termux/files/usr
+spiped: /data/data/com.termux/files/usr/bin
+spiped: /data/data/com.termux/files/usr/bin/spiped
+spiped: /data/data/com.termux/files/usr/bin/spipe
+spiped: /data/data/com.termux/files/usr/share
+spiped: /data/data/com.termux/files/usr/share/man
+spiped: /data/data/com.termux/files/usr/share/man/man1
+spiped: /data/data/com.termux/files/usr/share/man/man1/spiped.1.gz
+spiped: /data/data/com.termux/files/usr/share/man/man1/spipe.1.gz
+spiped: /data/data/com.termux/files/usr/share/doc
+spiped: /data/data/com.termux/files/usr/share/doc/spiped
+spiped: /data/data/com.termux/files/usr/share/doc/spiped/LICENSE

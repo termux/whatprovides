@@ -1,0 +1,9 @@
+gpgme-static: /.
+gpgme-static: /data
+gpgme-static: /data/data
+gpgme-static: /data/data/com.termux
+gpgme-static: /data/data/com.termux/files
+gpgme-static: /data/data/com.termux/files/usr
+gpgme-static: /data/data/com.termux/files/usr/lib
+gpgme-static: /data/data/com.termux/files/usr/lib/libgpgme.la
+gpgme-static: /data/data/com.termux/files/usr/lib/libgpgme.a

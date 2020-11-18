@@ -1,0 +1,12 @@
+termux-exec: /.
+termux-exec: /data
+termux-exec: /data/data
+termux-exec: /data/data/com.termux
+termux-exec: /data/data/com.termux/files
+termux-exec: /data/data/com.termux/files/usr
+termux-exec: /data/data/com.termux/files/usr/lib
+termux-exec: /data/data/com.termux/files/usr/lib/libtermux-exec.so
+termux-exec: /data/data/com.termux/files/usr/share
+termux-exec: /data/data/com.termux/files/usr/share/doc
+termux-exec: /data/data/com.termux/files/usr/share/doc/termux-exec
+termux-exec: /data/data/com.termux/files/usr/share/doc/termux-exec/LICENSE

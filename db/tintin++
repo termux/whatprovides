@@ -1,0 +1,12 @@
+tintin++: /.
+tintin++: /data
+tintin++: /data/data
+tintin++: /data/data/com.termux
+tintin++: /data/data/com.termux/files
+tintin++: /data/data/com.termux/files/usr
+tintin++: /data/data/com.termux/files/usr/share
+tintin++: /data/data/com.termux/files/usr/share/doc
+tintin++: /data/data/com.termux/files/usr/share/doc/tintin++
+tintin++: /data/data/com.termux/files/usr/bin
+tintin++: /data/data/com.termux/files/usr/bin/tt++
+tintin++: /data/data/com.termux/files/usr/share/doc/tintin++/LICENSE

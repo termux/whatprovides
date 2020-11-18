@@ -1,0 +1,12 @@
+k9s: /.
+k9s: /data
+k9s: /data/data
+k9s: /data/data/com.termux
+k9s: /data/data/com.termux/files
+k9s: /data/data/com.termux/files/usr
+k9s: /data/data/com.termux/files/usr/bin
+k9s: /data/data/com.termux/files/usr/bin/k9s
+k9s: /data/data/com.termux/files/usr/share
+k9s: /data/data/com.termux/files/usr/share/doc
+k9s: /data/data/com.termux/files/usr/share/doc/k9s
+k9s: /data/data/com.termux/files/usr/share/doc/k9s/LICENSE

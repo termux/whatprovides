@@ -1,0 +1,12 @@
+gmic-gm: /.
+gmic-gm: /data
+gmic-gm: /data/data
+gmic-gm: /data/data/com.termux
+gmic-gm: /data/data/com.termux/files
+gmic-gm: /data/data/com.termux/files/usr
+gmic-gm: /data/data/com.termux/files/usr/share
+gmic-gm: /data/data/com.termux/files/usr/share/man
+gmic-gm: /data/data/com.termux/files/usr/share/man/man1
+gmic-gm: /data/data/com.termux/files/usr/share/man/man1/gmic-gm.1.gz
+gmic-gm: /data/data/com.termux/files/usr/bin
+gmic-gm: /data/data/com.termux/files/usr/bin/gmic-gm

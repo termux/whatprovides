@@ -1,0 +1,11 @@
+libiconv-static: /.
+libiconv-static: /data
+libiconv-static: /data/data
+libiconv-static: /data/data/com.termux
+libiconv-static: /data/data/com.termux/files
+libiconv-static: /data/data/com.termux/files/usr
+libiconv-static: /data/data/com.termux/files/usr/lib
+libiconv-static: /data/data/com.termux/files/usr/lib/libcharset.la
+libiconv-static: /data/data/com.termux/files/usr/lib/libiconv.a
+libiconv-static: /data/data/com.termux/files/usr/lib/libiconv.la
+libiconv-static: /data/data/com.termux/files/usr/lib/libcharset.a

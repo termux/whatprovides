@@ -1,0 +1,14 @@
+osmctools: /.
+osmctools: /data
+osmctools: /data/data
+osmctools: /data/data/com.termux
+osmctools: /data/data/com.termux/files
+osmctools: /data/data/com.termux/files/usr
+osmctools: /data/data/com.termux/files/usr/share
+osmctools: /data/data/com.termux/files/usr/share/doc
+osmctools: /data/data/com.termux/files/usr/share/doc/osmctools
+osmctools: /data/data/com.termux/files/usr/bin
+osmctools: /data/data/com.termux/files/usr/bin/osmconvert
+osmctools: /data/data/com.termux/files/usr/bin/osmfilter
+osmctools: /data/data/com.termux/files/usr/bin/osmupdate
+osmctools: /data/data/com.termux/files/usr/share/doc/osmctools/LICENSE

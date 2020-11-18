@@ -1,0 +1,12 @@
+caddy: /.
+caddy: /data
+caddy: /data/data
+caddy: /data/data/com.termux
+caddy: /data/data/com.termux/files
+caddy: /data/data/com.termux/files/usr
+caddy: /data/data/com.termux/files/usr/share
+caddy: /data/data/com.termux/files/usr/share/doc
+caddy: /data/data/com.termux/files/usr/share/doc/caddy
+caddy: /data/data/com.termux/files/usr/bin
+caddy: /data/data/com.termux/files/usr/bin/caddy
+caddy: /data/data/com.termux/files/usr/share/doc/caddy/LICENSE

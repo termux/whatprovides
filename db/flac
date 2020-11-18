@@ -1,0 +1,14 @@
+flac: /.
+flac: /data
+flac: /data/data
+flac: /data/data/com.termux
+flac: /data/data/com.termux/files
+flac: /data/data/com.termux/files/usr
+flac: /data/data/com.termux/files/usr/bin
+flac: /data/data/com.termux/files/usr/bin/flac
+flac: /data/data/com.termux/files/usr/bin/metaflac
+flac: /data/data/com.termux/files/usr/share
+flac: /data/data/com.termux/files/usr/share/man
+flac: /data/data/com.termux/files/usr/share/man/man1
+flac: /data/data/com.termux/files/usr/share/man/man1/metaflac.1.gz
+flac: /data/data/com.termux/files/usr/share/man/man1/flac.1.gz

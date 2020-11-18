@@ -1,0 +1,16 @@
+dialog: /.
+dialog: /data
+dialog: /data/data
+dialog: /data/data/com.termux
+dialog: /data/data/com.termux/files
+dialog: /data/data/com.termux/files/usr
+dialog: /data/data/com.termux/files/usr/bin
+dialog: /data/data/com.termux/files/usr/bin/whiptail
+dialog: /data/data/com.termux/files/usr/bin/dialog
+dialog: /data/data/com.termux/files/usr/share
+dialog: /data/data/com.termux/files/usr/share/man
+dialog: /data/data/com.termux/files/usr/share/man/man1
+dialog: /data/data/com.termux/files/usr/share/man/man1/dialog.1.gz
+dialog: /data/data/com.termux/files/usr/share/doc
+dialog: /data/data/com.termux/files/usr/share/doc/dialog
+dialog: /data/data/com.termux/files/usr/share/doc/dialog/LICENSE

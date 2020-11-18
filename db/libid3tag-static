@@ -1,0 +1,9 @@
+libid3tag-static: /.
+libid3tag-static: /data
+libid3tag-static: /data/data
+libid3tag-static: /data/data/com.termux
+libid3tag-static: /data/data/com.termux/files
+libid3tag-static: /data/data/com.termux/files/usr
+libid3tag-static: /data/data/com.termux/files/usr/lib
+libid3tag-static: /data/data/com.termux/files/usr/lib/libid3tag.la
+libid3tag-static: /data/data/com.termux/files/usr/lib/libid3tag.a

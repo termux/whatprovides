@@ -1,0 +1,12 @@
+wren: /.
+wren: /data
+wren: /data/data
+wren: /data/data/com.termux
+wren: /data/data/com.termux/files
+wren: /data/data/com.termux/files/usr
+wren: /data/data/com.termux/files/usr/share
+wren: /data/data/com.termux/files/usr/share/doc
+wren: /data/data/com.termux/files/usr/share/doc/wren
+wren: /data/data/com.termux/files/usr/share/doc/wren/LICENSE
+wren: /data/data/com.termux/files/usr/bin
+wren: /data/data/com.termux/files/usr/bin/wren

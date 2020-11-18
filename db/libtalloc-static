@@ -1,0 +1,8 @@
+libtalloc-static: /.
+libtalloc-static: /data
+libtalloc-static: /data/data
+libtalloc-static: /data/data/com.termux
+libtalloc-static: /data/data/com.termux/files
+libtalloc-static: /data/data/com.termux/files/usr
+libtalloc-static: /data/data/com.termux/files/usr/lib
+libtalloc-static: /data/data/com.termux/files/usr/lib/libtalloc.a

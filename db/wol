@@ -1,0 +1,14 @@
+wol: /.
+wol: /data
+wol: /data/data
+wol: /data/data/com.termux
+wol: /data/data/com.termux/files
+wol: /data/data/com.termux/files/usr
+wol: /data/data/com.termux/files/usr/bin
+wol: /data/data/com.termux/files/usr/bin/wol-dhcpdconf
+wol: /data/data/com.termux/files/usr/bin/wol-bootptab
+wol: /data/data/com.termux/files/usr/bin/wol
+wol: /data/data/com.termux/files/usr/share
+wol: /data/data/com.termux/files/usr/share/man
+wol: /data/data/com.termux/files/usr/share/man/man1
+wol: /data/data/com.termux/files/usr/share/man/man1/wol.1.gz

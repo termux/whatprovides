@@ -1,0 +1,15 @@
+tcsh: /.
+tcsh: /data
+tcsh: /data/data
+tcsh: /data/data/com.termux
+tcsh: /data/data/com.termux/files
+tcsh: /data/data/com.termux/files/usr
+tcsh: /data/data/com.termux/files/usr/bin
+tcsh: /data/data/com.termux/files/usr/bin/tcsh
+tcsh: /data/data/com.termux/files/usr/share
+tcsh: /data/data/com.termux/files/usr/share/man
+tcsh: /data/data/com.termux/files/usr/share/man/man1
+tcsh: /data/data/com.termux/files/usr/share/man/man1/tcsh.1.gz
+tcsh: /data/data/com.termux/files/usr/share/doc
+tcsh: /data/data/com.termux/files/usr/share/doc/tcsh
+tcsh: /data/data/com.termux/files/usr/share/doc/tcsh/LICENSE

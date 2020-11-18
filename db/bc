@@ -1,0 +1,14 @@
+bc: /.
+bc: /data
+bc: /data/data
+bc: /data/data/com.termux
+bc: /data/data/com.termux/files
+bc: /data/data/com.termux/files/usr
+bc: /data/data/com.termux/files/usr/share
+bc: /data/data/com.termux/files/usr/share/man
+bc: /data/data/com.termux/files/usr/share/man/man1
+bc: /data/data/com.termux/files/usr/share/man/man1/dc.1.gz
+bc: /data/data/com.termux/files/usr/share/man/man1/bc.1.gz
+bc: /data/data/com.termux/files/usr/bin
+bc: /data/data/com.termux/files/usr/bin/dc
+bc: /data/data/com.termux/files/usr/bin/bc

@@ -1,0 +1,15 @@
+fasd: /.
+fasd: /data
+fasd: /data/data
+fasd: /data/data/com.termux
+fasd: /data/data/com.termux/files
+fasd: /data/data/com.termux/files/usr
+fasd: /data/data/com.termux/files/usr/bin
+fasd: /data/data/com.termux/files/usr/bin/fasd
+fasd: /data/data/com.termux/files/usr/share
+fasd: /data/data/com.termux/files/usr/share/man
+fasd: /data/data/com.termux/files/usr/share/man/man1
+fasd: /data/data/com.termux/files/usr/share/man/man1/fasd.1.gz
+fasd: /data/data/com.termux/files/usr/share/doc
+fasd: /data/data/com.termux/files/usr/share/doc/fasd
+fasd: /data/data/com.termux/files/usr/share/doc/fasd/LICENSE

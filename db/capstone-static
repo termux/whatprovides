@@ -1,0 +1,8 @@
+capstone-static: /.
+capstone-static: /data
+capstone-static: /data/data
+capstone-static: /data/data/com.termux
+capstone-static: /data/data/com.termux/files
+capstone-static: /data/data/com.termux/files/usr
+capstone-static: /data/data/com.termux/files/usr/lib
+capstone-static: /data/data/com.termux/files/usr/lib/libcapstone.a

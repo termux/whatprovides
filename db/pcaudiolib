@@ -1,0 +1,15 @@
+pcaudiolib: /.
+pcaudiolib: /data
+pcaudiolib: /data/data
+pcaudiolib: /data/data/com.termux
+pcaudiolib: /data/data/com.termux/files
+pcaudiolib: /data/data/com.termux/files/usr
+pcaudiolib: /data/data/com.termux/files/usr/share
+pcaudiolib: /data/data/com.termux/files/usr/share/doc
+pcaudiolib: /data/data/com.termux/files/usr/share/doc/pcaudiolib
+pcaudiolib: /data/data/com.termux/files/usr/include
+pcaudiolib: /data/data/com.termux/files/usr/include/pcaudiolib
+pcaudiolib: /data/data/com.termux/files/usr/include/pcaudiolib/audio.h
+pcaudiolib: /data/data/com.termux/files/usr/lib
+pcaudiolib: /data/data/com.termux/files/usr/lib/libpcaudio.so
+pcaudiolib: /data/data/com.termux/files/usr/share/doc/pcaudiolib/LICENSE

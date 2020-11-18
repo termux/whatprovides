@@ -1,0 +1,8 @@
+c-toxcore-static: /.
+c-toxcore-static: /data
+c-toxcore-static: /data/data
+c-toxcore-static: /data/data/com.termux
+c-toxcore-static: /data/data/com.termux/files
+c-toxcore-static: /data/data/com.termux/files/usr
+c-toxcore-static: /data/data/com.termux/files/usr/lib
+c-toxcore-static: /data/data/com.termux/files/usr/lib/libtoxcore.a

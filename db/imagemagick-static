@@ -1,0 +1,11 @@
+imagemagick-static: /.
+imagemagick-static: /data
+imagemagick-static: /data/data
+imagemagick-static: /data/data/com.termux
+imagemagick-static: /data/data/com.termux/files
+imagemagick-static: /data/data/com.termux/files/usr
+imagemagick-static: /data/data/com.termux/files/usr/lib
+imagemagick-static: /data/data/com.termux/files/usr/lib/libMagickCore-7.Q16HDRI.a
+imagemagick-static: /data/data/com.termux/files/usr/lib/libMagickCore-7.Q16HDRI.la
+imagemagick-static: /data/data/com.termux/files/usr/lib/libMagickWand-7.Q16HDRI.a
+imagemagick-static: /data/data/com.termux/files/usr/lib/libMagickWand-7.Q16HDRI.la

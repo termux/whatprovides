@@ -1,0 +1,11 @@
+libconfig-static: /.
+libconfig-static: /data
+libconfig-static: /data/data
+libconfig-static: /data/data/com.termux
+libconfig-static: /data/data/com.termux/files
+libconfig-static: /data/data/com.termux/files/usr
+libconfig-static: /data/data/com.termux/files/usr/lib
+libconfig-static: /data/data/com.termux/files/usr/lib/libconfig.la
+libconfig-static: /data/data/com.termux/files/usr/lib/libconfig++.la
+libconfig-static: /data/data/com.termux/files/usr/lib/libconfig++.a
+libconfig-static: /data/data/com.termux/files/usr/lib/libconfig.a

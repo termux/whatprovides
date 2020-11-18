@@ -1,0 +1,9 @@
+liblzo-static: /.
+liblzo-static: /data
+liblzo-static: /data/data
+liblzo-static: /data/data/com.termux
+liblzo-static: /data/data/com.termux/files
+liblzo-static: /data/data/com.termux/files/usr
+liblzo-static: /data/data/com.termux/files/usr/lib
+liblzo-static: /data/data/com.termux/files/usr/lib/liblzo2.la
+liblzo-static: /data/data/com.termux/files/usr/lib/liblzo2.a

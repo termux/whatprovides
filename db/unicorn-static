@@ -1,0 +1,8 @@
+unicorn-static: /.
+unicorn-static: /data
+unicorn-static: /data/data
+unicorn-static: /data/data/com.termux
+unicorn-static: /data/data/com.termux/files
+unicorn-static: /data/data/com.termux/files/usr
+unicorn-static: /data/data/com.termux/files/usr/lib
+unicorn-static: /data/data/com.termux/files/usr/lib/libunicorn.a

@@ -1,0 +1,9 @@
+libcroco-static: /.
+libcroco-static: /data
+libcroco-static: /data/data
+libcroco-static: /data/data/com.termux
+libcroco-static: /data/data/com.termux/files
+libcroco-static: /data/data/com.termux/files/usr
+libcroco-static: /data/data/com.termux/files/usr/lib
+libcroco-static: /data/data/com.termux/files/usr/lib/libcroco-0.6.la
+libcroco-static: /data/data/com.termux/files/usr/lib/libcroco-0.6.a

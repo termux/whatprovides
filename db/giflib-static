@@ -1,0 +1,8 @@
+giflib-static: /.
+giflib-static: /data
+giflib-static: /data/data
+giflib-static: /data/data/com.termux
+giflib-static: /data/data/com.termux/files
+giflib-static: /data/data/com.termux/files/usr
+giflib-static: /data/data/com.termux/files/usr/lib
+giflib-static: /data/data/com.termux/files/usr/lib/libgif.a

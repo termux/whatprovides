@@ -1,0 +1,13 @@
+xmlsec-static: /.
+xmlsec-static: /data
+xmlsec-static: /data/data
+xmlsec-static: /data/data/com.termux
+xmlsec-static: /data/data/com.termux/files
+xmlsec-static: /data/data/com.termux/files/usr
+xmlsec-static: /data/data/com.termux/files/usr/lib
+xmlsec-static: /data/data/com.termux/files/usr/lib/libxmlsec1-gcrypt.la
+xmlsec-static: /data/data/com.termux/files/usr/lib/libxmlsec1-openssl.la
+xmlsec-static: /data/data/com.termux/files/usr/lib/libxmlsec1-gcrypt.a
+xmlsec-static: /data/data/com.termux/files/usr/lib/libxmlsec1.a
+xmlsec-static: /data/data/com.termux/files/usr/lib/libxmlsec1-openssl.a
+xmlsec-static: /data/data/com.termux/files/usr/lib/libxmlsec1.la

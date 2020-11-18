@@ -1,0 +1,12 @@
+fselect: /.
+fselect: /data
+fselect: /data/data
+fselect: /data/data/com.termux
+fselect: /data/data/com.termux/files
+fselect: /data/data/com.termux/files/usr
+fselect: /data/data/com.termux/files/usr/share
+fselect: /data/data/com.termux/files/usr/share/doc
+fselect: /data/data/com.termux/files/usr/share/doc/fselect
+fselect: /data/data/com.termux/files/usr/bin
+fselect: /data/data/com.termux/files/usr/bin/fselect
+fselect: /data/data/com.termux/files/usr/share/doc/fselect/LICENSE

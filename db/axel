@@ -1,0 +1,15 @@
+axel: /.
+axel: /data
+axel: /data/data
+axel: /data/data/com.termux
+axel: /data/data/com.termux/files
+axel: /data/data/com.termux/files/usr
+axel: /data/data/com.termux/files/usr/bin
+axel: /data/data/com.termux/files/usr/bin/axel
+axel: /data/data/com.termux/files/usr/share
+axel: /data/data/com.termux/files/usr/share/doc
+axel: /data/data/com.termux/files/usr/share/doc/axel
+axel: /data/data/com.termux/files/usr/share/man
+axel: /data/data/com.termux/files/usr/share/man/man1
+axel: /data/data/com.termux/files/usr/share/man/man1/axel.1.gz
+axel: /data/data/com.termux/files/usr/share/doc/axel/LICENSE

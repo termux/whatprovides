@@ -1,0 +1,17 @@
+socat: /.
+socat: /data
+socat: /data/data
+socat: /data/data/com.termux
+socat: /data/data/com.termux/files
+socat: /data/data/com.termux/files/usr
+socat: /data/data/com.termux/files/usr/bin
+socat: /data/data/com.termux/files/usr/bin/socat
+socat: /data/data/com.termux/files/usr/bin/filan
+socat: /data/data/com.termux/files/usr/bin/procan
+socat: /data/data/com.termux/files/usr/share
+socat: /data/data/com.termux/files/usr/share/doc
+socat: /data/data/com.termux/files/usr/share/doc/socat
+socat: /data/data/com.termux/files/usr/share/man
+socat: /data/data/com.termux/files/usr/share/man/man1
+socat: /data/data/com.termux/files/usr/share/man/man1/socat.1.gz
+socat: /data/data/com.termux/files/usr/share/doc/socat/LICENSE

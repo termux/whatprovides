@@ -1,0 +1,12 @@
+pup: /.
+pup: /data
+pup: /data/data
+pup: /data/data/com.termux
+pup: /data/data/com.termux/files
+pup: /data/data/com.termux/files/usr
+pup: /data/data/com.termux/files/usr/bin
+pup: /data/data/com.termux/files/usr/bin/pup
+pup: /data/data/com.termux/files/usr/share
+pup: /data/data/com.termux/files/usr/share/doc
+pup: /data/data/com.termux/files/usr/share/doc/pup
+pup: /data/data/com.termux/files/usr/share/doc/pup/LICENSE

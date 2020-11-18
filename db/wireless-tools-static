@@ -1,0 +1,8 @@
+wireless-tools-static: /.
+wireless-tools-static: /data
+wireless-tools-static: /data/data
+wireless-tools-static: /data/data/com.termux
+wireless-tools-static: /data/data/com.termux/files
+wireless-tools-static: /data/data/com.termux/files/usr
+wireless-tools-static: /data/data/com.termux/files/usr/lib
+wireless-tools-static: /data/data/com.termux/files/usr/lib/libiw.a

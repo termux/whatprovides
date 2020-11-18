@@ -1,0 +1,16 @@
+libunibilium: /.
+libunibilium: /data
+libunibilium: /data/data
+libunibilium: /data/data/com.termux
+libunibilium: /data/data/com.termux/files
+libunibilium: /data/data/com.termux/files/usr
+libunibilium: /data/data/com.termux/files/usr/share
+libunibilium: /data/data/com.termux/files/usr/share/doc
+libunibilium: /data/data/com.termux/files/usr/share/doc/libunibilium
+libunibilium: /data/data/com.termux/files/usr/include
+libunibilium: /data/data/com.termux/files/usr/include/unibilium.h
+libunibilium: /data/data/com.termux/files/usr/lib
+libunibilium: /data/data/com.termux/files/usr/lib/libunibilium.so
+libunibilium: /data/data/com.termux/files/usr/lib/pkgconfig
+libunibilium: /data/data/com.termux/files/usr/lib/pkgconfig/unibilium.pc
+libunibilium: /data/data/com.termux/files/usr/share/doc/libunibilium/LICENSE

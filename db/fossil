@@ -1,0 +1,12 @@
+fossil: /.
+fossil: /data
+fossil: /data/data
+fossil: /data/data/com.termux
+fossil: /data/data/com.termux/files
+fossil: /data/data/com.termux/files/usr
+fossil: /data/data/com.termux/files/usr/share
+fossil: /data/data/com.termux/files/usr/share/doc
+fossil: /data/data/com.termux/files/usr/share/doc/fossil
+fossil: /data/data/com.termux/files/usr/share/doc/fossil/COPYRIGHT-BSD2.txt
+fossil: /data/data/com.termux/files/usr/bin
+fossil: /data/data/com.termux/files/usr/bin/fossil

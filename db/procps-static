@@ -1,0 +1,9 @@
+procps-static: /.
+procps-static: /data
+procps-static: /data/data
+procps-static: /data/data/com.termux
+procps-static: /data/data/com.termux/files
+procps-static: /data/data/com.termux/files/usr
+procps-static: /data/data/com.termux/files/usr/lib
+procps-static: /data/data/com.termux/files/usr/lib/libprocps.a
+procps-static: /data/data/com.termux/files/usr/lib/libprocps.la

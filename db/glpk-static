@@ -1,0 +1,9 @@
+glpk-static: /.
+glpk-static: /data
+glpk-static: /data/data
+glpk-static: /data/data/com.termux
+glpk-static: /data/data/com.termux/files
+glpk-static: /data/data/com.termux/files/usr
+glpk-static: /data/data/com.termux/files/usr/lib
+glpk-static: /data/data/com.termux/files/usr/lib/libglpk.la
+glpk-static: /data/data/com.termux/files/usr/lib/libglpk.a

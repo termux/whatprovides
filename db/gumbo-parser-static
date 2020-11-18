@@ -1,0 +1,9 @@
+gumbo-parser-static: /.
+gumbo-parser-static: /data
+gumbo-parser-static: /data/data
+gumbo-parser-static: /data/data/com.termux
+gumbo-parser-static: /data/data/com.termux/files
+gumbo-parser-static: /data/data/com.termux/files/usr
+gumbo-parser-static: /data/data/com.termux/files/usr/lib
+gumbo-parser-static: /data/data/com.termux/files/usr/lib/libgumbo.la
+gumbo-parser-static: /data/data/com.termux/files/usr/lib/libgumbo.a

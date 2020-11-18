@@ -1,0 +1,8 @@
+brogue: /.
+brogue: /data
+brogue: /data/data
+brogue: /data/data/com.termux
+brogue: /data/data/com.termux/files
+brogue: /data/data/com.termux/files/usr
+brogue: /data/data/com.termux/files/usr/bin
+brogue: /data/data/com.termux/files/usr/bin/brogue

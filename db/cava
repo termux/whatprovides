@@ -1,0 +1,14 @@
+cava: /.
+cava: /data
+cava: /data/data
+cava: /data/data/com.termux
+cava: /data/data/com.termux/files
+cava: /data/data/com.termux/files/usr
+cava: /data/data/com.termux/files/usr/bin
+cava: /data/data/com.termux/files/usr/bin/cava
+cava: /data/data/com.termux/files/usr/share
+cava: /data/data/com.termux/files/usr/share/doc
+cava: /data/data/com.termux/files/usr/share/doc/cava
+cava: /data/data/com.termux/files/usr/share/doc/cava/LICENSE
+cava: /data/data/com.termux/files/usr/share/consolefonts
+cava: /data/data/com.termux/files/usr/share/consolefonts/cava.psf

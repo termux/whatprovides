@@ -1,0 +1,9 @@
+libxml2-static: /.
+libxml2-static: /data
+libxml2-static: /data/data
+libxml2-static: /data/data/com.termux
+libxml2-static: /data/data/com.termux/files
+libxml2-static: /data/data/com.termux/files/usr
+libxml2-static: /data/data/com.termux/files/usr/lib
+libxml2-static: /data/data/com.termux/files/usr/lib/libxml2.la
+libxml2-static: /data/data/com.termux/files/usr/lib/libxml2.a

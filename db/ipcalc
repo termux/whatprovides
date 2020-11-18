@@ -1,0 +1,8 @@
+ipcalc: /.
+ipcalc: /data
+ipcalc: /data/data
+ipcalc: /data/data/com.termux
+ipcalc: /data/data/com.termux/files
+ipcalc: /data/data/com.termux/files/usr
+ipcalc: /data/data/com.termux/files/usr/bin
+ipcalc: /data/data/com.termux/files/usr/bin/ipcalc

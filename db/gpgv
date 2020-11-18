@@ -1,0 +1,12 @@
+gpgv: /.
+gpgv: /data
+gpgv: /data/data
+gpgv: /data/data/com.termux
+gpgv: /data/data/com.termux/files
+gpgv: /data/data/com.termux/files/usr
+gpgv: /data/data/com.termux/files/usr/share
+gpgv: /data/data/com.termux/files/usr/share/man
+gpgv: /data/data/com.termux/files/usr/share/man/man1
+gpgv: /data/data/com.termux/files/usr/share/man/man1/gpgv.1.gz
+gpgv: /data/data/com.termux/files/usr/bin
+gpgv: /data/data/com.termux/files/usr/bin/gpgv

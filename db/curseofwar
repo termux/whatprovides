@@ -1,0 +1,15 @@
+curseofwar: /.
+curseofwar: /data
+curseofwar: /data/data
+curseofwar: /data/data/com.termux
+curseofwar: /data/data/com.termux/files
+curseofwar: /data/data/com.termux/files/usr
+curseofwar: /data/data/com.termux/files/usr/share
+curseofwar: /data/data/com.termux/files/usr/share/man
+curseofwar: /data/data/com.termux/files/usr/share/man/man6
+curseofwar: /data/data/com.termux/files/usr/share/man/man6/curseofwar.6.gz
+curseofwar: /data/data/com.termux/files/usr/share/doc
+curseofwar: /data/data/com.termux/files/usr/share/doc/curseofwar
+curseofwar: /data/data/com.termux/files/usr/bin
+curseofwar: /data/data/com.termux/files/usr/bin/curseofwar
+curseofwar: /data/data/com.termux/files/usr/share/doc/curseofwar/LICENSE

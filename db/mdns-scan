@@ -1,0 +1,12 @@
+mdns-scan: /.
+mdns-scan: /data
+mdns-scan: /data/data
+mdns-scan: /data/data/com.termux
+mdns-scan: /data/data/com.termux/files
+mdns-scan: /data/data/com.termux/files/usr
+mdns-scan: /data/data/com.termux/files/usr/share
+mdns-scan: /data/data/com.termux/files/usr/share/doc
+mdns-scan: /data/data/com.termux/files/usr/share/doc/mdns-scan
+mdns-scan: /data/data/com.termux/files/usr/bin
+mdns-scan: /data/data/com.termux/files/usr/bin/mdns-scan
+mdns-scan: /data/data/com.termux/files/usr/share/doc/mdns-scan/LICENSE

@@ -1,0 +1,12 @@
+sl: /.
+sl: /data
+sl: /data/data
+sl: /data/data/com.termux
+sl: /data/data/com.termux/files
+sl: /data/data/com.termux/files/usr
+sl: /data/data/com.termux/files/usr/bin
+sl: /data/data/com.termux/files/usr/bin/sl
+sl: /data/data/com.termux/files/usr/share
+sl: /data/data/com.termux/files/usr/share/man
+sl: /data/data/com.termux/files/usr/share/man/man1
+sl: /data/data/com.termux/files/usr/share/man/man1/sl.1.gz

@@ -1,0 +1,8 @@
+duktape: /.
+duktape: /data
+duktape: /data/data
+duktape: /data/data/com.termux
+duktape: /data/data/com.termux/files
+duktape: /data/data/com.termux/files/usr
+duktape: /data/data/com.termux/files/usr/bin
+duktape: /data/data/com.termux/files/usr/bin/duk

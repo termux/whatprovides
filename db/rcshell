@@ -1,0 +1,15 @@
+rcshell: /.
+rcshell: /data
+rcshell: /data/data
+rcshell: /data/data/com.termux
+rcshell: /data/data/com.termux/files
+rcshell: /data/data/com.termux/files/usr
+rcshell: /data/data/com.termux/files/usr/bin
+rcshell: /data/data/com.termux/files/usr/bin/rc
+rcshell: /data/data/com.termux/files/usr/share
+rcshell: /data/data/com.termux/files/usr/share/doc
+rcshell: /data/data/com.termux/files/usr/share/doc/rcshell
+rcshell: /data/data/com.termux/files/usr/share/doc/rcshell/LICENSE
+rcshell: /data/data/com.termux/files/usr/share/man
+rcshell: /data/data/com.termux/files/usr/share/man/man1
+rcshell: /data/data/com.termux/files/usr/share/man/man1/rc.1.gz

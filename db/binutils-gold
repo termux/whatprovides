@@ -1,0 +1,9 @@
+binutils-gold: /.
+binutils-gold: /data
+binutils-gold: /data/data
+binutils-gold: /data/data/com.termux
+binutils-gold: /data/data/com.termux/files
+binutils-gold: /data/data/com.termux/files/usr
+binutils-gold: /data/data/com.termux/files/usr/bin
+binutils-gold: /data/data/com.termux/files/usr/bin/ld.gold
+binutils-gold: /data/data/com.termux/files/usr/bin/gold

@@ -1,0 +1,9 @@
+libopus-static: /.
+libopus-static: /data
+libopus-static: /data/data
+libopus-static: /data/data/com.termux
+libopus-static: /data/data/com.termux/files
+libopus-static: /data/data/com.termux/files/usr
+libopus-static: /data/data/com.termux/files/usr/lib
+libopus-static: /data/data/com.termux/files/usr/lib/libopus.a
+libopus-static: /data/data/com.termux/files/usr/lib/libopus.la

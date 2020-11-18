@@ -1,0 +1,9 @@
+readline-static: /.
+readline-static: /data
+readline-static: /data/data
+readline-static: /data/data/com.termux
+readline-static: /data/data/com.termux/files
+readline-static: /data/data/com.termux/files/usr
+readline-static: /data/data/com.termux/files/usr/lib
+readline-static: /data/data/com.termux/files/usr/lib/libhistory.a
+readline-static: /data/data/com.termux/files/usr/lib/libreadline.a

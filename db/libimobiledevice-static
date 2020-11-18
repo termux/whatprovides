@@ -1,0 +1,9 @@
+libimobiledevice-static: /.
+libimobiledevice-static: /data
+libimobiledevice-static: /data/data
+libimobiledevice-static: /data/data/com.termux
+libimobiledevice-static: /data/data/com.termux/files
+libimobiledevice-static: /data/data/com.termux/files/usr
+libimobiledevice-static: /data/data/com.termux/files/usr/lib
+libimobiledevice-static: /data/data/com.termux/files/usr/lib/libimobiledevice-1.0.a
+libimobiledevice-static: /data/data/com.termux/files/usr/lib/libimobiledevice-1.0.la

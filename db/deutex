@@ -1,0 +1,15 @@
+deutex: /.
+deutex: /data
+deutex: /data/data
+deutex: /data/data/com.termux
+deutex: /data/data/com.termux/files
+deutex: /data/data/com.termux/files/usr
+deutex: /data/data/com.termux/files/usr/share
+deutex: /data/data/com.termux/files/usr/share/doc
+deutex: /data/data/com.termux/files/usr/share/doc/deutex
+deutex: /data/data/com.termux/files/usr/share/man
+deutex: /data/data/com.termux/files/usr/share/man/man6
+deutex: /data/data/com.termux/files/usr/share/man/man6/deutex.6.gz
+deutex: /data/data/com.termux/files/usr/bin
+deutex: /data/data/com.termux/files/usr/bin/deutex
+deutex: /data/data/com.termux/files/usr/share/doc/deutex/LICENSE

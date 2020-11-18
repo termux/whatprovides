@@ -1,0 +1,12 @@
+tokei: /.
+tokei: /data
+tokei: /data/data
+tokei: /data/data/com.termux
+tokei: /data/data/com.termux/files
+tokei: /data/data/com.termux/files/usr
+tokei: /data/data/com.termux/files/usr/bin
+tokei: /data/data/com.termux/files/usr/bin/tokei
+tokei: /data/data/com.termux/files/usr/share
+tokei: /data/data/com.termux/files/usr/share/doc
+tokei: /data/data/com.termux/files/usr/share/doc/tokei
+tokei: /data/data/com.termux/files/usr/share/doc/tokei/LICENSE

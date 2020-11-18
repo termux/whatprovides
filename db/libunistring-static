@@ -1,0 +1,9 @@
+libunistring-static: /.
+libunistring-static: /data
+libunistring-static: /data/data
+libunistring-static: /data/data/com.termux
+libunistring-static: /data/data/com.termux/files
+libunistring-static: /data/data/com.termux/files/usr
+libunistring-static: /data/data/com.termux/files/usr/lib
+libunistring-static: /data/data/com.termux/files/usr/lib/libunistring.a
+libunistring-static: /data/data/com.termux/files/usr/lib/libunistring.la

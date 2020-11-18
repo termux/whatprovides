@@ -1,0 +1,12 @@
+mime-support: /.
+mime-support: /data
+mime-support: /data/data
+mime-support: /data/data/com.termux
+mime-support: /data/data/com.termux/files
+mime-support: /data/data/com.termux/files/usr
+mime-support: /data/data/com.termux/files/usr/etc
+mime-support: /data/data/com.termux/files/usr/etc/mime.types
+mime-support: /data/data/com.termux/files/usr/share
+mime-support: /data/data/com.termux/files/usr/share/doc
+mime-support: /data/data/com.termux/files/usr/share/doc/mime-support
+mime-support: /data/data/com.termux/files/usr/share/doc/mime-support/LICENSE

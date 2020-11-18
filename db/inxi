@@ -1,0 +1,15 @@
+inxi: /.
+inxi: /data
+inxi: /data/data
+inxi: /data/data/com.termux
+inxi: /data/data/com.termux/files
+inxi: /data/data/com.termux/files/usr
+inxi: /data/data/com.termux/files/usr/bin
+inxi: /data/data/com.termux/files/usr/bin/inxi
+inxi: /data/data/com.termux/files/usr/share
+inxi: /data/data/com.termux/files/usr/share/man
+inxi: /data/data/com.termux/files/usr/share/man/man1
+inxi: /data/data/com.termux/files/usr/share/man/man1/inxi.1.gz
+inxi: /data/data/com.termux/files/usr/share/doc
+inxi: /data/data/com.termux/files/usr/share/doc/inxi
+inxi: /data/data/com.termux/files/usr/share/doc/inxi/LICENSE

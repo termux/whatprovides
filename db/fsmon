@@ -1,0 +1,16 @@
+fsmon: /.
+fsmon: /data
+fsmon: /data/data
+fsmon: /data/data/com.termux
+fsmon: /data/data/com.termux/files
+fsmon: /data/data/com.termux/files/usr
+fsmon: /data/data/com.termux/files/usr/bin
+fsmon: /data/data/com.termux/files/usr/bin/fsmon
+fsmon: /data/data/com.termux/files/usr/share
+fsmon: /data/data/com.termux/files/usr/share/doc
+fsmon: /data/data/com.termux/files/usr/share/doc/fsmon
+fsmon: /data/data/com.termux/files/usr/share/doc/fsmon/LICENSE.1
+fsmon: /data/data/com.termux/files/usr/share/doc/fsmon/LICENSE
+fsmon: /data/data/com.termux/files/usr/share/man
+fsmon: /data/data/com.termux/files/usr/share/man/man1
+fsmon: /data/data/com.termux/files/usr/share/man/man1/fsmon.1.gz

@@ -1,0 +1,15 @@
+screenfetch: /.
+screenfetch: /data
+screenfetch: /data/data
+screenfetch: /data/data/com.termux
+screenfetch: /data/data/com.termux/files
+screenfetch: /data/data/com.termux/files/usr
+screenfetch: /data/data/com.termux/files/usr/share
+screenfetch: /data/data/com.termux/files/usr/share/man
+screenfetch: /data/data/com.termux/files/usr/share/man/man1
+screenfetch: /data/data/com.termux/files/usr/share/man/man1/screenfetch.1.gz
+screenfetch: /data/data/com.termux/files/usr/share/doc
+screenfetch: /data/data/com.termux/files/usr/share/doc/screenfetch
+screenfetch: /data/data/com.termux/files/usr/bin
+screenfetch: /data/data/com.termux/files/usr/bin/screenfetch
+screenfetch: /data/data/com.termux/files/usr/share/doc/screenfetch/LICENSE

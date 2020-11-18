@@ -1,0 +1,15 @@
+lzip: /.
+lzip: /data
+lzip: /data/data
+lzip: /data/data/com.termux
+lzip: /data/data/com.termux/files
+lzip: /data/data/com.termux/files/usr
+lzip: /data/data/com.termux/files/usr/bin
+lzip: /data/data/com.termux/files/usr/bin/lzip
+lzip: /data/data/com.termux/files/usr/share
+lzip: /data/data/com.termux/files/usr/share/doc
+lzip: /data/data/com.termux/files/usr/share/doc/lzip
+lzip: /data/data/com.termux/files/usr/share/man
+lzip: /data/data/com.termux/files/usr/share/man/man1
+lzip: /data/data/com.termux/files/usr/share/man/man1/lzip.1.gz
+lzip: /data/data/com.termux/files/usr/share/doc/lzip/LICENSE

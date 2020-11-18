@@ -1,0 +1,12 @@
+antibody: /.
+antibody: /data
+antibody: /data/data
+antibody: /data/data/com.termux
+antibody: /data/data/com.termux/files
+antibody: /data/data/com.termux/files/usr
+antibody: /data/data/com.termux/files/usr/share
+antibody: /data/data/com.termux/files/usr/share/doc
+antibody: /data/data/com.termux/files/usr/share/doc/antibody
+antibody: /data/data/com.termux/files/usr/share/doc/antibody/LICENSE
+antibody: /data/data/com.termux/files/usr/bin
+antibody: /data/data/com.termux/files/usr/bin/antibody

@@ -1,0 +1,9 @@
+ta-lib-static: /.
+ta-lib-static: /data
+ta-lib-static: /data/data
+ta-lib-static: /data/data/com.termux
+ta-lib-static: /data/data/com.termux/files
+ta-lib-static: /data/data/com.termux/files/usr
+ta-lib-static: /data/data/com.termux/files/usr/lib
+ta-lib-static: /data/data/com.termux/files/usr/lib/libta_lib.a
+ta-lib-static: /data/data/com.termux/files/usr/lib/libta_lib.la

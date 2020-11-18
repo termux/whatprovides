@@ -1,0 +1,8 @@
+qemu-user-riscv64: /.
+qemu-user-riscv64: /data
+qemu-user-riscv64: /data/data
+qemu-user-riscv64: /data/data/com.termux
+qemu-user-riscv64: /data/data/com.termux/files
+qemu-user-riscv64: /data/data/com.termux/files/usr
+qemu-user-riscv64: /data/data/com.termux/files/usr/bin
+qemu-user-riscv64: /data/data/com.termux/files/usr/bin/qemu-riscv64

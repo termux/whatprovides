@@ -1,0 +1,12 @@
+unrar: /.
+unrar: /data
+unrar: /data/data
+unrar: /data/data/com.termux
+unrar: /data/data/com.termux/files
+unrar: /data/data/com.termux/files/usr
+unrar: /data/data/com.termux/files/usr/bin
+unrar: /data/data/com.termux/files/usr/bin/unrar
+unrar: /data/data/com.termux/files/usr/share
+unrar: /data/data/com.termux/files/usr/share/doc
+unrar: /data/data/com.termux/files/usr/share/doc/unrar
+unrar: /data/data/com.termux/files/usr/share/doc/unrar/license.txt

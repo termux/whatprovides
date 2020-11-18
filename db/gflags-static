@@ -1,0 +1,9 @@
+gflags-static: /.
+gflags-static: /data
+gflags-static: /data/data
+gflags-static: /data/data/com.termux
+gflags-static: /data/data/com.termux/files
+gflags-static: /data/data/com.termux/files/usr
+gflags-static: /data/data/com.termux/files/usr/lib
+gflags-static: /data/data/com.termux/files/usr/lib/libgflags.a
+gflags-static: /data/data/com.termux/files/usr/lib/libgflags_nothreads.a

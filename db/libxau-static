@@ -1,0 +1,9 @@
+libxau-static: /.
+libxau-static: /data
+libxau-static: /data/data
+libxau-static: /data/data/com.termux
+libxau-static: /data/data/com.termux/files
+libxau-static: /data/data/com.termux/files/usr
+libxau-static: /data/data/com.termux/files/usr/lib
+libxau-static: /data/data/com.termux/files/usr/lib/libXau.la
+libxau-static: /data/data/com.termux/files/usr/lib/libXau.a

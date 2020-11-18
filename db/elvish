@@ -1,0 +1,12 @@
+elvish: /.
+elvish: /data
+elvish: /data/data
+elvish: /data/data/com.termux
+elvish: /data/data/com.termux/files
+elvish: /data/data/com.termux/files/usr
+elvish: /data/data/com.termux/files/usr/share
+elvish: /data/data/com.termux/files/usr/share/doc
+elvish: /data/data/com.termux/files/usr/share/doc/elvish
+elvish: /data/data/com.termux/files/usr/share/doc/elvish/LICENSE
+elvish: /data/data/com.termux/files/usr/bin
+elvish: /data/data/com.termux/files/usr/bin/elvish

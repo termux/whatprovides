@@ -1,0 +1,12 @@
+mp3splt: /.
+mp3splt: /data
+mp3splt: /data/data
+mp3splt: /data/data/com.termux
+mp3splt: /data/data/com.termux/files
+mp3splt: /data/data/com.termux/files/usr
+mp3splt: /data/data/com.termux/files/usr/share
+mp3splt: /data/data/com.termux/files/usr/share/man
+mp3splt: /data/data/com.termux/files/usr/share/man/man1
+mp3splt: /data/data/com.termux/files/usr/share/man/man1/mp3splt.1.gz
+mp3splt: /data/data/com.termux/files/usr/bin
+mp3splt: /data/data/com.termux/files/usr/bin/mp3splt

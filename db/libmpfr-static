@@ -1,0 +1,9 @@
+libmpfr-static: /.
+libmpfr-static: /data
+libmpfr-static: /data/data
+libmpfr-static: /data/data/com.termux
+libmpfr-static: /data/data/com.termux/files
+libmpfr-static: /data/data/com.termux/files/usr
+libmpfr-static: /data/data/com.termux/files/usr/lib
+libmpfr-static: /data/data/com.termux/files/usr/lib/libmpfr.a
+libmpfr-static: /data/data/com.termux/files/usr/lib/libmpfr.la

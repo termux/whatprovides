@@ -1,0 +1,17 @@
+gumbo-parser: /.
+gumbo-parser: /data
+gumbo-parser: /data/data
+gumbo-parser: /data/data/com.termux
+gumbo-parser: /data/data/com.termux/files
+gumbo-parser: /data/data/com.termux/files/usr
+gumbo-parser: /data/data/com.termux/files/usr/include
+gumbo-parser: /data/data/com.termux/files/usr/include/gumbo.h
+gumbo-parser: /data/data/com.termux/files/usr/include/tag_enum.h
+gumbo-parser: /data/data/com.termux/files/usr/lib
+gumbo-parser: /data/data/com.termux/files/usr/lib/pkgconfig
+gumbo-parser: /data/data/com.termux/files/usr/lib/pkgconfig/gumbo.pc
+gumbo-parser: /data/data/com.termux/files/usr/lib/libgumbo.so
+gumbo-parser: /data/data/com.termux/files/usr/share
+gumbo-parser: /data/data/com.termux/files/usr/share/doc
+gumbo-parser: /data/data/com.termux/files/usr/share/doc/gumbo-parser
+gumbo-parser: /data/data/com.termux/files/usr/share/doc/gumbo-parser/LICENSE

@@ -1,0 +1,9 @@
+lhasa-static: /.
+lhasa-static: /data
+lhasa-static: /data/data
+lhasa-static: /data/data/com.termux
+lhasa-static: /data/data/com.termux/files
+lhasa-static: /data/data/com.termux/files/usr
+lhasa-static: /data/data/com.termux/files/usr/lib
+lhasa-static: /data/data/com.termux/files/usr/lib/liblhasa.la
+lhasa-static: /data/data/com.termux/files/usr/lib/liblhasa.a

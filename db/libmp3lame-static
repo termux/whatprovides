@@ -1,0 +1,9 @@
+libmp3lame-static: /.
+libmp3lame-static: /data
+libmp3lame-static: /data/data
+libmp3lame-static: /data/data/com.termux
+libmp3lame-static: /data/data/com.termux/files
+libmp3lame-static: /data/data/com.termux/files/usr
+libmp3lame-static: /data/data/com.termux/files/usr/lib
+libmp3lame-static: /data/data/com.termux/files/usr/lib/libmp3lame.a
+libmp3lame-static: /data/data/com.termux/files/usr/lib/libmp3lame.la

@@ -1,0 +1,13 @@
+okc-agents: /.
+okc-agents: /data
+okc-agents: /data/data
+okc-agents: /data/data/com.termux
+okc-agents: /data/data/com.termux/files
+okc-agents: /data/data/com.termux/files/usr
+okc-agents: /data/data/com.termux/files/usr/share
+okc-agents: /data/data/com.termux/files/usr/share/doc
+okc-agents: /data/data/com.termux/files/usr/share/doc/okc-agents
+okc-agents: /data/data/com.termux/files/usr/share/doc/okc-agents/LICENSE
+okc-agents: /data/data/com.termux/files/usr/bin
+okc-agents: /data/data/com.termux/files/usr/bin/okc-gpg
+okc-agents: /data/data/com.termux/files/usr/bin/okc-ssh-agent

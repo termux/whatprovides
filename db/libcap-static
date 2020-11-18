@@ -1,0 +1,8 @@
+libcap-static: /.
+libcap-static: /data
+libcap-static: /data/data
+libcap-static: /data/data/com.termux
+libcap-static: /data/data/com.termux/files
+libcap-static: /data/data/com.termux/files/usr
+libcap-static: /data/data/com.termux/files/usr/lib
+libcap-static: /data/data/com.termux/files/usr/lib/libcap.a

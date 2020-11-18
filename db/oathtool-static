@@ -1,0 +1,11 @@
+oathtool-static: /.
+oathtool-static: /data
+oathtool-static: /data/data
+oathtool-static: /data/data/com.termux
+oathtool-static: /data/data/com.termux/files
+oathtool-static: /data/data/com.termux/files/usr
+oathtool-static: /data/data/com.termux/files/usr/lib
+oathtool-static: /data/data/com.termux/files/usr/lib/libpskc.a
+oathtool-static: /data/data/com.termux/files/usr/lib/libpskc.la
+oathtool-static: /data/data/com.termux/files/usr/lib/liboath.la
+oathtool-static: /data/data/com.termux/files/usr/lib/liboath.a

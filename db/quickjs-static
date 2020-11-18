@@ -1,0 +1,10 @@
+quickjs-static: /.
+quickjs-static: /data
+quickjs-static: /data/data
+quickjs-static: /data/data/com.termux
+quickjs-static: /data/data/com.termux/files
+quickjs-static: /data/data/com.termux/files/usr
+quickjs-static: /data/data/com.termux/files/usr/lib
+quickjs-static: /data/data/com.termux/files/usr/lib/quickjs
+quickjs-static: /data/data/com.termux/files/usr/lib/quickjs/libquickjs.lto.a
+quickjs-static: /data/data/com.termux/files/usr/lib/quickjs/libquickjs.a

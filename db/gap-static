@@ -1,0 +1,9 @@
+gap-static: /.
+gap-static: /data
+gap-static: /data/data
+gap-static: /data/data/com.termux
+gap-static: /data/data/com.termux/files
+gap-static: /data/data/com.termux/files/usr
+gap-static: /data/data/com.termux/files/usr/lib
+gap-static: /data/data/com.termux/files/usr/lib/libgap.a
+gap-static: /data/data/com.termux/files/usr/lib/libgap.la

@@ -1,0 +1,15 @@
+ccache: /.
+ccache: /data
+ccache: /data/data
+ccache: /data/data/com.termux
+ccache: /data/data/com.termux/files
+ccache: /data/data/com.termux/files/usr
+ccache: /data/data/com.termux/files/usr/bin
+ccache: /data/data/com.termux/files/usr/bin/ccache
+ccache: /data/data/com.termux/files/usr/share
+ccache: /data/data/com.termux/files/usr/share/man
+ccache: /data/data/com.termux/files/usr/share/man/man1
+ccache: /data/data/com.termux/files/usr/share/man/man1/ccache.1.gz
+ccache: /data/data/com.termux/files/usr/share/doc
+ccache: /data/data/com.termux/files/usr/share/doc/ccache
+ccache: /data/data/com.termux/files/usr/share/doc/ccache/LICENSE

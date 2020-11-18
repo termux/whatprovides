@@ -1,0 +1,9 @@
+w3m-img: /.
+w3m-img: /data
+w3m-img: /data/data
+w3m-img: /data/data/com.termux
+w3m-img: /data/data/com.termux/files
+w3m-img: /data/data/com.termux/files/usr
+w3m-img: /data/data/com.termux/files/usr/libexec
+w3m-img: /data/data/com.termux/files/usr/libexec/w3m
+w3m-img: /data/data/com.termux/files/usr/libexec/w3m/w3mimgdisplay

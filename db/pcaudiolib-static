@@ -1,0 +1,9 @@
+pcaudiolib-static: /.
+pcaudiolib-static: /data
+pcaudiolib-static: /data/data
+pcaudiolib-static: /data/data/com.termux
+pcaudiolib-static: /data/data/com.termux/files
+pcaudiolib-static: /data/data/com.termux/files/usr
+pcaudiolib-static: /data/data/com.termux/files/usr/lib
+pcaudiolib-static: /data/data/com.termux/files/usr/lib/libpcaudio.a
+pcaudiolib-static: /data/data/com.termux/files/usr/lib/libpcaudio.la

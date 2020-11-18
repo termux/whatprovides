@@ -1,0 +1,14 @@
+argp: /.
+argp: /data
+argp: /data/data
+argp: /data/data/com.termux
+argp: /data/data/com.termux/files
+argp: /data/data/com.termux/files/usr
+argp: /data/data/com.termux/files/usr/include
+argp: /data/data/com.termux/files/usr/include/argp.h
+argp: /data/data/com.termux/files/usr/lib
+argp: /data/data/com.termux/files/usr/lib/libargp.a
+argp: /data/data/com.termux/files/usr/share
+argp: /data/data/com.termux/files/usr/share/doc
+argp: /data/data/com.termux/files/usr/share/doc/argp
+argp: /data/data/com.termux/files/usr/share/doc/argp/LICENSE

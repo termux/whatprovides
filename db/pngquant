@@ -1,0 +1,15 @@
+pngquant: /.
+pngquant: /data
+pngquant: /data/data
+pngquant: /data/data/com.termux
+pngquant: /data/data/com.termux/files
+pngquant: /data/data/com.termux/files/usr
+pngquant: /data/data/com.termux/files/usr/share
+pngquant: /data/data/com.termux/files/usr/share/man
+pngquant: /data/data/com.termux/files/usr/share/man/man1
+pngquant: /data/data/com.termux/files/usr/share/man/man1/pngquant.1.gz
+pngquant: /data/data/com.termux/files/usr/share/doc
+pngquant: /data/data/com.termux/files/usr/share/doc/pngquant
+pngquant: /data/data/com.termux/files/usr/bin
+pngquant: /data/data/com.termux/files/usr/bin/pngquant
+pngquant: /data/data/com.termux/files/usr/share/doc/pngquant/LICENSE

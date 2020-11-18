@@ -1,0 +1,9 @@
+mupdf-static: /.
+mupdf-static: /data
+mupdf-static: /data/data
+mupdf-static: /data/data/com.termux
+mupdf-static: /data/data/com.termux/files
+mupdf-static: /data/data/com.termux/files/usr
+mupdf-static: /data/data/com.termux/files/usr/lib
+mupdf-static: /data/data/com.termux/files/usr/lib/libmupdf-third.a
+mupdf-static: /data/data/com.termux/files/usr/lib/libmupdf.a

@@ -1,0 +1,16 @@
+global-static: /.
+global-static: /data
+global-static: /data/data
+global-static: /data/data/com.termux
+global-static: /data/data/com.termux/files
+global-static: /data/data/com.termux/files/usr
+global-static: /data/data/com.termux/files/usr/lib
+global-static: /data/data/com.termux/files/usr/lib/gtags
+global-static: /data/data/com.termux/files/usr/lib/gtags/pygments-parser.a
+global-static: /data/data/com.termux/files/usr/lib/gtags/pygments-parser.la
+global-static: /data/data/com.termux/files/usr/lib/gtags/user-custom.la
+global-static: /data/data/com.termux/files/usr/lib/gtags/universal-ctags.la
+global-static: /data/data/com.termux/files/usr/lib/gtags/user-custom.a
+global-static: /data/data/com.termux/files/usr/lib/gtags/exuberant-ctags.a
+global-static: /data/data/com.termux/files/usr/lib/gtags/universal-ctags.a
+global-static: /data/data/com.termux/files/usr/lib/gtags/exuberant-ctags.la

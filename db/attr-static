@@ -1,0 +1,9 @@
+attr-static: /.
+attr-static: /data
+attr-static: /data/data
+attr-static: /data/data/com.termux
+attr-static: /data/data/com.termux/files
+attr-static: /data/data/com.termux/files/usr
+attr-static: /data/data/com.termux/files/usr/lib
+attr-static: /data/data/com.termux/files/usr/lib/libattr.a
+attr-static: /data/data/com.termux/files/usr/lib/libattr.la

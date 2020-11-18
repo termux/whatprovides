@@ -1,0 +1,12 @@
+termimage: /.
+termimage: /data
+termimage: /data/data
+termimage: /data/data/com.termux
+termimage: /data/data/com.termux/files
+termimage: /data/data/com.termux/files/usr
+termimage: /data/data/com.termux/files/usr/bin
+termimage: /data/data/com.termux/files/usr/bin/termimage
+termimage: /data/data/com.termux/files/usr/share
+termimage: /data/data/com.termux/files/usr/share/doc
+termimage: /data/data/com.termux/files/usr/share/doc/termimage
+termimage: /data/data/com.termux/files/usr/share/doc/termimage/LICENSE

@@ -1,0 +1,15 @@
+ttyd: /.
+ttyd: /data
+ttyd: /data/data
+ttyd: /data/data/com.termux
+ttyd: /data/data/com.termux/files
+ttyd: /data/data/com.termux/files/usr
+ttyd: /data/data/com.termux/files/usr/bin
+ttyd: /data/data/com.termux/files/usr/bin/ttyd
+ttyd: /data/data/com.termux/files/usr/share
+ttyd: /data/data/com.termux/files/usr/share/man
+ttyd: /data/data/com.termux/files/usr/share/man/man1
+ttyd: /data/data/com.termux/files/usr/share/man/man1/ttyd.1.gz
+ttyd: /data/data/com.termux/files/usr/share/doc
+ttyd: /data/data/com.termux/files/usr/share/doc/ttyd
+ttyd: /data/data/com.termux/files/usr/share/doc/ttyd/LICENSE

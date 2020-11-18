@@ -1,0 +1,9 @@
+ccnet-static: /.
+ccnet-static: /data
+ccnet-static: /data/data
+ccnet-static: /data/data/com.termux
+ccnet-static: /data/data/com.termux/files
+ccnet-static: /data/data/com.termux/files/usr
+ccnet-static: /data/data/com.termux/files/usr/lib
+ccnet-static: /data/data/com.termux/files/usr/lib/libccnet.la
+ccnet-static: /data/data/com.termux/files/usr/lib/libccnet.a

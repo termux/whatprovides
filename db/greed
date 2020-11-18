@@ -1,0 +1,12 @@
+greed: /.
+greed: /data
+greed: /data/data
+greed: /data/data/com.termux
+greed: /data/data/com.termux/files
+greed: /data/data/com.termux/files/usr
+greed: /data/data/com.termux/files/usr/bin
+greed: /data/data/com.termux/files/usr/bin/greed
+greed: /data/data/com.termux/files/usr/share
+greed: /data/data/com.termux/files/usr/share/man
+greed: /data/data/com.termux/files/usr/share/man/man6
+greed: /data/data/com.termux/files/usr/share/man/man6/greed.6.gz

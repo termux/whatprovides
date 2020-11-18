@@ -1,0 +1,9 @@
+libnfs-static: /.
+libnfs-static: /data
+libnfs-static: /data/data
+libnfs-static: /data/data/com.termux
+libnfs-static: /data/data/com.termux/files
+libnfs-static: /data/data/com.termux/files/usr
+libnfs-static: /data/data/com.termux/files/usr/lib
+libnfs-static: /data/data/com.termux/files/usr/lib/libnfs.la
+libnfs-static: /data/data/com.termux/files/usr/lib/libnfs.a

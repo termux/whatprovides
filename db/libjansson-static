@@ -1,0 +1,9 @@
+libjansson-static: /.
+libjansson-static: /data
+libjansson-static: /data/data
+libjansson-static: /data/data/com.termux
+libjansson-static: /data/data/com.termux/files
+libjansson-static: /data/data/com.termux/files/usr
+libjansson-static: /data/data/com.termux/files/usr/lib
+libjansson-static: /data/data/com.termux/files/usr/lib/libjansson.a
+libjansson-static: /data/data/com.termux/files/usr/lib/libjansson.la

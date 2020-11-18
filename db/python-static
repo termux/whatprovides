@@ -1,0 +1,10 @@
+python-static: /.
+python-static: /data
+python-static: /data/data
+python-static: /data/data/com.termux
+python-static: /data/data/com.termux/files
+python-static: /data/data/com.termux/files/usr
+python-static: /data/data/com.termux/files/usr/lib
+python-static: /data/data/com.termux/files/usr/lib/python3.9
+python-static: /data/data/com.termux/files/usr/lib/python3.9/config-3.9
+python-static: /data/data/com.termux/files/usr/lib/python3.9/config-3.9/libpython3.9.a
