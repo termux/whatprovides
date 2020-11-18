@@ -28,6 +28,7 @@ aapt: /data/data/com.termux/files/usr/lib/libandroid-utils.so               aapt
 aapt: /data/data/com.termux/files/usr/bin/aapt                              aapt: /data/data/com.termux/files/usr/bin/zipalign                          aapt: /data/data/com.termux/files/usr/share/doc/aapt/LICENSE
 
 ```
+[![asciicast](https://asciinema.org/a/373670.png)](https://asciinema.org/a/373670)
 
 * search for files. Have you ever used `dpkg -S filepath`. 
 Here you need to use only `whatprovides filepath`. 
