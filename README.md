@@ -3,6 +3,8 @@ It is a yum(whatprovides) for termux.
 
 * whatprovides can list files of any termux official packages, doesn't matter that package is installed or not, it uses own database to perform task.
 
+* It can be used as reverse search, means provide full path of any file it will give you output of that pkg.
+
 
 ### Installation:
 clone repository and execute install.sh
