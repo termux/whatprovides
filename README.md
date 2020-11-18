@@ -29,6 +29,7 @@ aapt: /data/data/com.termux/files/usr/bin/aapt                              aapt
 
 ```
 [![asciicast](https://asciinema.org/a/373670.png)](https://asciinema.org/a/373670)
+[Asciinema preview ](https://asciinema.org/a/373670)
 
 * search for files. Have you ever used `dpkg -S filepath`. 
 Here you need to use only `whatprovides filepath`. 
