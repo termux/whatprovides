@@ -1,3 +1,3 @@
 .PHONY: install
 install:
-    bash install.sh
+	bash install.sh
