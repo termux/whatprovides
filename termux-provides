@@ -1,6 +1,6 @@
 #!/bin/bash
 SCRIPTNAME=termuxprovides
-TWSRC="/data/data/com.termux/files/home/kcubeterm/termuxexpo/db"
+TWSRC="$PREFIX/opt/termux-provides/db"
 package () {
 	cat "$TWSRC/$@"
 	
