@@ -49,7 +49,7 @@ aapt: /data/data/com.termux/files/usr/bin/aapt
 aapt: /data/data/com.termux/files/usr/bin/zipalign
 aapt: /data/data/com.termux/files/usr/share/doc/aapt/LICENSE
 ```
-[![asciicast](https://raw.githubusercontent.com/termux/whatprovides/static/screenshot.jpg)](https://asciinema.org/a/373670)
+[![asciicast](https://cdn.jsdelivr.net/gh/termux/whatprovides@master/static/screenshot.jpg)](https://asciinema.org/a/373670)
 [Asciinema preview ](https://asciinema.org/a/373670)
 
 * search for files. Have you ever used `dpkg -S filepath`. 
