@@ -40,13 +40,13 @@ aapt: /data/data/com.termux/files/usr/bin/aapt
 aapt: /data/data/com.termux/files/usr/bin/zipalign
 aapt: /data/data/com.termux/files/usr/share/doc/aapt/LICENSE
 ```
-[![asciicast](https://asciinema.org/a/373670.png)](https://asciinema.org/a/373670)
+[![asciicast](https://raw.githubusercontent.com/termux/whatprovides/static/screenshot.jpg)](https://asciinema.org/a/373670)
 [Asciinema preview ](https://asciinema.org/a/373670)
 
 * search for files. Have you ever used `dpkg -S filepath`. 
-Here you need to use only `whatprovides filepath`. 
+Here you need to use like `whatprovides filepath`. 
 You can search for any files which even not exist in your termux.
-it will show you Which package provide that file.
+it will show you which package provide that file.
 ```sh
 $ whatprovides $PREFIX/bin/aapt
 aapt: data/data/com.termux/files/usr/bin/aapt
