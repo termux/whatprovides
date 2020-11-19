@@ -1,40 +1,33 @@
 #!/bin/bash
-SCRIPTNAME=whatprovides
-TWSRC="$PREFIX/opt/whatprovides/db"
-package () {
-	cat "$TWSRC/$@"
-	
-}
+set -e
 
-finder () {
-	abs=`realpath $@`
-	grep -rwh $abs $TWSRC
-}
+SCRIPT_NAME=$(basename "$(realpath "$0")")
+DB_PATH="/data/data/com.termux/files/usr/share/whatprovides/db"
 
 show_usage () {
-	echo "Usage: $SCRIPTNAME [options] filepath"
-	echo "$SCRIPTNAME is a whatprovides of termux."
-	echo " "
-	echo "-p [Package] list files of package."
-	echo "-h show this help"
+	echo
+	echo "Usage: $SCRIPT_NAME [options] path/to/file"
+	echo
+	echo "Find out packages using specific files."
+	echo
+	echo "Options:"
+	echo
+	echo "  -h            Show this help."
+	echo "  -p [package]  List files of package."
+	echo
 }
 
-while getopts :hp:f: option; do 
-	case $option in	
-		p) 
-			pkg=$OPTARG
-			package $pkg
-			;;
-		h) show_usage;;
-		?) show_usage
-			exit ;;
+while getopts :hp:f: option; do
+	case "$option" in
+		p) cat "${DB_PATH}/${OPTARG}"; exit 0;;
+		?|h) show_usage; exit 0;;
+		*) show_usage; exit 1;;
 	esac
 done
 
-if [[ $@ == "" ]]
-then 
+if [ $# -ge 1 ]; then
+	grep -rwh "$(realpath "$1")" "$DB_PATH"
+else
 	show_usage
-elif [[ ! $@ =~ ^\-.+ ]]
-then
-  finder $@
+	exit 1
 fi
