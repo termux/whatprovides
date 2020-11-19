@@ -1,5 +1,5 @@
-# whatprovides.
-It is a yum(whatprovides) for termux.
+# whatprovides
+yum --whatprovides utility for termux.
 
 * whatprovides can list files of any termux official packages, doesn't matter that package is installed or not, it uses own database to perform task.
 
@@ -10,6 +10,15 @@ It is a yum(whatprovides) for termux.
 
 ```
 pkg install whatprovides
+```
+
+### Manual Installation:
+
+```
+pkg install git build-esssential
+git clone https://github.com/termux/whatprovides
+cd whatprovides
+make or make install 
 ```
 
 ### Usage:
