@@ -26,7 +26,7 @@ while getopts :hp:f: option; do
 done
 
 if [ $# -ge 1 ]; then
-	grep -rwh "$(realpath "$1")" "$DB_PATH"
+	grep -rwhP "$(realpath "$1")\$" "$DB_PATH" | sort
 else
 	show_usage
 	exit 1
