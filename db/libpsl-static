@@ -1,9 +1,0 @@
-libpsl-static: /.
-libpsl-static: /data
-libpsl-static: /data/data
-libpsl-static: /data/data/com.termux
-libpsl-static: /data/data/com.termux/files
-libpsl-static: /data/data/com.termux/files/usr
-libpsl-static: /data/data/com.termux/files/usr/lib
-libpsl-static: /data/data/com.termux/files/usr/lib/libpsl.la
-libpsl-static: /data/data/com.termux/files/usr/lib/libpsl.a

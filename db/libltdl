@@ -1,8 +1,0 @@
-libltdl: /.
-libltdl: /data
-libltdl: /data/data
-libltdl: /data/data/com.termux
-libltdl: /data/data/com.termux/files
-libltdl: /data/data/com.termux/files/usr
-libltdl: /data/data/com.termux/files/usr/lib
-libltdl: /data/data/com.termux/files/usr/lib/libltdl.so

@@ -1,9 +1,0 @@
-tesseract-static: /.
-tesseract-static: /data
-tesseract-static: /data/data
-tesseract-static: /data/data/com.termux
-tesseract-static: /data/data/com.termux/files
-tesseract-static: /data/data/com.termux/files/usr
-tesseract-static: /data/data/com.termux/files/usr/lib
-tesseract-static: /data/data/com.termux/files/usr/lib/libtesseract.la
-tesseract-static: /data/data/com.termux/files/usr/lib/libtesseract.a

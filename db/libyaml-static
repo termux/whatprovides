@@ -1,9 +1,0 @@
-libyaml-static: /.
-libyaml-static: /data
-libyaml-static: /data/data
-libyaml-static: /data/data/com.termux
-libyaml-static: /data/data/com.termux/files
-libyaml-static: /data/data/com.termux/files/usr
-libyaml-static: /data/data/com.termux/files/usr/lib
-libyaml-static: /data/data/com.termux/files/usr/lib/libyaml.la
-libyaml-static: /data/data/com.termux/files/usr/lib/libyaml.a

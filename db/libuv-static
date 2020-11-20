@@ -1,9 +1,0 @@
-libuv-static: /.
-libuv-static: /data
-libuv-static: /data/data
-libuv-static: /data/data/com.termux
-libuv-static: /data/data/com.termux/files
-libuv-static: /data/data/com.termux/files/usr
-libuv-static: /data/data/com.termux/files/usr/lib
-libuv-static: /data/data/com.termux/files/usr/lib/libuv.a
-libuv-static: /data/data/com.termux/files/usr/lib/libuv.la

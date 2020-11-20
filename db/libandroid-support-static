@@ -1,8 +1,0 @@
-libandroid-support-static: /.
-libandroid-support-static: /data
-libandroid-support-static: /data/data
-libandroid-support-static: /data/data/com.termux
-libandroid-support-static: /data/data/com.termux/files
-libandroid-support-static: /data/data/com.termux/files/usr
-libandroid-support-static: /data/data/com.termux/files/usr/lib
-libandroid-support-static: /data/data/com.termux/files/usr/lib/libandroid-support.a

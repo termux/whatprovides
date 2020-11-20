@@ -1,9 +1,0 @@
-libmaa-static: /.
-libmaa-static: /data
-libmaa-static: /data/data
-libmaa-static: /data/data/com.termux
-libmaa-static: /data/data/com.termux/files
-libmaa-static: /data/data/com.termux/files/usr
-libmaa-static: /data/data/com.termux/files/usr/lib
-libmaa-static: /data/data/com.termux/files/usr/lib/libmaa.la
-libmaa-static: /data/data/com.termux/files/usr/lib/libmaa.a

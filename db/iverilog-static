@@ -1,9 +1,0 @@
-iverilog-static: /.
-iverilog-static: /data
-iverilog-static: /data/data
-iverilog-static: /data/data/com.termux
-iverilog-static: /data/data/com.termux/files
-iverilog-static: /data/data/com.termux/files/usr
-iverilog-static: /data/data/com.termux/files/usr/lib
-iverilog-static: /data/data/com.termux/files/usr/lib/libvpi.a
-iverilog-static: /data/data/com.termux/files/usr/lib/libveriuser.a

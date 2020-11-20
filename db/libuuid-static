@@ -1,9 +1,0 @@
-libuuid-static: /.
-libuuid-static: /data
-libuuid-static: /data/data
-libuuid-static: /data/data/com.termux
-libuuid-static: /data/data/com.termux/files
-libuuid-static: /data/data/com.termux/files/usr
-libuuid-static: /data/data/com.termux/files/usr/lib
-libuuid-static: /data/data/com.termux/files/usr/lib/libuuid.la
-libuuid-static: /data/data/com.termux/files/usr/lib/libuuid.a

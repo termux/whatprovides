@@ -1,9 +1,0 @@
-fakeroot-static: /.
-fakeroot-static: /data
-fakeroot-static: /data/data
-fakeroot-static: /data/data/com.termux
-fakeroot-static: /data/data/com.termux/files
-fakeroot-static: /data/data/com.termux/files/usr
-fakeroot-static: /data/data/com.termux/files/usr/lib
-fakeroot-static: /data/data/com.termux/files/usr/lib/libfakeroot.la
-fakeroot-static: /data/data/com.termux/files/usr/lib/libfakeroot.a

@@ -1,8 +1,0 @@
-tidy-static: /.
-tidy-static: /data
-tidy-static: /data/data
-tidy-static: /data/data/com.termux
-tidy-static: /data/data/com.termux/files
-tidy-static: /data/data/com.termux/files/usr
-tidy-static: /data/data/com.termux/files/usr/lib
-tidy-static: /data/data/com.termux/files/usr/lib/libtidys.a

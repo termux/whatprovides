@@ -1,9 +1,0 @@
-libnpth-static: /.
-libnpth-static: /data
-libnpth-static: /data/data
-libnpth-static: /data/data/com.termux
-libnpth-static: /data/data/com.termux/files
-libnpth-static: /data/data/com.termux/files/usr
-libnpth-static: /data/data/com.termux/files/usr/lib
-libnpth-static: /data/data/com.termux/files/usr/lib/libnpth.a
-libnpth-static: /data/data/com.termux/files/usr/lib/libnpth.la

@@ -1,8 +1,0 @@
-termux-apt-repo: /.
-termux-apt-repo: /data
-termux-apt-repo: /data/data
-termux-apt-repo: /data/data/com.termux
-termux-apt-repo: /data/data/com.termux/files
-termux-apt-repo: /data/data/com.termux/files/usr
-termux-apt-repo: /data/data/com.termux/files/usr/bin
-termux-apt-repo: /data/data/com.termux/files/usr/bin/termux-apt-repo

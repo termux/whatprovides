@@ -1,9 +1,0 @@
-libice-static: /.
-libice-static: /data
-libice-static: /data/data
-libice-static: /data/data/com.termux
-libice-static: /data/data/com.termux/files
-libice-static: /data/data/com.termux/files/usr
-libice-static: /data/data/com.termux/files/usr/lib
-libice-static: /data/data/com.termux/files/usr/lib/libICE.la
-libice-static: /data/data/com.termux/files/usr/lib/libICE.a

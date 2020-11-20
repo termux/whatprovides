@@ -1,8 +1,0 @@
-stfl-static: /.
-stfl-static: /data
-stfl-static: /data/data
-stfl-static: /data/data/com.termux
-stfl-static: /data/data/com.termux/files
-stfl-static: /data/data/com.termux/files/usr
-stfl-static: /data/data/com.termux/files/usr/lib
-stfl-static: /data/data/com.termux/files/usr/lib/libstfl.a

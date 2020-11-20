@@ -1,9 +1,0 @@
-yara-static: /.
-yara-static: /data
-yara-static: /data/data
-yara-static: /data/data/com.termux
-yara-static: /data/data/com.termux/files
-yara-static: /data/data/com.termux/files/usr
-yara-static: /data/data/com.termux/files/usr/lib
-yara-static: /data/data/com.termux/files/usr/lib/libyara.a
-yara-static: /data/data/com.termux/files/usr/lib/libyara.la

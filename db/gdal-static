@@ -1,9 +1,0 @@
-gdal-static: /.
-gdal-static: /data
-gdal-static: /data/data
-gdal-static: /data/data/com.termux
-gdal-static: /data/data/com.termux/files
-gdal-static: /data/data/com.termux/files/usr
-gdal-static: /data/data/com.termux/files/usr/lib
-gdal-static: /data/data/com.termux/files/usr/lib/libgdal.a
-gdal-static: /data/data/com.termux/files/usr/lib/libgdal.la

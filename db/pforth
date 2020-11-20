@@ -1,8 +1,0 @@
-pforth: /.
-pforth: /data
-pforth: /data/data
-pforth: /data/data/com.termux
-pforth: /data/data/com.termux/files
-pforth: /data/data/com.termux/files/usr
-pforth: /data/data/com.termux/files/usr/bin
-pforth: /data/data/com.termux/files/usr/bin/pforth

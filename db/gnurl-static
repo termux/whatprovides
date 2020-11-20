@@ -1,9 +1,0 @@
-gnurl-static: /.
-gnurl-static: /data
-gnurl-static: /data/data
-gnurl-static: /data/data/com.termux
-gnurl-static: /data/data/com.termux/files
-gnurl-static: /data/data/com.termux/files/usr
-gnurl-static: /data/data/com.termux/files/usr/lib
-gnurl-static: /data/data/com.termux/files/usr/lib/libgnurl.la
-gnurl-static: /data/data/com.termux/files/usr/lib/libgnurl.a

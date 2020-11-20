@@ -1,9 +1,0 @@
-libprotobuf-c-static: /.
-libprotobuf-c-static: /data
-libprotobuf-c-static: /data/data
-libprotobuf-c-static: /data/data/com.termux
-libprotobuf-c-static: /data/data/com.termux/files
-libprotobuf-c-static: /data/data/com.termux/files/usr
-libprotobuf-c-static: /data/data/com.termux/files/usr/lib
-libprotobuf-c-static: /data/data/com.termux/files/usr/lib/libprotobuf-c.a
-libprotobuf-c-static: /data/data/com.termux/files/usr/lib/libprotobuf-c.la

@@ -1,9 +1,0 @@
-ldns-static: /.
-ldns-static: /data
-ldns-static: /data/data
-ldns-static: /data/data/com.termux
-ldns-static: /data/data/com.termux/files
-ldns-static: /data/data/com.termux/files/usr
-ldns-static: /data/data/com.termux/files/usr/lib
-ldns-static: /data/data/com.termux/files/usr/lib/libldns.la
-ldns-static: /data/data/com.termux/files/usr/lib/libldns.a

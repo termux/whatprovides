@@ -1,9 +1,0 @@
-libnet-static: /.
-libnet-static: /data
-libnet-static: /data/data
-libnet-static: /data/data/com.termux
-libnet-static: /data/data/com.termux/files
-libnet-static: /data/data/com.termux/files/usr
-libnet-static: /data/data/com.termux/files/usr/lib
-libnet-static: /data/data/com.termux/files/usr/lib/libnet.a
-libnet-static: /data/data/com.termux/files/usr/lib/libnet.la

@@ -1,9 +1,0 @@
-file-static: /.
-file-static: /data
-file-static: /data/data
-file-static: /data/data/com.termux
-file-static: /data/data/com.termux/files
-file-static: /data/data/com.termux/files/usr
-file-static: /data/data/com.termux/files/usr/lib
-file-static: /data/data/com.termux/files/usr/lib/libmagic.la
-file-static: /data/data/com.termux/files/usr/lib/libmagic.a

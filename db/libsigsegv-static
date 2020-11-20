@@ -1,9 +1,0 @@
-libsigsegv-static: /.
-libsigsegv-static: /data
-libsigsegv-static: /data/data
-libsigsegv-static: /data/data/com.termux
-libsigsegv-static: /data/data/com.termux/files
-libsigsegv-static: /data/data/com.termux/files/usr
-libsigsegv-static: /data/data/com.termux/files/usr/lib
-libsigsegv-static: /data/data/com.termux/files/usr/lib/libsigsegv.a
-libsigsegv-static: /data/data/com.termux/files/usr/lib/libsigsegv.la

@@ -1,8 +1,0 @@
-libandroid-glob-static: /.
-libandroid-glob-static: /data
-libandroid-glob-static: /data/data
-libandroid-glob-static: /data/data/com.termux
-libandroid-glob-static: /data/data/com.termux/files
-libandroid-glob-static: /data/data/com.termux/files/usr
-libandroid-glob-static: /data/data/com.termux/files/usr/lib
-libandroid-glob-static: /data/data/com.termux/files/usr/lib/libandroid-glob.a

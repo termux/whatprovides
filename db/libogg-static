@@ -1,9 +1,0 @@
-libogg-static: /.
-libogg-static: /data
-libogg-static: /data/data
-libogg-static: /data/data/com.termux
-libogg-static: /data/data/com.termux/files
-libogg-static: /data/data/com.termux/files/usr
-libogg-static: /data/data/com.termux/files/usr/lib
-libogg-static: /data/data/com.termux/files/usr/lib/libogg.la
-libogg-static: /data/data/com.termux/files/usr/lib/libogg.a

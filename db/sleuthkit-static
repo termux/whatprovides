@@ -1,9 +1,0 @@
-sleuthkit-static: /.
-sleuthkit-static: /data
-sleuthkit-static: /data/data
-sleuthkit-static: /data/data/com.termux
-sleuthkit-static: /data/data/com.termux/files
-sleuthkit-static: /data/data/com.termux/files/usr
-sleuthkit-static: /data/data/com.termux/files/usr/lib
-sleuthkit-static: /data/data/com.termux/files/usr/lib/libtsk.a
-sleuthkit-static: /data/data/com.termux/files/usr/lib/libtsk.la

@@ -1,8 +1,0 @@
-gpsbabel: /.
-gpsbabel: /data
-gpsbabel: /data/data
-gpsbabel: /data/data/com.termux
-gpsbabel: /data/data/com.termux/files
-gpsbabel: /data/data/com.termux/files/usr
-gpsbabel: /data/data/com.termux/files/usr/bin
-gpsbabel: /data/data/com.termux/files/usr/bin/gpsbabel

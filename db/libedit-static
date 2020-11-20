@@ -1,9 +1,0 @@
-libedit-static: /.
-libedit-static: /data
-libedit-static: /data/data
-libedit-static: /data/data/com.termux
-libedit-static: /data/data/com.termux/files
-libedit-static: /data/data/com.termux/files/usr
-libedit-static: /data/data/com.termux/files/usr/lib
-libedit-static: /data/data/com.termux/files/usr/lib/libedit.a
-libedit-static: /data/data/com.termux/files/usr/lib/libedit.la

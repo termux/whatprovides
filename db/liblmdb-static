@@ -1,8 +1,0 @@
-liblmdb-static: /.
-liblmdb-static: /data
-liblmdb-static: /data/data
-liblmdb-static: /data/data/com.termux
-liblmdb-static: /data/data/com.termux/files
-liblmdb-static: /data/data/com.termux/files/usr
-liblmdb-static: /data/data/com.termux/files/usr/lib
-liblmdb-static: /data/data/com.termux/files/usr/lib/liblmdb.a

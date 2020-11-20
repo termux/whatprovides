@@ -1,9 +1,0 @@
-oniguruma-static: /.
-oniguruma-static: /data
-oniguruma-static: /data/data
-oniguruma-static: /data/data/com.termux
-oniguruma-static: /data/data/com.termux/files
-oniguruma-static: /data/data/com.termux/files/usr
-oniguruma-static: /data/data/com.termux/files/usr/lib
-oniguruma-static: /data/data/com.termux/files/usr/lib/libonig.a
-oniguruma-static: /data/data/com.termux/files/usr/lib/libonig.la

@@ -1,9 +1,0 @@
-libjpeg-turbo-static: /.
-libjpeg-turbo-static: /data
-libjpeg-turbo-static: /data/data
-libjpeg-turbo-static: /data/data/com.termux
-libjpeg-turbo-static: /data/data/com.termux/files
-libjpeg-turbo-static: /data/data/com.termux/files/usr
-libjpeg-turbo-static: /data/data/com.termux/files/usr/lib
-libjpeg-turbo-static: /data/data/com.termux/files/usr/lib/libjpeg.a
-libjpeg-turbo-static: /data/data/com.termux/files/usr/lib/libturbojpeg.a

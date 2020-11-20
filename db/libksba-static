@@ -1,9 +1,0 @@
-libksba-static: /.
-libksba-static: /data
-libksba-static: /data/data
-libksba-static: /data/data/com.termux
-libksba-static: /data/data/com.termux/files
-libksba-static: /data/data/com.termux/files/usr
-libksba-static: /data/data/com.termux/files/usr/lib
-libksba-static: /data/data/com.termux/files/usr/lib/libksba.a
-libksba-static: /data/data/com.termux/files/usr/lib/libksba.la

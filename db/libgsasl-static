@@ -1,9 +1,0 @@
-libgsasl-static: /.
-libgsasl-static: /data
-libgsasl-static: /data/data
-libgsasl-static: /data/data/com.termux
-libgsasl-static: /data/data/com.termux/files
-libgsasl-static: /data/data/com.termux/files/usr
-libgsasl-static: /data/data/com.termux/files/usr/lib
-libgsasl-static: /data/data/com.termux/files/usr/lib/libgsasl.la
-libgsasl-static: /data/data/com.termux/files/usr/lib/libgsasl.a

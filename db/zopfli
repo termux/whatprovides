@@ -1,9 +1,0 @@
-zopfli: /.
-zopfli: /data
-zopfli: /data/data
-zopfli: /data/data/com.termux
-zopfli: /data/data/com.termux/files
-zopfli: /data/data/com.termux/files/usr
-zopfli: /data/data/com.termux/files/usr/bin
-zopfli: /data/data/com.termux/files/usr/bin/zopfli
-zopfli: /data/data/com.termux/files/usr/bin/zopflipng

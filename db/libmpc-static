@@ -1,9 +1,0 @@
-libmpc-static: /.
-libmpc-static: /data
-libmpc-static: /data/data
-libmpc-static: /data/data/com.termux
-libmpc-static: /data/data/com.termux/files
-libmpc-static: /data/data/com.termux/files/usr
-libmpc-static: /data/data/com.termux/files/usr/lib
-libmpc-static: /data/data/com.termux/files/usr/lib/libmpc.a
-libmpc-static: /data/data/com.termux/files/usr/lib/libmpc.la

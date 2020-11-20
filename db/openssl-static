@@ -1,9 +1,0 @@
-openssl-static: /.
-openssl-static: /data
-openssl-static: /data/data
-openssl-static: /data/data/com.termux
-openssl-static: /data/data/com.termux/files
-openssl-static: /data/data/com.termux/files/usr
-openssl-static: /data/data/com.termux/files/usr/lib
-openssl-static: /data/data/com.termux/files/usr/lib/libcrypto.a
-openssl-static: /data/data/com.termux/files/usr/lib/libssl.a

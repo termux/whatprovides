@@ -1,8 +1,0 @@
-libmsgpack-static: /.
-libmsgpack-static: /data
-libmsgpack-static: /data/data
-libmsgpack-static: /data/data/com.termux
-libmsgpack-static: /data/data/com.termux/files
-libmsgpack-static: /data/data/com.termux/files/usr
-libmsgpack-static: /data/data/com.termux/files/usr/lib
-libmsgpack-static: /data/data/com.termux/files/usr/lib/libmsgpackc.a

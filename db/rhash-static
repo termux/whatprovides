@@ -1,8 +1,0 @@
-rhash-static: /.
-rhash-static: /data
-rhash-static: /data/data
-rhash-static: /data/data/com.termux
-rhash-static: /data/data/com.termux/files
-rhash-static: /data/data/com.termux/files/usr
-rhash-static: /data/data/com.termux/files/usr/lib
-rhash-static: /data/data/com.termux/files/usr/lib/librhash.a

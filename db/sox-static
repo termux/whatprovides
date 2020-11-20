@@ -1,9 +1,0 @@
-sox-static: /.
-sox-static: /data
-sox-static: /data/data
-sox-static: /data/data/com.termux
-sox-static: /data/data/com.termux/files
-sox-static: /data/data/com.termux/files/usr
-sox-static: /data/data/com.termux/files/usr/lib
-sox-static: /data/data/com.termux/files/usr/lib/libsox.la
-sox-static: /data/data/com.termux/files/usr/lib/libsox.a

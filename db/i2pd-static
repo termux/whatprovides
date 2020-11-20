@@ -1,9 +1,0 @@
-i2pd-static: /.
-i2pd-static: /data
-i2pd-static: /data/data
-i2pd-static: /data/data/com.termux
-i2pd-static: /data/data/com.termux/files
-i2pd-static: /data/data/com.termux/files/usr
-i2pd-static: /data/data/com.termux/files/usr/lib
-i2pd-static: /data/data/com.termux/files/usr/lib/libi2pd.a
-i2pd-static: /data/data/com.termux/files/usr/lib/libi2pdclient.a

@@ -1,9 +1,0 @@
-inotify-tools-static: /.
-inotify-tools-static: /data
-inotify-tools-static: /data/data
-inotify-tools-static: /data/data/com.termux
-inotify-tools-static: /data/data/com.termux/files
-inotify-tools-static: /data/data/com.termux/files/usr
-inotify-tools-static: /data/data/com.termux/files/usr/lib
-inotify-tools-static: /data/data/com.termux/files/usr/lib/libinotifytools.a
-inotify-tools-static: /data/data/com.termux/files/usr/lib/libinotifytools.la

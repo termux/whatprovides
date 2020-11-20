@@ -1,8 +1,0 @@
-libpcreposix: /.
-libpcreposix: /data
-libpcreposix: /data/data
-libpcreposix: /data/data/com.termux
-libpcreposix: /data/data/com.termux/files
-libpcreposix: /data/data/com.termux/files/usr
-libpcreposix: /data/data/com.termux/files/usr/lib
-libpcreposix: /data/data/com.termux/files/usr/lib/libpcreposix.so

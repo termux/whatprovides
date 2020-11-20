@@ -1,8 +1,0 @@
-freeimage-static: /.
-freeimage-static: /data
-freeimage-static: /data/data
-freeimage-static: /data/data/com.termux
-freeimage-static: /data/data/com.termux/files
-freeimage-static: /data/data/com.termux/files/usr
-freeimage-static: /data/data/com.termux/files/usr/lib
-freeimage-static: /data/data/com.termux/files/usr/lib/libfreeimage.a

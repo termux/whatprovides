@@ -1,9 +1,0 @@
-libconfuse-static: /.
-libconfuse-static: /data
-libconfuse-static: /data/data
-libconfuse-static: /data/data/com.termux
-libconfuse-static: /data/data/com.termux/files
-libconfuse-static: /data/data/com.termux/files/usr
-libconfuse-static: /data/data/com.termux/files/usr/lib
-libconfuse-static: /data/data/com.termux/files/usr/lib/libconfuse.la
-libconfuse-static: /data/data/com.termux/files/usr/lib/libconfuse.a

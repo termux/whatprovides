@@ -1,8 +1,0 @@
-apt-ftparchive: /.
-apt-ftparchive: /data
-apt-ftparchive: /data/data
-apt-ftparchive: /data/data/com.termux
-apt-ftparchive: /data/data/com.termux/files
-apt-ftparchive: /data/data/com.termux/files/usr
-apt-ftparchive: /data/data/com.termux/files/usr/bin
-apt-ftparchive: /data/data/com.termux/files/usr/bin/apt-ftparchive

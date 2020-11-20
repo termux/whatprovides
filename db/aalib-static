@@ -1,9 +1,0 @@
-aalib-static: /.
-aalib-static: /data
-aalib-static: /data/data
-aalib-static: /data/data/com.termux
-aalib-static: /data/data/com.termux/files
-aalib-static: /data/data/com.termux/files/usr
-aalib-static: /data/data/com.termux/files/usr/lib
-aalib-static: /data/data/com.termux/files/usr/lib/libaa.la
-aalib-static: /data/data/com.termux/files/usr/lib/libaa.a

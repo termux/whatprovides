@@ -1,9 +1,0 @@
-libpopt-static: /.
-libpopt-static: /data
-libpopt-static: /data/data
-libpopt-static: /data/data/com.termux
-libpopt-static: /data/data/com.termux/files
-libpopt-static: /data/data/com.termux/files/usr
-libpopt-static: /data/data/com.termux/files/usr/lib
-libpopt-static: /data/data/com.termux/files/usr/lib/libpopt.la
-libpopt-static: /data/data/com.termux/files/usr/lib/libpopt.a

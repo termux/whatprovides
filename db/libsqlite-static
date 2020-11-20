@@ -1,9 +1,0 @@
-libsqlite-static: /.
-libsqlite-static: /data
-libsqlite-static: /data/data
-libsqlite-static: /data/data/com.termux
-libsqlite-static: /data/data/com.termux/files
-libsqlite-static: /data/data/com.termux/files/usr
-libsqlite-static: /data/data/com.termux/files/usr/lib
-libsqlite-static: /data/data/com.termux/files/usr/lib/libsqlite3.la
-libsqlite-static: /data/data/com.termux/files/usr/lib/libsqlite3.a

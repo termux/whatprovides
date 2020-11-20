@@ -1,9 +1,0 @@
-cmark-static: /.
-cmark-static: /data
-cmark-static: /data/data
-cmark-static: /data/data/com.termux
-cmark-static: /data/data/com.termux/files
-cmark-static: /data/data/com.termux/files/usr
-cmark-static: /data/data/com.termux/files/usr/lib
-cmark-static: /data/data/com.termux/files/usr/lib/libcmark-gfm-extensions.a
-cmark-static: /data/data/com.termux/files/usr/lib/libcmark-gfm.a

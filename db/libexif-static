@@ -1,9 +1,0 @@
-libexif-static: /.
-libexif-static: /data
-libexif-static: /data/data
-libexif-static: /data/data/com.termux
-libexif-static: /data/data/com.termux/files
-libexif-static: /data/data/com.termux/files/usr
-libexif-static: /data/data/com.termux/files/usr/lib
-libexif-static: /data/data/com.termux/files/usr/lib/libexif.a
-libexif-static: /data/data/com.termux/files/usr/lib/libexif.la

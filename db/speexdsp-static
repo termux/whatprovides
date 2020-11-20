@@ -1,9 +1,0 @@
-speexdsp-static: /.
-speexdsp-static: /data
-speexdsp-static: /data/data
-speexdsp-static: /data/data/com.termux
-speexdsp-static: /data/data/com.termux/files
-speexdsp-static: /data/data/com.termux/files/usr
-speexdsp-static: /data/data/com.termux/files/usr/lib
-speexdsp-static: /data/data/com.termux/files/usr/lib/libspeexdsp.a
-speexdsp-static: /data/data/com.termux/files/usr/lib/libspeexdsp.la

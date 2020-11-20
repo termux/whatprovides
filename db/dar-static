@@ -1,9 +1,0 @@
-dar-static: /.
-dar-static: /data
-dar-static: /data/data
-dar-static: /data/data/com.termux
-dar-static: /data/data/com.termux/files
-dar-static: /data/data/com.termux/files/usr
-dar-static: /data/data/com.termux/files/usr/lib
-dar-static: /data/data/com.termux/files/usr/lib/libdar32.a
-dar-static: /data/data/com.termux/files/usr/lib/libdar32.la

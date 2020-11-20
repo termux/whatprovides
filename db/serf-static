@@ -1,8 +1,0 @@
-serf-static: /.
-serf-static: /data
-serf-static: /data/data
-serf-static: /data/data/com.termux
-serf-static: /data/data/com.termux/files
-serf-static: /data/data/com.termux/files/usr
-serf-static: /data/data/com.termux/files/usr/lib
-serf-static: /data/data/com.termux/files/usr/lib/libserf-1.a

@@ -1,9 +1,0 @@
-djvulibre-static: /.
-djvulibre-static: /data
-djvulibre-static: /data/data
-djvulibre-static: /data/data/com.termux
-djvulibre-static: /data/data/com.termux/files
-djvulibre-static: /data/data/com.termux/files/usr
-djvulibre-static: /data/data/com.termux/files/usr/lib
-djvulibre-static: /data/data/com.termux/files/usr/lib/libdjvulibre.la
-djvulibre-static: /data/data/com.termux/files/usr/lib/libdjvulibre.a

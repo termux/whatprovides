@@ -1,9 +1,0 @@
-zbar-static: /.
-zbar-static: /data
-zbar-static: /data/data
-zbar-static: /data/data/com.termux
-zbar-static: /data/data/com.termux/files
-zbar-static: /data/data/com.termux/files/usr
-zbar-static: /data/data/com.termux/files/usr/lib
-zbar-static: /data/data/com.termux/files/usr/lib/libzbar.a
-zbar-static: /data/data/com.termux/files/usr/lib/libzbar.la

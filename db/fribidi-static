@@ -1,9 +1,0 @@
-fribidi-static: /.
-fribidi-static: /data
-fribidi-static: /data/data
-fribidi-static: /data/data/com.termux
-fribidi-static: /data/data/com.termux/files
-fribidi-static: /data/data/com.termux/files/usr
-fribidi-static: /data/data/com.termux/files/usr/lib
-fribidi-static: /data/data/com.termux/files/usr/lib/libfribidi.la
-fribidi-static: /data/data/com.termux/files/usr/lib/libfribidi.a

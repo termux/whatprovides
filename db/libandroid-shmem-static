@@ -1,8 +1,0 @@
-libandroid-shmem-static: /.
-libandroid-shmem-static: /data
-libandroid-shmem-static: /data/data
-libandroid-shmem-static: /data/data/com.termux
-libandroid-shmem-static: /data/data/com.termux/files
-libandroid-shmem-static: /data/data/com.termux/files/usr
-libandroid-shmem-static: /data/data/com.termux/files/usr/lib
-libandroid-shmem-static: /data/data/com.termux/files/usr/lib/libandroid-shmem.a

@@ -1,8 +1,0 @@
-libpcap-static: /.
-libpcap-static: /data
-libpcap-static: /data/data
-libpcap-static: /data/data/com.termux
-libpcap-static: /data/data/com.termux/files
-libpcap-static: /data/data/com.termux/files/usr
-libpcap-static: /data/data/com.termux/files/usr/lib
-libpcap-static: /data/data/com.termux/files/usr/lib/libpcap.a

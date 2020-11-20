@@ -1,8 +1,0 @@
-qemu-user-i386: /.
-qemu-user-i386: /data
-qemu-user-i386: /data/data
-qemu-user-i386: /data/data/com.termux
-qemu-user-i386: /data/data/com.termux/files
-qemu-user-i386: /data/data/com.termux/files/usr
-qemu-user-i386: /data/data/com.termux/files/usr/bin
-qemu-user-i386: /data/data/com.termux/files/usr/bin/qemu-i386

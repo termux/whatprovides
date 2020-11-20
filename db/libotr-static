@@ -1,9 +1,0 @@
-libotr-static: /.
-libotr-static: /data
-libotr-static: /data/data
-libotr-static: /data/data/com.termux
-libotr-static: /data/data/com.termux/files
-libotr-static: /data/data/com.termux/files/usr
-libotr-static: /data/data/com.termux/files/usr/lib
-libotr-static: /data/data/com.termux/files/usr/lib/libotr.la
-libotr-static: /data/data/com.termux/files/usr/lib/libotr.a

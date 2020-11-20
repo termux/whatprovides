@@ -1,8 +1,0 @@
-utf8proc-static: /.
-utf8proc-static: /data
-utf8proc-static: /data/data
-utf8proc-static: /data/data/com.termux
-utf8proc-static: /data/data/com.termux/files
-utf8proc-static: /data/data/com.termux/files/usr
-utf8proc-static: /data/data/com.termux/files/usr/lib
-utf8proc-static: /data/data/com.termux/files/usr/lib/libutf8proc.a

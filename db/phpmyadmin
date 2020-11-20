@@ -1,8 +1,0 @@
-phpmyadmin: /data
-phpmyadmin: /data/data
-phpmyadmin: /data/data/com.termux
-phpmyadmin: /data/data/com.termux/files
-phpmyadmin: /data/data/com.termux/files/usr
-phpmyadmin: /data/data/com.termux/files/usr/etc
-phpmyadmin: /data/data/com.termux/files/usr/etc/phpmyadmin
-phpmyadmin: /data/data/com.termux/files/usr/etc/phpmyadmin/config.inc.php

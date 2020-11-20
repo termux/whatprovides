@@ -1,7 +1,0 @@
-mutt: /data
-mutt: /data/data
-mutt: /data/data/com.termux
-mutt: /data/data/com.termux/files
-mutt: /data/data/com.termux/files/usr
-mutt: /data/data/com.termux/files/usr/etc
-mutt: /data/data/com.termux/files/usr/etc/Muttrc

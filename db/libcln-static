@@ -1,9 +1,0 @@
-libcln-static: /.
-libcln-static: /data
-libcln-static: /data/data
-libcln-static: /data/data/com.termux
-libcln-static: /data/data/com.termux/files
-libcln-static: /data/data/com.termux/files/usr
-libcln-static: /data/data/com.termux/files/usr/lib
-libcln-static: /data/data/com.termux/files/usr/lib/libcln.la
-libcln-static: /data/data/com.termux/files/usr/lib/libcln.a

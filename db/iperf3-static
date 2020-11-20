@@ -1,9 +1,0 @@
-iperf3-static: /.
-iperf3-static: /data
-iperf3-static: /data/data
-iperf3-static: /data/data/com.termux
-iperf3-static: /data/data/com.termux/files
-iperf3-static: /data/data/com.termux/files/usr
-iperf3-static: /data/data/com.termux/files/usr/lib
-iperf3-static: /data/data/com.termux/files/usr/lib/libiperf.la
-iperf3-static: /data/data/com.termux/files/usr/lib/libiperf.a

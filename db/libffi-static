@@ -1,9 +1,0 @@
-libffi-static: /.
-libffi-static: /data
-libffi-static: /data/data
-libffi-static: /data/data/com.termux
-libffi-static: /data/data/com.termux/files
-libffi-static: /data/data/com.termux/files/usr
-libffi-static: /data/data/com.termux/files/usr/lib
-libffi-static: /data/data/com.termux/files/usr/lib/libffi.a
-libffi-static: /data/data/com.termux/files/usr/lib/libffi.la

@@ -1,8 +1,0 @@
-mktorrent: /.
-mktorrent: /data
-mktorrent: /data/data
-mktorrent: /data/data/com.termux
-mktorrent: /data/data/com.termux/files
-mktorrent: /data/data/com.termux/files/usr
-mktorrent: /data/data/com.termux/files/usr/bin
-mktorrent: /data/data/com.termux/files/usr/bin/mktorrent

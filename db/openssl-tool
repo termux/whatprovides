@@ -1,9 +1,0 @@
-openssl-tool: /.
-openssl-tool: /data
-openssl-tool: /data/data
-openssl-tool: /data/data/com.termux
-openssl-tool: /data/data/com.termux/files
-openssl-tool: /data/data/com.termux/files/usr
-openssl-tool: /data/data/com.termux/files/usr/bin
-openssl-tool: /data/data/com.termux/files/usr/bin/add-trusted-certificate
-openssl-tool: /data/data/com.termux/files/usr/bin/openssl

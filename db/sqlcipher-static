@@ -1,9 +1,0 @@
-sqlcipher-static: /.
-sqlcipher-static: /data
-sqlcipher-static: /data/data
-sqlcipher-static: /data/data/com.termux
-sqlcipher-static: /data/data/com.termux/files
-sqlcipher-static: /data/data/com.termux/files/usr
-sqlcipher-static: /data/data/com.termux/files/usr/lib
-sqlcipher-static: /data/data/com.termux/files/usr/lib/libsqlcipher.la
-sqlcipher-static: /data/data/com.termux/files/usr/lib/libsqlcipher.a

@@ -1,9 +1,0 @@
-libmicrohttpd-static: /.
-libmicrohttpd-static: /data
-libmicrohttpd-static: /data/data
-libmicrohttpd-static: /data/data/com.termux
-libmicrohttpd-static: /data/data/com.termux/files
-libmicrohttpd-static: /data/data/com.termux/files/usr
-libmicrohttpd-static: /data/data/com.termux/files/usr/lib
-libmicrohttpd-static: /data/data/com.termux/files/usr/lib/libmicrohttpd.a
-libmicrohttpd-static: /data/data/com.termux/files/usr/lib/libmicrohttpd.la

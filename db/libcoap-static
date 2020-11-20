@@ -1,9 +1,0 @@
-libcoap-static: /.
-libcoap-static: /data
-libcoap-static: /data/data
-libcoap-static: /data/data/com.termux
-libcoap-static: /data/data/com.termux/files
-libcoap-static: /data/data/com.termux/files/usr
-libcoap-static: /data/data/com.termux/files/usr/lib
-libcoap-static: /data/data/com.termux/files/usr/lib/libcoap-2-openssl.a
-libcoap-static: /data/data/com.termux/files/usr/lib/libcoap-2-openssl.la

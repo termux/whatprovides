@@ -1,9 +1,0 @@
-libnghttp2-static: /.
-libnghttp2-static: /data
-libnghttp2-static: /data/data
-libnghttp2-static: /data/data/com.termux
-libnghttp2-static: /data/data/com.termux/files
-libnghttp2-static: /data/data/com.termux/files/usr
-libnghttp2-static: /data/data/com.termux/files/usr/lib
-libnghttp2-static: /data/data/com.termux/files/usr/lib/libnghttp2.a
-libnghttp2-static: /data/data/com.termux/files/usr/lib/libnghttp2.la

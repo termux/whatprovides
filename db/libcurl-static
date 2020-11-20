@@ -1,9 +1,0 @@
-libcurl-static: /.
-libcurl-static: /data
-libcurl-static: /data/data
-libcurl-static: /data/data/com.termux
-libcurl-static: /data/data/com.termux/files
-libcurl-static: /data/data/com.termux/files/usr
-libcurl-static: /data/data/com.termux/files/usr/lib
-libcurl-static: /data/data/com.termux/files/usr/lib/libcurl.a
-libcurl-static: /data/data/com.termux/files/usr/lib/libcurl.la

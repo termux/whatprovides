@@ -1,9 +1,0 @@
-libexpat-static: /.
-libexpat-static: /data
-libexpat-static: /data/data
-libexpat-static: /data/data/com.termux
-libexpat-static: /data/data/com.termux/files
-libexpat-static: /data/data/com.termux/files/usr
-libexpat-static: /data/data/com.termux/files/usr/lib
-libexpat-static: /data/data/com.termux/files/usr/lib/libexpat.la
-libexpat-static: /data/data/com.termux/files/usr/lib/libexpat.a

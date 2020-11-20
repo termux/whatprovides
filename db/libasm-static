@@ -1,8 +1,0 @@
-libasm-static: /.
-libasm-static: /data
-libasm-static: /data/data
-libasm-static: /data/data/com.termux
-libasm-static: /data/data/com.termux/files
-libasm-static: /data/data/com.termux/files/usr
-libasm-static: /data/data/com.termux/files/usr/lib
-libasm-static: /data/data/com.termux/files/usr/lib/libasm.a

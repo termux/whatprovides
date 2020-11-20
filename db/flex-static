@@ -1,9 +1,0 @@
-flex-static: /.
-flex-static: /data
-flex-static: /data/data
-flex-static: /data/data/com.termux
-flex-static: /data/data/com.termux/files
-flex-static: /data/data/com.termux/files/usr
-flex-static: /data/data/com.termux/files/usr/lib
-flex-static: /data/data/com.termux/files/usr/lib/libfl.la
-flex-static: /data/data/com.termux/files/usr/lib/libfl.a

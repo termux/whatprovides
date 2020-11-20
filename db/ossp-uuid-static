@@ -1,9 +1,0 @@
-ossp-uuid-static: /.
-ossp-uuid-static: /data
-ossp-uuid-static: /data/data
-ossp-uuid-static: /data/data/com.termux
-ossp-uuid-static: /data/data/com.termux/files
-ossp-uuid-static: /data/data/com.termux/files/usr
-ossp-uuid-static: /data/data/com.termux/files/usr/lib
-ossp-uuid-static: /data/data/com.termux/files/usr/lib/libossp-uuid.la
-ossp-uuid-static: /data/data/com.termux/files/usr/lib/libossp-uuid.a

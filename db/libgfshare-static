@@ -1,9 +1,0 @@
-libgfshare-static: /.
-libgfshare-static: /data
-libgfshare-static: /data/data
-libgfshare-static: /data/data/com.termux
-libgfshare-static: /data/data/com.termux/files
-libgfshare-static: /data/data/com.termux/files/usr
-libgfshare-static: /data/data/com.termux/files/usr/lib
-libgfshare-static: /data/data/com.termux/files/usr/lib/libgfshare.la
-libgfshare-static: /data/data/com.termux/files/usr/lib/libgfshare.a

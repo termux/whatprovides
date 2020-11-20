@@ -1,8 +1,0 @@
-electric-fence-static: /.
-electric-fence-static: /data
-electric-fence-static: /data/data
-electric-fence-static: /data/data/com.termux
-electric-fence-static: /data/data/com.termux/files
-electric-fence-static: /data/data/com.termux/files/usr
-electric-fence-static: /data/data/com.termux/files/usr/lib
-electric-fence-static: /data/data/com.termux/files/usr/lib/libefence.a

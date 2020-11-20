@@ -1,9 +1,0 @@
-freetype-static: /.
-freetype-static: /data
-freetype-static: /data/data
-freetype-static: /data/data/com.termux
-freetype-static: /data/data/com.termux/files
-freetype-static: /data/data/com.termux/files/usr
-freetype-static: /data/data/com.termux/files/usr/lib
-freetype-static: /data/data/com.termux/files/usr/lib/libfreetype.la
-freetype-static: /data/data/com.termux/files/usr/lib/libfreetype.a

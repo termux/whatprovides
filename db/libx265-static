@@ -1,8 +1,0 @@
-libx265-static: /.
-libx265-static: /data
-libx265-static: /data/data
-libx265-static: /data/data/com.termux
-libx265-static: /data/data/com.termux/files
-libx265-static: /data/data/com.termux/files/usr
-libx265-static: /data/data/com.termux/files/usr/lib
-libx265-static: /data/data/com.termux/files/usr/lib/libx265.a

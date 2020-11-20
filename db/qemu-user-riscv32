@@ -1,8 +1,0 @@
-qemu-user-riscv32: /.
-qemu-user-riscv32: /data
-qemu-user-riscv32: /data/data
-qemu-user-riscv32: /data/data/com.termux
-qemu-user-riscv32: /data/data/com.termux/files
-qemu-user-riscv32: /data/data/com.termux/files/usr
-qemu-user-riscv32: /data/data/com.termux/files/usr/bin
-qemu-user-riscv32: /data/data/com.termux/files/usr/bin/qemu-riscv32

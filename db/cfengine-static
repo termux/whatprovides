@@ -1,9 +1,0 @@
-cfengine-static: /.
-cfengine-static: /data
-cfengine-static: /data/data
-cfengine-static: /data/data/com.termux
-cfengine-static: /data/data/com.termux/files
-cfengine-static: /data/data/com.termux/files/usr
-cfengine-static: /data/data/com.termux/files/usr/lib
-cfengine-static: /data/data/com.termux/files/usr/lib/libpromises.la
-cfengine-static: /data/data/com.termux/files/usr/lib/libpromises.a

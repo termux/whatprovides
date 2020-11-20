@@ -1,8 +1,0 @@
-libvpx-static: /.
-libvpx-static: /data
-libvpx-static: /data/data
-libvpx-static: /data/data/com.termux
-libvpx-static: /data/data/com.termux/files
-libvpx-static: /data/data/com.termux/files/usr
-libvpx-static: /data/data/com.termux/files/usr/lib
-libvpx-static: /data/data/com.termux/files/usr/lib/libvpx.a

@@ -1,8 +1,0 @@
-bison-static: /.
-bison-static: /data
-bison-static: /data/data
-bison-static: /data/data/com.termux
-bison-static: /data/data/com.termux/files
-bison-static: /data/data/com.termux/files/usr
-bison-static: /data/data/com.termux/files/usr/lib
-bison-static: /data/data/com.termux/files/usr/lib/liby.a

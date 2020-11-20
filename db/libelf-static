@@ -1,8 +1,0 @@
-libelf-static: /.
-libelf-static: /data
-libelf-static: /data/data
-libelf-static: /data/data/com.termux
-libelf-static: /data/data/com.termux/files
-libelf-static: /data/data/com.termux/files/usr
-libelf-static: /data/data/com.termux/files/usr/lib
-libelf-static: /data/data/com.termux/files/usr/lib/libelf.a

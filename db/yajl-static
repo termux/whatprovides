@@ -1,8 +1,0 @@
-yajl-static: /.
-yajl-static: /data
-yajl-static: /data/data
-yajl-static: /data/data/com.termux
-yajl-static: /data/data/com.termux/files
-yajl-static: /data/data/com.termux/files/usr
-yajl-static: /data/data/com.termux/files/usr/lib
-yajl-static: /data/data/com.termux/files/usr/lib/libyajl_s.a

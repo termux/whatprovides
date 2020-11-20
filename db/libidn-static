@@ -1,9 +1,0 @@
-libidn-static: /.
-libidn-static: /data
-libidn-static: /data/data
-libidn-static: /data/data/com.termux
-libidn-static: /data/data/com.termux/files
-libidn-static: /data/data/com.termux/files/usr
-libidn-static: /data/data/com.termux/files/usr/lib
-libidn-static: /data/data/com.termux/files/usr/lib/libidn.a
-libidn-static: /data/data/com.termux/files/usr/lib/libidn.la

@@ -1,9 +1,0 @@
-qpdf-static: /.
-qpdf-static: /data
-qpdf-static: /data/data
-qpdf-static: /data/data/com.termux
-qpdf-static: /data/data/com.termux/files
-qpdf-static: /data/data/com.termux/files/usr
-qpdf-static: /data/data/com.termux/files/usr/lib
-qpdf-static: /data/data/com.termux/files/usr/lib/libqpdf.la
-qpdf-static: /data/data/com.termux/files/usr/lib/libqpdf.a

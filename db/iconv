@@ -1,8 +1,0 @@
-iconv: /.
-iconv: /data
-iconv: /data/data
-iconv: /data/data/com.termux
-iconv: /data/data/com.termux/files
-iconv: /data/data/com.termux/files/usr
-iconv: /data/data/com.termux/files/usr/bin
-iconv: /data/data/com.termux/files/usr/bin/iconv

@@ -1,9 +1,0 @@
-seafile-client-static: /.
-seafile-client-static: /data
-seafile-client-static: /data/data
-seafile-client-static: /data/data/com.termux
-seafile-client-static: /data/data/com.termux/files
-seafile-client-static: /data/data/com.termux/files/usr
-seafile-client-static: /data/data/com.termux/files/usr/lib
-seafile-client-static: /data/data/com.termux/files/usr/lib/libseafile.la
-seafile-client-static: /data/data/com.termux/files/usr/lib/libseafile.a

@@ -1,9 +1,0 @@
-fwknop-static: /.
-fwknop-static: /data
-fwknop-static: /data/data
-fwknop-static: /data/data/com.termux
-fwknop-static: /data/data/com.termux/files
-fwknop-static: /data/data/com.termux/files/usr
-fwknop-static: /data/data/com.termux/files/usr/lib
-fwknop-static: /data/data/com.termux/files/usr/lib/libfko.la
-fwknop-static: /data/data/com.termux/files/usr/lib/libfko.a

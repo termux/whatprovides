@@ -1,9 +1,0 @@
-libbsd-static: /.
-libbsd-static: /data
-libbsd-static: /data/data
-libbsd-static: /data/data/com.termux
-libbsd-static: /data/data/com.termux/files
-libbsd-static: /data/data/com.termux/files/usr
-libbsd-static: /data/data/com.termux/files/usr/lib
-libbsd-static: /data/data/com.termux/files/usr/lib/libbsd.a
-libbsd-static: /data/data/com.termux/files/usr/lib/libbsd.la

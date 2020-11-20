@@ -1,8 +1,0 @@
-qemu-user-x86_64: /.
-qemu-user-x86_64: /data
-qemu-user-x86_64: /data/data
-qemu-user-x86_64: /data/data/com.termux
-qemu-user-x86_64: /data/data/com.termux/files
-qemu-user-x86_64: /data/data/com.termux/files/usr
-qemu-user-x86_64: /data/data/com.termux/files/usr/bin
-qemu-user-x86_64: /data/data/com.termux/files/usr/bin/qemu-x86_64

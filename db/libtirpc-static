@@ -1,9 +1,0 @@
-libtirpc-static: /.
-libtirpc-static: /data
-libtirpc-static: /data/data
-libtirpc-static: /data/data/com.termux
-libtirpc-static: /data/data/com.termux/files
-libtirpc-static: /data/data/com.termux/files/usr
-libtirpc-static: /data/data/com.termux/files/usr/lib
-libtirpc-static: /data/data/com.termux/files/usr/lib/libtirpc.a
-libtirpc-static: /data/data/com.termux/files/usr/lib/libtirpc.la

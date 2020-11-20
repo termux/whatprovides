@@ -1,9 +1,0 @@
-qalc-static: /.
-qalc-static: /data
-qalc-static: /data/data
-qalc-static: /data/data/com.termux
-qalc-static: /data/data/com.termux/files
-qalc-static: /data/data/com.termux/files/usr
-qalc-static: /data/data/com.termux/files/usr/lib
-qalc-static: /data/data/com.termux/files/usr/lib/libqalculate.la
-qalc-static: /data/data/com.termux/files/usr/lib/libqalculate.a

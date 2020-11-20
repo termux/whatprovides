@@ -1,9 +1,0 @@
-libssh2-static: /.
-libssh2-static: /data
-libssh2-static: /data/data
-libssh2-static: /data/data/com.termux
-libssh2-static: /data/data/com.termux/files
-libssh2-static: /data/data/com.termux/files/usr
-libssh2-static: /data/data/com.termux/files/usr/lib
-libssh2-static: /data/data/com.termux/files/usr/lib/libssh2.la
-libssh2-static: /data/data/com.termux/files/usr/lib/libssh2.a

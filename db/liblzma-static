@@ -1,9 +1,0 @@
-liblzma-static: /.
-liblzma-static: /data
-liblzma-static: /data/data
-liblzma-static: /data/data/com.termux
-liblzma-static: /data/data/com.termux/files
-liblzma-static: /data/data/com.termux/files/usr
-liblzma-static: /data/data/com.termux/files/usr/lib
-liblzma-static: /data/data/com.termux/files/usr/lib/liblzma.a
-liblzma-static: /data/data/com.termux/files/usr/lib/liblzma.la
