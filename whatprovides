@@ -27,7 +27,7 @@ update_database() {
 
 	echo "[*] Downloading the new database..."
 	echo
-	curl --fail --retry 5 --retry-connrefused --retry-delay 5 --location \
+	curl --fail --retry 3 --retry-connrefused --retry-delay 1 --location \
 		--output "${DB_PATH}.gz" "${DB_UPDATES_URL}"
 	echo
 
