@@ -15,10 +15,10 @@ pkg install whatprovides
 ### Manual Installation:
 
 ```
-pkg install git build-esssential
+pkg install git gawk gzip make sqlite
 git clone https://github.com/termux/whatprovides
 cd whatprovides
-make or make install 
+make install
 ```
 
 ### Usage:
