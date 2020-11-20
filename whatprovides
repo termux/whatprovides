@@ -6,66 +6,130 @@ DB_PATH="/data/data/com.termux/files/usr/var/lib/whatprovides/whatprovides.db"
 DB_UPDATES_URL="https://dl.bintray.com/termux/metadata/whatprovides-db/whatprovides.db.gz"
 
 show_usage () {
-	echo
-	echo "Usage: $SCRIPT_NAME [options] path/to/file"
-	echo
-	echo "Find out packages using specific files."
-	echo
-	echo "Options:"
-	echo
-	echo "  -h            Show this help."
-	echo "  -p [package]  List files of package."
-	echo "  -u            Update the database."
-	echo
+	{
+		echo
+		echo "Usage: $SCRIPT_NAME [-u] path/to/file"
+		echo "       $SCRIPT_NAME -p [-u] package"
+		echo
+		echo "Find out packages using specific files."
+		echo
+		echo "Options:"
+		echo
+		echo "  -h   Show this help."
+		echo
+		echo "  -p   Reverse mode. List all files owned by specified"
+		echo "       package."
+		echo
+		echo "  -u   Update the database."
+		echo
+		echo "  -q   Quiet mode. Suppress informational messages."
+		echo
+	} >&2
 }
 
 update_database() {
 	if [ -e "${DB_PATH}.gz" ]; then
-		echo "[*] Cleaning up the remaining temporary files..."
+		if ! ${QUIET}; then
+			echo "[*] Cleaning up the remaining temporary files..." >&2
+		fi
 		rm -f "${DB_PATH}.gz"
 	fi
 
-	echo "[*] Downloading the new database..."
-	echo
-	curl --fail --retry 3 --retry-connrefused --retry-delay 1 --location \
-		--output "${DB_PATH}.gz" "${DB_UPDATES_URL}"
-	echo
+	if ! ${QUIET}; then
+		echo "[*] Downloading the new database..." >&2
+		echo >&2
 
-	echo "[*] Installing..."
+		curl --fail --retry 3 --retry-connrefused --retry-delay 1 --location \
+			--output "${DB_PATH}.gz" "${DB_UPDATES_URL}"
+
+		echo >&2
+		echo "[*] Installing..." >&2
+	else
+		curl --silent --fail --retry 3 --retry-connrefused --retry-delay 1 \
+			--location --output "${DB_PATH}.gz" "${DB_UPDATES_URL}"
+	fi
+
 	rm -f "${DB_PATH}"
 	zcat "${DB_PATH}.gz" > "${DB_PATH}"
 	rm -f "${DB_PATH}.gz"
 
-	echo "[*] Finished."
+	if ! ${QUIET}; then
+		echo "[*] Finished." >&2
+	fi
 }
 
 check_database() {
 	if [ ! -e "${DB_PATH}" ]; then
-		echo "Error: database is not available."
-		echo "Please run '${SCRIPT_NAME} -u' to create it."
+		{
+			echo "Error: database is not available."
+			echo "Please run '${SCRIPT_NAME} -u' to create it."
+		} >&2
 		return 1
 	fi
 }
 
-while getopts :hp:u option; do
-	case "$option" in
-		p)
-			check_database
-			echo "SELECT owned_file FROM 'whatprovides' WHERE package_name == '${OPTARG}' ORDER BY owned_file;" | \
-				sqlite3 "${DB_PATH}" | awk "{ print \"${OPTARG}: \"\$0 }"
-			exit 0
+REVERSE_MODE=false
+DO_UPDATE=false
+QUIET=false
+while (($# > 0)); do
+	case "$1" in
+		-h) show_usage; exit 0;;
+		-p) REVERSE_MODE=true;;
+		-q) QUIET=true;;
+		-u) DO_UPDATE=true;;
+		-*)
+			echo >&2
+			echo "Unknown option '$1'." >&2
+			show_usage
+			exit 1
 			;;
-		u) update_database; exit 0;;
-		h) show_usage; exit 0;;
-		*) show_usage; exit 1;;
+		*)
+			break
+			;;
 	esac
+	shift 1
 done
 
-if [ $# -ge 1 ]; then
-	check_database
-	echo "SELECT package_name FROM 'whatprovides' WHERE owned_file == '${1}' ORDER BY package_name;" | \
-		sqlite3 "${DB_PATH}" | awk "{ print \$0\": ${1}\" }"
+if ${DO_UPDATE}; then
+	update_database
+	[ $# -lt 1 ] && exit 0
 else
-	show_usage
+	check_database
+fi
+
+if [ $# -lt 1 ]; then
+	{
+		echo
+		echo "Error: you have not specified the file or package."
+		echo
+	} >&2
 	exit 1
 fi
+
+if ${REVERSE_MODE}; then
+	if ! grep -qP '^[a-z0-9_+\-]+$' <<< "$1"; then
+		{
+			echo
+			echo "Error: package name '${1}' is not valid."
+			echo
+		} >&2
+		exit 1
+	fi
+
+	echo "SELECT owned_file FROM 'whatprovides' WHERE package_name == '${1}' ORDER BY owned_file;" | \
+		sqlite3 "${DB_PATH}" | awk "{ print \"${1}: \"\$0 }"
+else
+	if [ ! -e "$1" ]; then
+		{
+			echo
+			echo "Error: file '$1' is not found."
+			echo
+		} >&2
+		exit 1
+	fi
+
+	echo "SELECT package_name FROM 'whatprovides' WHERE owned_file == '$(realpath "${1}")' ORDER BY package_name;" | \
+		sqlite3 "${DB_PATH}" | awk "{ print \$0\": $(realpath "${1}")\" }"
+fi
+
+exit 0
