@@ -119,15 +119,6 @@ if ${REVERSE_MODE}; then
 	echo "SELECT owned_file FROM 'whatprovides' WHERE package_name == '${1}' ORDER BY owned_file;" | \
 		sqlite3 "${DB_PATH}" | awk "{ print \"${1}: \"\$0 }"
 else
-	if [ ! -e "$1" ]; then
-		{
-			echo
-			echo "Error: file '$1' is not found."
-			echo
-		} >&2
-		exit 1
-	fi
-
 	echo "SELECT package_name FROM 'whatprovides' WHERE owned_file == '$(realpath "${1}")' ORDER BY package_name;" | \
 		sqlite3 "${DB_PATH}" | awk "{ print \$0\": $(realpath "${1}")\" }"
 fi
