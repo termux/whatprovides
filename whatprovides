@@ -107,7 +107,7 @@ if [ $# -lt 1 ]; then
 fi
 
 if ${REVERSE_MODE}; then
-	if ! grep -qP '^[a-z0-9_+\-]+$' <<< "$1"; then
+	if ! grep -qx '[a-z0-9_+-]\+' <<< "$1"; then
 		{
 			echo
 			echo "Error: package name '${1}' is not valid."
@@ -116,11 +116,22 @@ if ${REVERSE_MODE}; then
 		exit 1
 	fi
 
-	echo "SELECT owned_file FROM 'whatprovides' WHERE package_name == '${1}' ORDER BY owned_file;" | \
-		sqlite3 "${DB_PATH}" | awk "{ print \"${1}: \"\$0 }"
+	sqlite3 "${DB_PATH}" \
+		"SELECT owned_file FROM 'whatprovides' WHERE package_name == '${1}' ORDER BY owned_file" \
+		| awk "{ print \"${1}: \"\$0 }"
 else
-	echo "SELECT package_name FROM 'whatprovides' WHERE owned_file == '$(realpath "${1}")' ORDER BY package_name;" | \
-		sqlite3 "${DB_PATH}" | awk "{ print \$0\": $(realpath "${1}")\" }"
+	FILE="$(realpath "$1")"
+	if ! sqlite3 "${DB_PATH}" \
+		"SELECT package_name FROM 'whatprovides' WHERE owned_file == '$FILE' ORDER BY package_name" \
+		| awk "{ print \$0\": $FILE\" } END {if (NR == 0) exit 1 }"
+	then
+		{
+			echo
+			echo "Error: file '$1' is not found."
+			echo
+		} >&2
+		exit 1
+	fi
 fi
 
 exit 0
