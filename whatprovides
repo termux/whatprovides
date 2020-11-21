@@ -118,12 +118,32 @@ if ${REVERSE_MODE}; then
 
 	sqlite3 "${DB_PATH}" \
 		"SELECT owned_file FROM 'whatprovides' WHERE package_name == '${1}' ORDER BY owned_file" \
-		| awk "{ print \"${1}: \"\$0 }"
+		| awk "NR == 1 { print \"${1}: /.\\n${1}: /data\\n${1}: /data/data\\n${1}: /data/data/com.termux\\n${1}: /data/data/com.termux/files\\n${1}: ${PREFIX}\" } { print \"${1}: ${PREFIX}/\"\$0 }"
 else
-	FILE="$(realpath "$1")"
+	NEWPREFIX=
+	FILE="$(realpath -sm "$1")"
+
+	if [[ "${PREFIX}/" = "${FILE}/"* || "${FILE}" = / ]]; then
+		# FILE is (((great...)grand)parent of) PREFIX, including root
+		if [ "${FILE}" = / ]; then
+			FILE=/.
+		fi
+
+		sqlite3 "${DB_PATH}" \
+			"SELECT DISTINCT package_name FROM 'whatprovides' ORDER BY package_name" \
+			| awk "{ print \$0\": ${FILE}\" }"
+		exit 0
+	fi
+
+	if [[ "${FILE}" = "${PREFIX}/"* ]]; then
+		# FILE is in PREFIX
+		FILE="${FILE##${PREFIX}/}"
+		NEWPREFIX="${PREFIX}/"
+	fi # else FILE is entirely separate from PREFIX (unlikely to be in DB)
+
 	if ! sqlite3 "${DB_PATH}" \
-		"SELECT package_name FROM 'whatprovides' WHERE owned_file == '$FILE' ORDER BY package_name" \
-		| awk "{ print \$0\": $FILE\" } END {if (NR == 0) exit 1 }"
+		"SELECT package_name FROM 'whatprovides' WHERE owned_file == '${FILE//\'/\'\'}' ORDER BY package_name" \
+		| awk "{ print \$0\": ${NEWPREFIX}${FILE}\" } END { if (NR == 0) exit 1 }"
 	then
 		{
 			echo

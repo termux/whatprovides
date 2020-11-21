@@ -7,7 +7,9 @@
 set -e -u
 
 list_files() {
-	dpkg-deb -c "${1}" | grep -o "/data/data/com.termux/.*" | sed -E 's@(.*) ->..*@\1@g'
+	dpkg-deb -c "${1}" | grep -o "/data/data/com\.termux/files/.\+" \
+		| sed -E 's@(.*) ->..*@\1@g;s@/$@@g' \
+		| xargs -rd\\n realpath -sm --relative-base=$TERMUX_PREFIX --
 }
 
 write_sql_script() {
