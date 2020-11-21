@@ -9,7 +9,7 @@ set -e -u
 : "${TERMUX_PREFIX:="/data/data/com.termux/files/usr"}"
 
 list_files() {
-	dpkg-deb -c "${1}" | grep -o "/data/data/com\.termux/files/.\+" \
+	dpkg-deb -c "${1}" | grep -o "${TERMUX_PREFIX//./\\.}/.\+" \
 		| sed -E 's@(.*) ->..*@\1@g;s@/$@@g' \
 		| xargs -rd\\n realpath -sm --relative-base="$TERMUX_PREFIX" --
 }
