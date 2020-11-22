@@ -9,9 +9,15 @@ set -e -u
 : "${TERMUX_PREFIX:="/data/data/com.termux/files/usr"}"
 
 list_files() {
-	dpkg-deb --fsys-tarfile "${1}" | tar -t | cut -b2- \
+	FILES=$(dpkg-deb --fsys-tarfile "${1}" | tar -t | cut -b2- \
 		| xargs -rd\\n realpath -sm --relative-base="$TERMUX_PREFIX" -- \
-		| grep -vEx '[./]|/data(/data(/com\.termux(/files)?)?)?'
+		| grep -vEx '[./]|/data(/data(/com\.termux(/files)?)?)?')
+	SORTKEYS='-k1,1'
+	for ((x=2; x<=$(wc -L <<< "${FILES//[^\/$'\n']/}")+1; x++)); do
+		SORTKEYS="$SORTKEYS -k$x,$x"
+	done
+	sort -t/ $SORTKEYS <<< "$FILES" \
+		| awk 'NR == 1 { p=$0; next } substr($0, 1, length(p) +1 ) != p"/" { print p } { p=$0 } END { print p }'
 }
 
 write_sql_script() {
