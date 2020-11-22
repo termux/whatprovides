@@ -6,11 +6,9 @@
 
 set -e -u
 
-: "${TERMUX_PREFIX:="/data/data/com.termux/files/usr"}"
-
 list_files() {
 	FILES=$(dpkg-deb --fsys-tarfile "${1}" | tar -t | cut -b2- \
-		| xargs -rd\\n realpath -sm --relative-base="$TERMUX_PREFIX" -- \
+		| xargs -rd\\n realpath -sm --relative-base="/data/data/com.termux/files/usr" -- \
 		| grep -vEx '[./]|/data(/data(/com\.termux(/files)?)?)?')
 	SORTKEYS='-k1,1'
 	for ((x=2; x<=$(wc -L <<< "${FILES//[^\/$'\n']/}")+1; x++)); do
