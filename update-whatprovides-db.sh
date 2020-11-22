@@ -11,7 +11,8 @@ list_files() {
 		| xargs -rd\\n realpath -sm --relative-base="/data/data/com.termux/files/usr" -- \
 		| grep -vEx '[./]|/data(/data(/com\.termux(/files)?)?)?')
 	SORTKEYS='-k1,1'
-	for ((x=2; x<=$(wc -L <<< "${FILES//[^\/$'\n']/}")+1; x++)); do
+	MAXKEY=$(awk -F/ 'BEGIN { x=0 } { if (NF > x) x = NF } END { print x }' <<< "${FILES}")
+	for ((x=2; x<=$MAXKEY; x++)); do
 		SORTKEYS="$SORTKEYS -k$x,$x"
 	done
 	sort -t/ $SORTKEYS <<< "$FILES" \
