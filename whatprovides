@@ -62,12 +62,11 @@ update_database() {
 		fi
 		zcat "${DB_PATH}.gz" > "${DB_PATH}"
 		rm -f "${DB_PATH}.gz"
+		if ! ${QUIET}; then
+			echo "[*] Finished." >&2
+		fi
 	elif ! ${QUIET}; then
 		echo "[*] No update done." >&2
-	fi
-
-	if ! ${QUIET}; then
-		echo "[*] Finished." >&2
 	fi
 }
 
