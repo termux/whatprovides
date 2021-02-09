@@ -8,8 +8,8 @@ DB_UPDATES_URL="https://dl.bintray.com/termux/metadata/whatprovides-db/whatprovi
 show_usage () {
 	{
 		echo
-		echo "Usage: $SCRIPT_NAME [-u] path/to/file"
-		echo "       $SCRIPT_NAME -p [-u] package"
+		echo "Usage: $SCRIPT_NAME [-u|-U] path/to/file"
+		echo "       $SCRIPT_NAME -p [-u|-U] package"
 		echo
 		echo "Find out packages using specific files."
 		echo
@@ -21,6 +21,8 @@ show_usage () {
 		echo "       package."
 		echo
 		echo "  -u   Update the database."
+		echo
+		echo "  -U   Redownload the database even if it's not updated."
 		echo
 		echo "  -q   Quiet mode. Suppress informational messages."
 		echo
@@ -35,26 +37,36 @@ update_database() {
 		rm -f "${DB_PATH}.gz"
 	fi
 
+	if ! ${FORCE_UPDATE} && [ -e "${DB_PATH}" ]; then
+		NEWER=(--time-cond "${DB_PATH}")
+	else
+		NEWER=()
+	fi
+
 	if ! ${QUIET}; then
 		echo "[*] Downloading the new database..." >&2
 		echo >&2
 
 		curl --fail --retry 3 --retry-connrefused --retry-delay 1 --location \
-			--output "${DB_PATH}.gz" "${DB_UPDATES_URL}"
+			"${NEWER[@]}" --output "${DB_PATH}.gz" "${DB_UPDATES_URL}"
 
 		echo >&2
-		echo "[*] Installing..." >&2
 	else
 		curl --silent --fail --retry 3 --retry-connrefused --retry-delay 1 \
-			--location --output "${DB_PATH}.gz" "${DB_UPDATES_URL}"
+			--location "${NEWER[@]}" --output "${DB_PATH}.gz" "${DB_UPDATES_URL}"
 	fi
 
-	rm -f "${DB_PATH}"
-	zcat "${DB_PATH}.gz" > "${DB_PATH}"
-	rm -f "${DB_PATH}.gz"
-
-	if ! ${QUIET}; then
-		echo "[*] Finished." >&2
+	if [ -e "${DB_PATH}.gz" ]; then
+		if ! ${QUIET}; then
+			echo "[*] Installing..." >&2
+		fi
+		zcat "${DB_PATH}.gz" > "${DB_PATH}"
+		rm -f "${DB_PATH}.gz"
+		if ! ${QUIET}; then
+			echo "[*] Finished." >&2
+		fi
+	elif ! ${QUIET}; then
+		echo "[*] No update done." >&2
 	fi
 }
 
@@ -70,13 +82,22 @@ check_database() {
 
 REVERSE_MODE=false
 DO_UPDATE=false
+FORCE_UPDATE=false
 QUIET=false
 while (($# > 0)); do
 	case "$1" in
 		-h) show_usage; exit 0;;
 		-p) REVERSE_MODE=true;;
 		-q) QUIET=true;;
-		-u) DO_UPDATE=true;;
+		-U) FORCE_UPDATE=true;& # fall-through
+		-u)
+			if ${DO_UPDATE}; then
+				echo "-u and -U are mutually exclusive." >&2
+				show_usage
+				exit 1
+			fi
+			DO_UPDATE=true
+			;;
 		-*)
 			echo >&2
 			echo "Unknown option '$1'." >&2
