@@ -3,7 +3,7 @@ set -e
 
 SCRIPT_NAME=$(basename "$(realpath "$0")")
 DB_PATH="/data/data/com.termux/files/usr/var/lib/whatprovides/whatprovides.db"
-DB_UPDATES_URL="https://github.com/termux/whatprovides/releases/download/2.2.0/whatprovides.db.gz"
+DB_UPDATES_URL="https://packages.termux.org/whatprovides/whatprovides.db.gz"
 
 show_usage () {
 	{
