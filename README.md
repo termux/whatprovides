@@ -1,3 +1,58 @@
+# Deprecation notice
+
+This project is deprecated in favor of `apt-file` utility. Package `whatprovides` and database file will be removed.
+
+You can install `apt-file` package with next command:
+```
+pkg install apt-file
+```
+
+Depending on Termux version (< 0.118), you may need to fix permission of one file in $PREFIX (known issue):
+```
+chmod +x $PREFIX/lib/apt/apt-helper
+```
+
+Usage example:
+```
+~ $ apt-file update
+~ $ apt-file list termux-tools
+termux-tools: /data/data/com.termux/files/usr/bin/chsh
+termux-tools: /data/data/com.termux/files/usr/bin/cmd
+termux-tools: /data/data/com.termux/files/usr/bin/dalvikvm
+termux-tools: /data/data/com.termux/files/usr/bin/df
+termux-tools: /data/data/com.termux/files/usr/bin/getprop
+termux-tools: /data/data/com.termux/files/usr/bin/ip
+termux-tools: /data/data/com.termux/files/usr/bin/logcat
+termux-tools: /data/data/com.termux/files/usr/bin/login
+termux-tools: /data/data/com.termux/files/usr/bin/mount
+termux-tools: /data/data/com.termux/files/usr/bin/ping
+termux-tools: /data/data/com.termux/files/usr/bin/ping6
+termux-tools: /data/data/com.termux/files/usr/bin/pkg
+termux-tools: /data/data/com.termux/files/usr/bin/pm
+termux-tools: /data/data/com.termux/files/usr/bin/settings
+termux-tools: /data/data/com.termux/files/usr/bin/su
+termux-tools: /data/data/com.termux/files/usr/bin/termux-change-repo
+termux-tools: /data/data/com.termux/files/usr/bin/termux-fix-shebang
+termux-tools: /data/data/com.termux/files/usr/bin/termux-info
+termux-tools: /data/data/com.termux/files/usr/bin/termux-open
+termux-tools: /data/data/com.termux/files/usr/bin/termux-open-url
+termux-tools: /data/data/com.termux/files/usr/bin/termux-reload-settings
+termux-tools: /data/data/com.termux/files/usr/bin/termux-reset
+termux-tools: /data/data/com.termux/files/usr/bin/termux-setup-storage
+termux-tools: /data/data/com.termux/files/usr/bin/termux-wake-lock
+termux-tools: /data/data/com.termux/files/usr/bin/termux-wake-unlock
+termux-tools: /data/data/com.termux/files/usr/bin/top
+termux-tools: /data/data/com.termux/files/usr/bin/umount
+termux-tools: /data/data/com.termux/files/usr/bin/xdg-open
+termux-tools: /data/data/com.termux/files/usr/etc/motd
+termux-tools: /data/data/com.termux/files/usr/etc/profile.d/init-termux-properties.sh
+termux-tools: /data/data/com.termux/files/usr/share/doc/termux-tools/LICENSE
+termux-tools: /data/data/com.termux/files/usr/share/examples/termux/termux.properties
+termux-tools: /data/data/com.termux/files/usr/share/man/man1/termux.1.gz
+```
+
+***
+
 # whatprovides
 yum --whatprovides utility for termux.
 
